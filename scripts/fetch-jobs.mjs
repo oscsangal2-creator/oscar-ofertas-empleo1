@@ -1,8 +1,9 @@
-// Consulta la API real de Adzuna (https://developer.adzuna.com/) y genera docs/ofertas.json
-// Solo ofertas reales devueltas por la API - nada simulado ni inventado.
+// Consulta la API real de Adzuna (https://developer.adzuna.com/) y Jooble (https://jooble.org/api/about)
+// y genera docs/ofertas.json. Solo ofertas reales devueltas por las APIs - nada simulado ni inventado.
 
 const APP_ID = process.env.ADZUNA_APP_ID;
 const APP_KEY = process.env.ADZUNA_APP_KEY;
+const JOOBLE_API_KEY = process.env.JOOBLE_API_KEY;
 const COUNTRY = "es";
 const WHERE = "Madrid";
 const MAX_DAYS_OLD = 10;
@@ -11,6 +12,9 @@ const RESULTS_PER_PAGE = 6;
 if (!APP_ID || !APP_KEY) {
   console.error("Faltan ADZUNA_APP_ID / ADZUNA_APP_KEY como variables de entorno (secrets).");
   process.exit(1);
+}
+if (!JOOBLE_API_KEY) {
+  console.error("Falta JOOBLE_API_KEY como variable de entorno (secret). Se continuará solo con Adzuna.");
 }
 
 // Categorías priorizadas de Oscar (11 búsquedas x 3 ejecuciones/día ≈ 990 llamadas/mes,
@@ -44,12 +48,13 @@ async function buscarCategoria(cat) {
   if (!res.ok) {
     const bodyText = await res.text().catch(() => "");
     console.error(`Adzuna error [${cat.name}]: ${res.status}`);
-    return { ofertas: [], debug: { status: res.status, count: 0, error: bodyText.slice(0, 200) } };
+    return { ofertas: [], debug: { fuente: "Adzuna", status: res.status, count: 0, error: bodyText.slice(0, 200) } };
   }
   const data = await res.json();
   const ofertas = (data.results || []).map((o) => ({
     cat: cat.id,
     catName: cat.name,
+    fuente: "Adzuna",
     title: o.title?.replace(/<[^>]+>/g, "") ?? "",
     company: o.company?.display_name ?? "Empresa no especificada",
     location: o.location?.display_name ?? WHERE,
@@ -59,36 +64,92 @@ async function buscarCategoria(cat) {
     salaryMin: o.salary_min ?? null,
     salaryMax: o.salary_max ?? null,
   }));
-  return { ofertas, debug: { status: res.status, count: data.count ?? null, returned: ofertas.length } };
+  return { ofertas, debug: { fuente: "Adzuna", status: res.status, count: data.count ?? null, returned: ofertas.length } };
+}
+
+async function buscarJoobleCategoria(cat) {
+  if (!JOOBLE_API_KEY) return { ofertas: [], debug: { fuente: "Jooble", skipped: true } };
+
+  const res = await fetch(`https://jooble.org/api/${JOOBLE_API_KEY}`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      keywords: cat.what,
+      location: WHERE,
+      radius: "40",
+      page: "1",
+    }),
+  });
+
+  if (!res.ok) {
+    const bodyText = await res.text().catch(() => "");
+    console.error(`Jooble error [${cat.name}]: ${res.status}`);
+    return { ofertas: [], debug: { fuente: "Jooble", status: res.status, count: 0, error: bodyText.slice(0, 200) } };
+  }
+  const data = await res.json();
+  const jobs = (data.jobs || []).slice(0, RESULTS_PER_PAGE);
+  const ofertas = jobs.map((o) => ({
+    cat: cat.id,
+    catName: cat.name,
+    fuente: "Jooble",
+    title: (o.title ?? "").replace(/<[^>]+>/g, ""),
+    company: o.company || "Empresa no especificada",
+    location: o.location || WHERE,
+    created: o.updated || null,
+    description: (o.snippet ?? "").replace(/<[^>]+>/g, "").slice(0, 220) + "…",
+    url: o.link,
+    salaryMin: null,
+    salaryMax: null,
+  }));
+  return { ofertas, debug: { fuente: "Jooble", status: res.status, count: data.totalCount ?? null, returned: ofertas.length } };
 }
 
 async function main() {
   const todas = [];
   const debugInfo = [];
   for (const cat of categorias) {
+    // Adzuna
     try {
       const { ofertas, debug } = await buscarCategoria(cat);
       todas.push(...ofertas);
       debugInfo.push({ id: cat.id, name: cat.name, what: cat.what, ...debug });
-      // Pequeña pausa para no saturar la API
       await new Promise((r) => setTimeout(r, 300));
     } catch (e) {
-      console.error(`Fallo buscando ${cat.name}:`, e.message);
-      debugInfo.push({ id: cat.id, name: cat.name, what: cat.what, error: e.message });
+      console.error(`Fallo buscando (Adzuna) ${cat.name}:`, e.message);
+      debugInfo.push({ id: cat.id, name: cat.name, what: cat.what, fuente: "Adzuna", error: e.message });
+    }
+
+    // Jooble
+    try {
+      const { ofertas, debug } = await buscarJoobleCategoria(cat);
+      todas.push(...ofertas);
+      debugInfo.push({ id: cat.id, name: cat.name, what: cat.what, ...debug });
+      await new Promise((r) => setTimeout(r, 300));
+    } catch (e) {
+      console.error(`Fallo buscando (Jooble) ${cat.name}:`, e.message);
+      debugInfo.push({ id: cat.id, name: cat.name, what: cat.what, fuente: "Jooble", error: e.message });
     }
   }
 
+  // Deduplicar por URL (algunas ofertas pueden aparecer en ambas fuentes)
+  const vistos = new Set();
+  const todasUnicas = todas.filter((o) => {
+    if (!o.url || vistos.has(o.url)) return false;
+    vistos.add(o.url);
+    return true;
+  });
+
   const salida = {
     actualizado: new Date().toISOString(),
-    totalOfertas: todas.length,
+    totalOfertas: todasUnicas.length,
     categorias: categorias.map((c) => ({ id: c.id, name: c.name })),
-    ofertas: todas,
+    ofertas: todasUnicas,
     debug: debugInfo,
   };
 
   const fs = await import("node:fs/promises");
   await fs.writeFile("docs/ofertas.json", JSON.stringify(salida, null, 2), "utf-8");
-  console.log(`Guardadas ${todas.length} ofertas reales en docs/ofertas.json`);
+  console.log(`Guardadas ${todasUnicas.length} ofertas reales en docs/ofertas.json`);
 }
 
 main();
