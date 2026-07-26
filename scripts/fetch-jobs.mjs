@@ -118,6 +118,7 @@ async function buscarJoobleCategoria(cat) {
   }
   const data = await res.json();
   const jobsCrudos = data.jobs || [];
+  const muestraCruda = jobsCrudos.slice(0, 4).map((o) => ({ title: o.title, location: o.location }));
   const ofertas = jobsCrudos
     .map((o) => ({
       cat: cat.id,
@@ -142,6 +143,7 @@ async function buscarJoobleCategoria(cat) {
       count: data.totalCount ?? null,
       crudos: jobsCrudos.length,
       returned: ofertas.length,
+      muestraCruda,
     },
   };
 }
