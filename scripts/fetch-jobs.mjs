@@ -100,7 +100,7 @@ async function buscarCategoria(cat) {
 async function buscarJoobleCategoria(cat) {
   if (!JOOBLE_API_KEY) return { ofertas: [], debug: { fuente: "Jooble", skipped: true } };
 
-  const res = await fetch(`https://jooble.org/api/${JOOBLE_API_KEY}`, {
+  const res = await fetch(`https://es.jooble.org/api/${JOOBLE_API_KEY}`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
@@ -118,7 +118,6 @@ async function buscarJoobleCategoria(cat) {
   }
   const data = await res.json();
   const jobsCrudos = data.jobs || [];
-  const muestraCruda = jobsCrudos.slice(0, 4).map((o) => ({ title: o.title, location: o.location }));
   const ofertas = jobsCrudos
     .map((o) => ({
       cat: cat.id,
@@ -143,7 +142,6 @@ async function buscarJoobleCategoria(cat) {
       count: data.totalCount ?? null,
       crudos: jobsCrudos.length,
       returned: ofertas.length,
-      muestraCruda,
     },
   };
 }
