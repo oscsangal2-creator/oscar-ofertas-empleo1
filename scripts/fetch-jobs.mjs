@@ -33,7 +33,7 @@ async function buscarCategoria(cat) {
   const url = new URL(`https://api.adzuna.com/v1/api/jobs/${COUNTRY}/search/1`);
   url.searchParams.set("app_id", APP_ID);
   url.searchParams.set("app_key", APP_KEY);
-  url.searchParams.set("what_phrase", cat.what);
+  url.searchParams.set("what", cat.what);
   url.searchParams.set("where", WHERE);
   url.searchParams.set("max_days_old", String(MAX_DAYS_OLD));
   url.searchParams.set("results_per_page", String(RESULTS_PER_PAGE));
