@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ofertas de Empleo — Oscar Sánchez Gallardo</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Segoe UI',Arial,sans-serif;background:#f5f6f7;color:#1a1a1a}
+.header{background:#1A5276;padding:20px 24px;color:#fff}
+.header h1{font-size:20px}
+.header p{font-size:12px;color:#AED6F1;margin-top:4px}
+.statsbar{display:flex;gap:10px;padding:12px 24px;background:#fff;border-bottom:1px solid #e0e0e0;flex-wrap:wrap;align-items:center}
+.stat{font-size:11px;padding:3px 10px;border-radius:20px;background:#EAF2F8;color:#1A5276;border:1px solid #AED6F1}
+.filters{display:flex;gap:6px;padding:10px 24px;background:#fff;border-bottom:1px solid #e0e0e0;flex-wrap:wrap}
+.fchip{font-size:11px;padding:4px 12px;border-radius:20px;border:1px solid #ccc;cursor:pointer;color:#555;background:#f5f6f7}
+.fchip.active{background:#1A5276;color:#fff;border-color:#1A5276}
+.wrap{max-width:900px;margin:0 auto;padding:16px 20px}
+.card{background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:14px 16px;margin-bottom:10px}
+.card-co{font-size:11px;font-weight:700;color:#1A5276;text-transform:uppercase}
+.card-title{font-size:14px;font-weight:600;margin:2px 0 6px}
+.card-meta{font-size:11px;color:#888;display:flex;gap:12px;flex-wrap:wrap;margin-bottom:8px}
+.card-desc{font-size:12px;color:#444;line-height:1.5;margin-bottom:10px}
+.btn{font-size:12px;padding:6px 14px;border-radius:5px;background:#1A5276;color:#fff;border:none;text-decoration:none;display:inline-block}
+.cat-badge{font-size:10px;background:#EAF2F8;color:#1A5276;padding:2px 8px;border-radius:10px}
+.empty{text-align:center;padding:60px 20px;color:#aaa}
+.loading{text-align:center;padding:60px 20px;color:#999}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>💼 Ofertas de Empleo · Oscar Sánchez Gallardo</h1>
+  <p id="subheader">Solo ofertas reales, vía API de Adzuna · Actualizado automáticamente 3 veces al día</p>
+</div>
+
+<div class="statsbar" id="statsbar"></div>
+<div class="filters" id="filters"></div>
+<div class="wrap" id="wrap"><div class="loading">Cargando ofertas…</div></div>
+
+<script>
+let data = null;
+let categoriaActiva = 'all';
+
+async function cargar(){
+  try{
+    const res = await fetch('ofertas.json?t=' + Date.now()); // evita caché del navegador
+    data = await res.json();
+    render();
+  }catch(e){
+    document.getElementById('wrap').innerHTML = '<div class="empty">No se ha podido cargar ofertas.json todavía. Si acabas de crear el repositorio, espera a la primera ejecución del robot (o lánzalo manualmente desde la pestaña Actions → Actualizar ofertas de empleo → Run workflow).</div>';
+  }
+}
+
+function render(){
+  const fecha = new Date(data.actualizado);
+  document.getElementById('subheader').textContent =
+    `Solo ofertas reales, vía API de Adzuna · Última actualización: ${fecha.toLocaleString('es-ES')}`;
+
+  document.getElementById('statsbar').innerHTML = `
+    <span class="stat">📋 ${data.totalOfertas} ofertas reales encontradas</span>
+    <span class="stat">🔄 Se refresca solo 3 veces al día</span>
+    <span class="stat">📍 Madrid</span>`;
+
+  const filters = document.getElementById('filters');
+  filters.innerHTML = '';
+  const chipAll = document.createElement('span');
+  chipAll.className = 'fchip active';
+  chipAll.textContent = 'Todas';
+  chipAll.onclick = () => { categoriaActiva = 'all'; renderChips(); renderCards(); };
+  filters.appendChild(chipAll);
+  data.categorias.forEach(c => {
+    const chip = document.createElement('span');
+    chip.className = 'fchip';
+    chip.dataset.cat = c.id;
+    chip.textContent = c.name;
+    chip.onclick = () => { categoriaActiva = c.id; renderChips(); renderCards(); };
+    filters.appendChild(chip);
+  });
+
+  renderCards();
+}
+
+function renderChips(){
+  document.querySelectorAll('.fchip').forEach(chip => {
+    const isAll = chip.textContent === 'Todas';
+    chip.classList.toggle('active', (isAll && categoriaActiva==='all') || (!isAll && Number(chip.dataset.cat)===categoriaActiva));
+  });
+}
+
+function renderCards(){
+  const wrap = document.getElementById('wrap');
+  let ofertas = data.ofertas;
+  if(categoriaActiva !== 'all') ofertas = ofertas.filter(o => o.cat === categoriaActiva);
+
+  if(!ofertas.length){
+    wrap.innerHTML = '<div class="empty">No hay ofertas reales disponibles ahora mismo para este filtro. El robot volverá a buscar en la próxima ejecución programada.</div>';
+    return;
+  }
+
+  wrap.innerHTML = ofertas.map(o => `
+    <div class="card">
+      <div class="card-co">${o.company}</div>
+      <div class="card-title">${o.title} <span class="cat-badge">${o.catName}</span></div>
+      <div class="card-meta">
+        <span>📍 ${o.location}</span>
+        ${o.created ? `<span>🕐 ${new Date(o.created).toLocaleDateString('es-ES')}</span>` : ''}
+        ${o.salaryMin ? `<span>💶 ${Math.round(o.salaryMin).toLocaleString('es-ES')}${o.salaryMax ? ' - ' + Math.round(o.salaryMax).toLocaleString('es-ES') : ''} €</span>` : ''}
+      </div>
+      <div class="card-desc">${o.description}</div>
+      <a href="${o.url}" target="_blank" class="btn">Ver oferta real →</a>
+    </div>
+  `).join('');
+}
+
+cargar();
+</script>
+</body>
+</html>
