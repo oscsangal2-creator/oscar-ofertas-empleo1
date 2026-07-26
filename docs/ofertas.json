@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-26T13:09:15.508Z",
+  "actualizado": "2026-07-26T13:12:04.705Z",
   "totalOfertas": 6,
   "categorias": [
     {
@@ -119,6 +119,96 @@
       "url": "https://www.adzuna.es/details/5804110926?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
+    }
+  ],
+  "debug": [
+    {
+      "id": 1,
+      "name": "Demand Planning Manager",
+      "what": "demand planning",
+      "status": 200,
+      "count": 10,
+      "returned": 6
+    },
+    {
+      "id": 2,
+      "name": "Supply Chain Manager",
+      "what": "supply chain manager",
+      "status": 200,
+      "count": 0,
+      "returned": 0
+    },
+    {
+      "id": 3,
+      "name": "Responsable de Logística",
+      "what": "responsable logistica",
+      "status": 200,
+      "count": 0,
+      "returned": 0
+    },
+    {
+      "id": 5,
+      "name": "Supply Chain Coordinator",
+      "what": "supply chain coordinator",
+      "status": 200,
+      "count": 0,
+      "returned": 0
+    },
+    {
+      "id": 7,
+      "name": "Responsable de Compras",
+      "what": "responsable compras",
+      "status": 200,
+      "count": 0,
+      "returned": 0
+    },
+    {
+      "id": 14,
+      "name": "Inventory Planning Specialist",
+      "what": "inventory planner",
+      "status": 200,
+      "count": 0,
+      "returned": 0
+    },
+    {
+      "id": 20,
+      "name": "Data Analyst Supply Chain",
+      "what": "data analyst supply chain",
+      "status": 200,
+      "count": 0,
+      "returned": 0
+    },
+    {
+      "id": 21,
+      "name": "Demand Planner",
+      "what": "demand planner",
+      "status": 200,
+      "count": 0,
+      "returned": 0
+    },
+    {
+      "id": 22,
+      "name": "Planificador de Demanda",
+      "what": "planificador de demanda",
+      "status": 200,
+      "count": 0,
+      "returned": 0
+    },
+    {
+      "id": 23,
+      "name": "Supply Chain Specialist",
+      "what": "supply chain specialist",
+      "status": 200,
+      "count": 0,
+      "returned": 0
+    },
+    {
+      "id": 24,
+      "name": "Especialista Supply Chain",
+      "what": "especialista supply chain",
+      "status": 200,
+      "count": 0,
+      "returned": 0
     }
   ]
 }
