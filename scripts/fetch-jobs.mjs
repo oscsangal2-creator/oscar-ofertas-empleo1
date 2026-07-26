@@ -13,25 +13,27 @@ if (!APP_ID || !APP_KEY) {
   process.exit(1);
 }
 
-// Categorías priorizadas de Oscar (subconjunto para no agotar la cuota gratuita ~1000 llamadas/mes)
+// Categorías priorizadas de Oscar (11 búsquedas x 3 ejecuciones/día ≈ 990 llamadas/mes,
+// dentro de la cuota gratuita de Adzuna ~1000/mes)
 const categorias = [
   { id: 1, name: "Demand Planning Manager", what: "demand planning" },
   { id: 2, name: "Supply Chain Manager", what: "supply chain manager" },
   { id: 3, name: "Responsable de Logística", what: "responsable logistica" },
   { id: 5, name: "Supply Chain Coordinator", what: "supply chain coordinator" },
   { id: 7, name: "Responsable de Compras", what: "responsable compras" },
-  { id: 9, name: "Coordinador Operaciones Logísticas", what: "coordinador operaciones logisticas" },
-  { id: 11, name: "Operations Analyst", what: "operations analyst supply chain" },
   { id: 14, name: "Inventory Planning Specialist", what: "inventory planner" },
-  { id: 17, name: "Category Manager Dispositivos", what: "category manager telecomunicaciones" },
   { id: 20, name: "Data Analyst Supply Chain", what: "data analyst supply chain" },
+  { id: 21, name: "Demand Planner", what: "demand planner" },
+  { id: 22, name: "Planificador de Demanda", what: "planificador de demanda" },
+  { id: 23, name: "Supply Chain Specialist", what: "supply chain specialist" },
+  { id: 24, name: "Especialista Supply Chain", what: "especialista supply chain" },
 ];
 
 async function buscarCategoria(cat) {
   const url = new URL(`https://api.adzuna.com/v1/api/jobs/${COUNTRY}/search/1`);
   url.searchParams.set("app_id", APP_ID);
   url.searchParams.set("app_key", APP_KEY);
-  url.searchParams.set("what", cat.what);
+  url.searchParams.set("what_phrase", cat.what);
   url.searchParams.set("where", WHERE);
   url.searchParams.set("max_days_old", String(MAX_DAYS_OLD));
   url.searchParams.set("results_per_page", String(RESULTS_PER_PAGE));
