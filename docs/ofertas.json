@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-26T17:21:37.470Z",
-  "totalOfertas": 48,
+  "actualizado": "2026-07-26T17:32:30.613Z",
+  "totalOfertas": 9,
   "categorias": [
     {
       "id": 1,
@@ -52,45 +52,6 @@
       "cat": 1,
       "catName": "Demand Planning Manager",
       "fuente": "Adzuna",
-      "title": "Sales Manager Retail (m/f/d)",
-      "company": "Clarios",
-      "location": "Madrid",
-      "created": "2026-07-25T07:29:52Z",
-      "description": "_At Clarios, we are producing the world's best batteries, essential for the evolving future of transportation. Our advanced, low-voltage batterie technologies and smart solutions power nearly every type of vehicle. 1 in …",
-      "url": "https://www.adzuna.es/details/5815002728?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Adzuna",
-      "title": "Business Development Account Manager For E-Commerce - Qualcomm, Flexible On Location Within Europe/R",
-      "company": "Qualcomm",
-      "location": "Madrid",
-      "created": "2026-07-24T23:40:07Z",
-      "description": "Company: Qualcomm Europe, Inc. Italy Branch Office Job Area: Sales, Business Development & Marketing Group, Sales, Business Development & Marketing Group > Sales Operations General Summary: Arduino is now part of the Qua…",
-      "url": "https://www.adzuna.es/details/5814374817?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Adzuna",
-      "title": "Business Development Account Manager For E-Commerce - Qualcomm, Flexible On Location Within Europe/R",
-      "company": "Qualcomm",
-      "location": "Madrid",
-      "created": "2026-07-24T23:39:54Z",
-      "description": "Company: Qualcomm Europe, Inc. Italy Branch OfficeJob Area: Sales, Business Development & Marketing Group, Sales, Business Development & Marketing Group >Sales OperationsGeneralSummary:Arduino is now part of the Qualcomm…",
-      "url": "https://www.adzuna.es/details/5814372851?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Adzuna",
       "title": "Supply Chain Planner - €2.300 - €2.830 A Month",
       "company": "Duynie Renewables",
       "location": "Madrid",
@@ -104,103 +65,12 @@
       "cat": 1,
       "catName": "Demand Planning Manager",
       "fuente": "Adzuna",
-      "title": "Sr Director, Emea South Coo",
-      "company": "ServiceNo",
-      "location": "Madrid",
-      "created": "2026-07-23T23:39:29Z",
-      "description": "Questa posizione è in ServiceNow Il processo di selezione sarà interamente gestito ServiceNow. Questa opportunità è disponibile in Paris - France, Madrid - Spain, Rome - Italy.  Company Description It all started when en…",
-      "url": "https://www.adzuna.es/details/5812747516?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Adzuna",
       "title": "Partner Operations Manager (Finance & Inventory), Amazon PARP",
       "company": "Amazon",
       "location": "Madrid",
       "created": "2026-07-23T07:30:38Z",
       "description": "Description The Partner Operations Manager (Inventory & Finance) owns hardware sourcing, demand planning, inventory lifecycle management, and financial planning for Amazon Hub PARP across European markets. This role is t…",
       "url": "https://www.adzuna.es/details/5811935351?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Jooble",
-      "title": "Senior Account Executive",
-      "company": "F5 Networks",
-      "location": "Cerrillos, NM",
-      "created": "2026-07-26T00:00:00.0000000",
-      "description": "&nbsp;...internal and partner resources. Success requires strong account planning, commercial discipline, and the ability to navigate complex...&nbsp;&nbsp;...different perspectives, and operate with a global mindset.\nPh…",
-      "url": "https://jooble.org/jdp/5416005607815391325",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Jooble",
-      "title": "Registered Nurse",
-      "company": "Ambercare – an Addus family company",
-      "location": "Cerrillos, NM",
-      "created": "2026-07-24T00:00:00.0000000",
-      "description": "&nbsp;...mileage. \r\n High Need, High Impact:  Hospice nurses are in growing demand nationwide. RN case managers are among the most valued and...&nbsp;&nbsp;...the assessment, determining eligibility, admission processing…",
-      "url": "https://jooble.org/jdp/6884534751813463395",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Jooble",
-      "title": "RN, Registered Nurse - Santa Fe Specialty Pulmonary",
-      "company": "CHRISTUS Health",
-      "location": "Cerrillos, NM",
-      "created": "2026-07-26T07:23:28.1700000",
-      "description": "&nbsp;...an awareness of all relevant aspects of a situation. Provides routine and complex care, with the ability to on long-range goals or plans. Continues to develop the ability to cope with and manage contingencies of…",
-      "url": "https://jooble.org/jdp/8638474344269174111",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Jooble",
-      "title": "RN, Registered Nurse Clinical Educator II - Med Education",
-      "company": "CHRISTUS Health",
-      "location": "Cerrillos, NM",
-      "created": "2026-07-26T07:28:11.5800000",
-      "description": "&nbsp;.... Serves as a subject matter expert and mentor to Clinical Educator I and other staff. Participates in and supports the strategic planning and quality improvement efforts of the education team. \r\n Responsibiliti…",
-      "url": "https://jooble.org/jdp/-6236229535670536456",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Jooble",
-      "title": "Licensed Practical Nurse - Physical Rehab - PRN",
-      "company": "CHRISTUS Health",
-      "location": "Cerrillos, NM",
-      "created": "2026-07-26T11:14:43.8130000",
-      "description": "&nbsp;...of the patient after conference with the RN. \r\n Discusses psychosocial needs of the patient with the RN. \r\n Reviews and revises the plan of care of assigned patients. \r\n Participates in patient care and planning…",
-      "url": "https://jooble.org/jdp/-7906162246372753965",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Jooble",
-      "title": "CN I - Chemotherapy - PRN",
-      "company": "CHRISTUS Health",
-      "location": "Cerrillos, NM",
-      "created": "2026-07-26T07:26:15.8930000",
-      "description": "&nbsp;...patients systematically to identify progress and trends that require intervention. \r\n Develops and implements a measurable individualized plan of care for the patient within the time frame established by Nursing…",
-      "url": "https://jooble.org/jdp/1691181200818980712",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -244,19 +114,6 @@
       "salaryMax": null
     },
     {
-      "cat": 2,
-      "catName": "Supply Chain Manager",
-      "fuente": "Jooble",
-      "title": "Operations Manager",
-      "company": "Foundation Building Materials",
-      "location": "Santo Domingo Pueblo, NM",
-      "created": "2026-07-23T00:00:00.0000000",
-      "description": "&nbsp;...-thinking talent to support our long-term success.\n\nOverview\nPosition Overview\n\nAt Foundation Building Materials (FBM), Operations Manager are key to smooth, efficient branch performance. With a focus on safety,…",
-      "url": "https://jooble.org/jdp/620112111879017854",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
       "cat": 3,
       "catName": "Responsable de Logística",
       "fuente": "Adzuna",
@@ -278,7 +135,7 @@
       "location": "Madrid",
       "created": "2026-07-17T13:38:49Z",
       "description": "Se requiere un responsable de logística para trabajar en Madrid, con jornada completa de 38,5 horas semanales en turnos rotativos de lunes a domingo. El salario es de 25.000 euros brutos al año más 3.000 euros de retribu…",
-      "url": "https://www.adzuna.es/land/ad/5804824110?se=bJhIcBaJ8RGNhYqsHQJq6Q&utm_medium=api&utm_source=3c972d9b&v=C9D080368D053E5BBFC52C0546F11838B2E410B7",
+      "url": "https://www.adzuna.es/land/ad/5804824110?se=4ibq9ReJ8RG3tOkLR0Zx3w&utm_medium=api&utm_source=3c972d9b&v=C9D080368D053E5BBFC52C0546F11838B2E410B7",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -292,370 +149,6 @@
       "created": "2026-07-17T03:12:24Z",
       "description": "¿Te apetece asumir nuevos retos en un mundo que no deja de moverse?. En STEF, líder europeo en transporte y logística alimentaria, alimentamos cada día a millones de personas en Europa. Únete a los 25.000 profesionales q…",
       "url": "https://www.adzuna.es/details/5804113352?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "fuente": "Adzuna",
-      "title": "Preparador/a de pedidos en Zeeman | 16,76 €/h | Alojamiento incluido",
-      "company": "OTTO Work Force",
-      "location": "Madrid",
-      "created": "2026-07-16T11:41:19Z",
-      "description": "¿Buscas trabajo de preparador de pedidos en el extranjero con alojamiento incluido? Zeeman, una de las mayores cadenas europeas de textil, busca mozos de almacén para su centro logístico en Países Bajos por 16,76 €/hora …",
-      "url": "https://www.adzuna.es/details/5802674905?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": 120000,
-      "salaryMax": 180000
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "fuente": "Jooble",
-      "title": "Incident Response Coordinator, Senior",
-      "company": "ASM Research, An Accenture Federal Services Company",
-      "location": "Santa Fe, NM",
-      "created": "2026-07-24T00:00:00.0000000",
-      "description": "Key Responsibilities\n\nWar‑Room Facilitation: Structure/facilitate major incident bridges; maintain restoration focus; assign actions/owners; track progress to closure; enforce decision/messaging cadence.\n\nProcess Executi…",
-      "url": "https://jooble.org/jdp/5893841374982791131",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "fuente": "Jooble",
-      "title": "Senior Incident Response Consultant",
-      "company": "Zurich NA",
-      "location": "Santa Fe, NM",
-      "created": "2026-07-25T00:00:00.0000000",
-      "description": "Senior Incident Response Consultant\n133254\n\nThis role joins SpearTip, the cybersecurity consulting segment within Zurich Resilience Solutions. Blending cutting‑edge technologies, unique skill sets, and proven cyber count…",
-      "url": "https://jooble.org/jdp/8912067678536344593",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "fuente": "Jooble",
-      "title": "Rapid Response Nurse",
-      "company": "SNF Staffing Solutions",
-      "location": "Santa Fe, NM",
-      "created": "2026-07-01T00:00:00.0000000",
-      "description": "&nbsp;...If you are compassionate and love to take care of people, then we invite you to consider us as your new employer. \r\n Your Responsibilities \r\n• Ensures delivery of high-quality, positive clinical outcomes, and re…",
-      "url": "https://jooble.org/jdp/2450815400325391003",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "fuente": "Jooble",
-      "title": "Cyber Defense Operations Lead - 24/7 Incident Response",
-      "company": "MAXIMUS",
-      "location": "Santa Fe, NM",
-      "created": "2026-07-24T00:00:00.0000000",
-      "description": "Maximus is looking for a Cybersecurity Operations Specialist in Santa Fe, New Mexico, responsible for advanced support in cybersecurity operations and incident response. The ideal candidate has over 4 years of experience…",
-      "url": "https://jooble.org/jdp/-5736334650648970735",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "fuente": "Jooble",
-      "title": "Operations Security Advisor/Cybersecurity Incident Response Engineer, Sr",
-      "company": "ASM Research, An Accenture Federal Services Company",
-      "location": "Santa Fe, NM",
-      "created": "2026-07-24T00:00:00.0000000",
-      "description": "Position Overview\nThe Cybersecurity Incident Response Engineer, Senior leads complex incident response efforts for enterprise networks and mission‑critical systems, owning the technical direction and coordination of high…",
-      "url": "https://jooble.org/jdp/2543333302303294730",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "fuente": "Jooble",
-      "title": "Emergency Response Paramedic",
-      "company": "AMR",
-      "location": "Santa Fe, NM",
-      "created": "2026-07-26T00:00:00.0000000",
-      "description": "&nbsp;...assess provide patient care and assess each call to determine best course of action and appropriate protocol; performs related responsibilities as required. \r\n \r\n Responsibilities: \r\n \r\n· Utilize medical equipme…",
-      "url": "https://jooble.org/jdp/-2326179392832763618",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 5,
-      "catName": "Supply Chain Coordinator",
-      "fuente": "Jooble",
-      "title": "Sales Coordinator Remote",
-      "company": "HMG Careers",
-      "location": "Madrid, NM",
-      "created": "2026-06-12T00:00:00.0000000",
-      "description": " Job Description \r\n Job Description  Remote Insurance  Sales  Representative | Flexible Schedule | Commission-Based \r\n This position offers flexible work hours and clear paths for advancement into leadership and manageme…",
-      "url": "https://jooble.org/jdp/8820862119051348917",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 5,
-      "catName": "Supply Chain Coordinator",
-      "fuente": "Jooble",
-      "title": "Leasing Specialist Floater",
-      "company": "NALS Apartment Homes",
-      "location": "Sandia Park, NM",
-      "created": "2026-07-22T00:00:00.0000000",
-      "description": "Description: \r\n NALS Apartment Homes believes that an apartment is not simply a place to live, but a place to call home. We embrace opportunities for personal and professional growth, and encourage our employees to share…",
-      "url": "https://jooble.org/jdp/-7120143927727247918",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 5,
-      "catName": "Supply Chain Coordinator",
-      "fuente": "Jooble",
-      "title": "Academic Support Specialist",
-      "company": "Santo Domingo Tribal Programs",
-      "location": "Santo Domingo Pueblo, NM",
-      "created": "2026-07-24T00:00:00.0000000",
-      "description": "&nbsp;...This role involves assessing student needs, facilitating tutoring, parent workshops, and collaborating with the Library Activities Coordinator to facilitate STEM related enrichment activities and events. \r\n Mini…",
-      "url": "https://jooble.org/jdp/-3585099147008577943",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 5,
-      "catName": "Supply Chain Coordinator",
-      "fuente": "Jooble",
-      "title": "Resident Support Specialist",
-      "company": "Santo Domingo Tribe",
-      "location": "Santo Domingo Pueblo, NM",
-      "created": "2026-07-13T00:00:00.0000000",
-      "description": "&nbsp;...structured Men's Transitional Living Program. This role focuses on supporting individuals in recovery through skill-building, care coordination, and accountability-based programming. This position supports cultu…",
-      "url": "https://jooble.org/jdp/-6434345326092353904",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 5,
-      "catName": "Supply Chain Coordinator",
-      "fuente": "Jooble",
-      "title": "Behavioral Health Community Intervention Specialist",
-      "company": "Santo Domingo Tribe",
-      "location": "Santo Domingo Pueblo, NM",
-      "created": "2026-06-29T00:00:00.0000000",
-      "description": "&nbsp;...services for the Santo Domingo Pueblo community including answering the emergency lines, responding to crisis situations, assisting & coordinating acute hospitalizations, social detox with the on-call KFWC thera…",
-      "url": "https://jooble.org/jdp/-7186285995502161341",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Adzuna",
-      "title": "Dependiente de tienda / Client Advisor - (Madrid)",
-      "company": "UMusic Hotel Madrid 5*",
-      "location": "Madrid",
-      "created": "2026-07-25T10:13:37Z",
-      "description": "Empresas: UMusic Hotel Madrid 5* Client Advisor / Dependiente/a de Tienda Misión del puesto El/La Client Advisor es responsable de ofrecer una experiencia de compra excelente a los clientes de UMusic Shop, proporcionando…",
-      "url": "https://www.adzuna.es/details/5815089953?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Adzuna",
-      "title": "Auxiliar de Datos / Administrativo/a",
-      "company": "Crit Interim España ETT",
-      "location": "Madrid",
-      "created": "2026-07-24T12:27:37Z",
-      "description": "En Grupo Crit estamos en búsqueda de un/a Auxiliar de Datos / Administrativo/a para una importante empresa ubicada en Getafe con ganas de aportar su talento en el área de Compras. Si se te dan bien los números, dominas E…",
-      "url": "https://www.adzuna.es/details/5813707193?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Adzuna",
-      "title": "Administrativos/as",
-      "company": "domestiko.com",
-      "location": "Madrid",
-      "created": "2026-07-16T13:17:33Z",
-      "description": "Se busca personal administrativo con funciones de atención al cliente y recepción. Es imprescindible contar con un certificado de discapacidad igual o superior al 33%. Entre las tareas principales están supervisar el man…",
-      "url": "https://www.adzuna.es/land/ad/5802817301?se=1gBrcRaJ8RG0qa4LCAbGoA&utm_medium=api&utm_source=3c972d9b&v=AAEE12A51CE6EB92C92CA4B5F791C67CD87CB6F3",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 14,
-      "catName": "Inventory Planning Specialist",
-      "fuente": "Jooble",
-      "title": "Coordinator Staffing - Nursing Admin - PRN",
-      "company": "CHRISTUS Health",
-      "location": "Cerrillos, NM",
-      "created": "2026-07-26T07:20:18.4630000",
-      "description": "Description  Summary:  Provides technical support to the operations of patient care services through performance of scheduling, staffing, and report development and special projects related to staffing and scheduling. \r\n…",
-      "url": "https://jooble.org/jdp/-4476856437438535374",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 14,
-      "catName": "Inventory Planning Specialist",
-      "fuente": "Jooble",
-      "title": "Package Handler $15+/ Hour (Sign on Bonus)!",
-      "company": "Amazon",
-      "location": "Santo Domingo Pueblo, NM",
-      "created": "2026-07-26T00:00:00.0000000",
-      "description": " company: Amazon Title: Warehouse PACKAGE Handler Job Requisition Number: RC4878560 Category: Warehouse Job Family: Amazon-US: Pacage Handler Time Type: Part Time Full time. Able To Lift 50 Lbs. Able To Maneuver Packages…",
-      "url": "https://jooble.org/jdp/1994365839688615115",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 14,
-      "catName": "Inventory Planning Specialist",
-      "fuente": "Jooble",
-      "title": "Organ Recovery Coordinator (Critical Care RNs desired!)",
-      "company": "DCI Donor Services",
-      "location": "Sandia Park, NM",
-      "created": "2026-07-22T00:00:00.0000000",
-      "description": "\r\n DCI Donor Services   \r\n Sierra Donor Services - New Mexico (SDS) is looking for a dynamic and enthusiastic team member to join us to save lives!! Our mission at SDS is to save lives through organ and tissue donation, …",
-      "url": "https://jooble.org/jdp/4981796799571663571",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 14,
-      "catName": "Inventory Planning Specialist",
-      "fuente": "Jooble",
-      "title": "Maintenance Supervisor",
-      "company": "NALS Apartment Homes",
-      "location": "Cerrillos, NM",
-      "created": "2026-07-25T00:00:00.0000000",
-      "description": " Description: \r\n\r\n NALS Apartment Homes is a thriving, national Real Estate Investment Firm engaged in the acquisition, ownership, and management of multifamily apartment communities. Headquartered in Santa Barbara Calif…",
-      "url": "https://jooble.org/jdp/-10308621251263264",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 14,
-      "catName": "Inventory Planning Specialist",
-      "fuente": "Jooble",
-      "title": "Health, Wellness, Nutrition Coordinator",
-      "company": "Santo Domingo Tribe",
-      "location": "Santo Domingo Pueblo, NM",
-      "created": "2026-07-09T00:00:00.0000000",
-      "description": " Job Description \r\n Job Description  Health, Wellness, Nutrition Coordinator \r\n About Santo Domingo: \r\n For over 400 years, Santo Domingo Pueblo has been one of the central Indian Pueblos in New Mexico. Located between A…",
-      "url": "https://jooble.org/jdp/7063216778652834725",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 21,
-      "catName": "Demand Planner",
-      "fuente": "Jooble",
-      "title": "Clinical Pricing & Payments Senior Associate _ Pricing",
-      "company": "ICON plc",
-      "location": "Madrid, NM",
-      "created": "2026-07-23T17:21:01.2030000",
-      "description": " Investigator Pricing Analyst Home based \r\n ICON plc is a world-leading healthcare intelligence and clinical research organization. We’re proud to foster an inclusive environment driving innovation and excellence, and we…",
-      "url": "https://jooble.org/jdp/-3680631411972785440",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 22,
-      "catName": "Planificador de Demanda",
-      "fuente": "Adzuna",
-      "title": "Supply Planning Analyst",
-      "company": "Fresenius Medical Care",
-      "location": "Madrid",
-      "created": "2026-07-19T07:27:54Z",
-      "description": "Supply Planning Analyst En Fresenius Medical Care, somos el líder mundial en cuidado renal, comprometidos con mejorar la vida de los pacientes con enfermedad renal crónica. Nuestra misión es ofrecer productos, servicios …",
-      "url": "https://www.adzuna.es/details/5806905802?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 22,
-      "catName": "Planificador de Demanda",
-      "fuente": "Jooble",
-      "title": "Conductor de entregas - no requiere experiencia",
-      "company": "DoorDash",
-      "location": "Santa Fe, NM",
-      "created": "2026-07-24T00:00:00.0000000",
-      "description": "¿Por qué entregar con DoorDash? DoorDash es el líder número uno de la categoría en entregas de comida, retiro de comida y entregas de tiendas de conveniencia en EE. UU., con la confianza de millones de clientes todos los…",
-      "url": "https://jooble.org/jdp/-5077597959989612098",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 22,
-      "catName": "Planificador de Demanda",
-      "fuente": "Jooble",
-      "title": "Trabajador de Patio",
-      "company": "Builders FirstSource",
-      "location": "Santa Fe, NM",
-      "created": "2026-07-23T00:00:00.0000000",
-      "description": "PROPÓSITO\nBajo supervisión directa, realizar una variedad de actividades de patio incluyendo operar un montacargas para mover productos y materiales a través del patio. Brindar servicio al cliente a clientes.\n\nLABORES ES…",
-      "url": "https://jooble.org/jdp/-6273571690346090749",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 22,
-      "catName": "Planificador de Demanda",
-      "fuente": "Jooble",
-      "title": "Cocinero de Línea",
-      "company": "The Club at Las Campanas",
-      "location": "Santa Fe, NM",
-      "created": "2026-06-29T00:00:00.0000000",
-      "description": "&nbsp;...Job Description \r\n Job Description  The Club at Las Campanas está buscando un Cocinero de Línea de Temporada con experiencia para unirse a nuestro galardonado equipo culinario. Si te apasiona la cocina, disfruta…",
-      "url": "https://jooble.org/jdp/38707075884174756",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 22,
-      "catName": "Planificador de Demanda",
-      "fuente": "Jooble",
-      "title": "Cocinero de Línea",
-      "company": "The Club at Las Campanas",
-      "location": "Santa Fe, NM",
-      "created": "2026-07-16T00:00:00.0000000",
-      "description": "&nbsp;...Job Description \r\n Job Description  The Club at Las Campanas está buscando un Cocinero de Línea (Line Cook) con experiencia y pasión por la cocina para unirse a nuestro equipo culinario. Si le gusta trabajar en …",
-      "url": "https://jooble.org/jdp/3686594137691147420",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 22,
-      "catName": "Planificador de Demanda",
-      "fuente": "Jooble",
-      "title": "Personal de Limpieza",
-      "company": "Manos a la Obra",
-      "location": "Santa Fe, NM",
-      "created": "2026-07-26T00:00:00.0000000",
-      "description": "&nbsp;...Personal de Limpieza  /  Housekeeper / Cleaner \r\n Palabras clave: limpieza, trabajos de limpieza, housekeeping, empleos de limpieza cerca de mí, aseo \r\n\r\n Pago  : $16 – $20 por hora \r\n Horario  : Tiempo completo…",
-      "url": "https://jooble.org/jdp/1537069146613849168",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 22,
-      "catName": "Planificador de Demanda",
-      "fuente": "Jooble",
-      "title": "Cocinero de Línea / Prep Cook",
-      "company": "Manos a la Obra",
-      "location": "Santa Fe, NM",
-      "created": "2026-07-26T00:00:00.0000000",
-      "description": "&nbsp;...Cocinero de Línea / Prep Cook \r\n Palabras clave: cocinero, trabajos de cocina, empleos en restaurante cerca de mí, ayudante de cocina \r\n\r\n Pago  : $17 – $22 por hora \r\n Horario  : Tiempo completo \r\n\r\n Cocinero c…",
-      "url": "https://jooble.org/jdp/-2793461830091563600",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -681,7 +174,7 @@
       "fuente": "Adzuna",
       "status": 200,
       "count": 19,
-      "returned": 6
+      "returned": 2
     },
     {
       "id": 1,
@@ -690,7 +183,8 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 16,
-      "returned": 6
+      "crudos": 16,
+      "returned": 0
     },
     {
       "id": 2,
@@ -708,7 +202,8 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 1,
-      "returned": 1
+      "crudos": 1,
+      "returned": 0
     },
     {
       "id": 3,
@@ -717,7 +212,7 @@
       "fuente": "Adzuna",
       "status": 200,
       "count": 4,
-      "returned": 4
+      "returned": 3
     },
     {
       "id": 3,
@@ -726,7 +221,8 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 2862,
-      "returned": 6
+      "crudos": 30,
+      "returned": 0
     },
     {
       "id": 5,
@@ -744,7 +240,8 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 7,
-      "returned": 6
+      "crudos": 7,
+      "returned": 0
     },
     {
       "id": 7,
@@ -753,7 +250,7 @@
       "fuente": "Adzuna",
       "status": 200,
       "count": 3,
-      "returned": 3
+      "returned": 0
     },
     {
       "id": 7,
@@ -762,7 +259,8 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 2862,
-      "returned": 6
+      "crudos": 30,
+      "returned": 0
     },
     {
       "id": 14,
@@ -780,7 +278,8 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 14,
-      "returned": 6
+      "crudos": 14,
+      "returned": 0
     },
     {
       "id": 20,
@@ -798,6 +297,7 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 0,
+      "crudos": 0,
       "returned": 0
     },
     {
@@ -816,7 +316,8 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 1,
-      "returned": 1
+      "crudos": 1,
+      "returned": 0
     },
     {
       "id": 22,
@@ -825,7 +326,7 @@
       "fuente": "Adzuna",
       "status": 200,
       "count": 1,
-      "returned": 1
+      "returned": 0
     },
     {
       "id": 22,
@@ -834,7 +335,8 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 154,
-      "returned": 6
+      "crudos": 30,
+      "returned": 0
     },
     {
       "id": 23,
@@ -852,7 +354,8 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 7,
-      "returned": 6
+      "crudos": 7,
+      "returned": 0
     },
     {
       "id": 24,
@@ -870,7 +373,8 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 2,
-      "returned": 2
+      "crudos": 2,
+      "returned": 0
     }
   ]
 }
