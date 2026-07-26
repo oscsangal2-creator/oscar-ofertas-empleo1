@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-26T17:32:30.613Z",
+  "actualizado": "2026-07-26T17:34:42.224Z",
   "totalOfertas": 9,
   "categorias": [
     {
@@ -135,7 +135,7 @@
       "location": "Madrid",
       "created": "2026-07-17T13:38:49Z",
       "description": "Se requiere un responsable de logística para trabajar en Madrid, con jornada completa de 38,5 horas semanales en turnos rotativos de lunes a domingo. El salario es de 25.000 euros brutos al año más 3.000 euros de retribu…",
-      "url": "https://www.adzuna.es/land/ad/5804824110?se=4ibq9ReJ8RG3tOkLR0Zx3w&utm_medium=api&utm_source=3c972d9b&v=C9D080368D053E5BBFC52C0546F11838B2E410B7",
+      "url": "https://www.adzuna.es/land/ad/5804824110?se=1DpZRBiJ8RGNhYqsHQJq6Q&utm_medium=api&utm_source=3c972d9b&v=C9D080368D053E5BBFC52C0546F11838B2E410B7",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -183,8 +183,26 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 16,
-      "crudos": 16,
-      "returned": 0
+      "crudos": 13,
+      "returned": 0,
+      "muestraCruda": [
+        {
+          "title": "Senior Account Executive",
+          "location": "Cerrillos, NM"
+        },
+        {
+          "title": "Registered Nurse",
+          "location": "Cerrillos, NM"
+        },
+        {
+          "title": "Licensed Practical Nurse - Physical Rehab - PRN",
+          "location": "Cerrillos, NM"
+        },
+        {
+          "title": "CN I - Cardiology Cath - PRN",
+          "location": "Cerrillos, NM"
+        }
+      ]
     },
     {
       "id": 2,
@@ -203,7 +221,13 @@
       "status": 200,
       "count": 1,
       "crudos": 1,
-      "returned": 0
+      "returned": 0,
+      "muestraCruda": [
+        {
+          "title": "Operations Manager",
+          "location": "Santo Domingo Pueblo, NM"
+        }
+      ]
     },
     {
       "id": 3,
@@ -221,8 +245,26 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 2862,
-      "crudos": 30,
-      "returned": 0
+      "crudos": 29,
+      "returned": 0,
+      "muestraCruda": [
+        {
+          "title": "Incident Response Coordinator, Senior",
+          "location": "Santa Fe, NM"
+        },
+        {
+          "title": "Senior Incident Response Consultant",
+          "location": "Santa Fe, NM"
+        },
+        {
+          "title": "Rapid Response Nurse",
+          "location": "Santa Fe, NM"
+        },
+        {
+          "title": "Cyber Defense Operations Lead - 24/7 Incident Response",
+          "location": "Santa Fe, NM"
+        }
+      ]
     },
     {
       "id": 5,
@@ -240,8 +282,26 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 7,
-      "crudos": 7,
-      "returned": 0
+      "crudos": 6,
+      "returned": 0,
+      "muestraCruda": [
+        {
+          "title": "Sales Coordinator Remote",
+          "location": "Madrid, NM"
+        },
+        {
+          "title": "Senior Account Executive",
+          "location": "Cerrillos, NM"
+        },
+        {
+          "title": "Leasing Specialist Floater",
+          "location": "Sandia Park, NM"
+        },
+        {
+          "title": "Academic Support Specialist",
+          "location": "Santo Domingo Pueblo, NM"
+        }
+      ]
     },
     {
       "id": 7,
@@ -259,8 +319,26 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 2862,
-      "crudos": 30,
-      "returned": 0
+      "crudos": 27,
+      "returned": 0,
+      "muestraCruda": [
+        {
+          "title": "Incident Response Coordinator, Senior",
+          "location": "Santa Fe, NM"
+        },
+        {
+          "title": "Senior Incident Response Consultant",
+          "location": "Santa Fe, NM"
+        },
+        {
+          "title": "Rapid Response Nurse",
+          "location": "Santa Fe, NM"
+        },
+        {
+          "title": "Cyber Defense Operations Lead - 24/7 Incident Response",
+          "location": "Santa Fe, NM"
+        }
+      ]
     },
     {
       "id": 14,
@@ -278,8 +356,26 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 14,
-      "crudos": 14,
-      "returned": 0
+      "crudos": 13,
+      "returned": 0,
+      "muestraCruda": [
+        {
+          "title": "Package Handler $15+/ Hour (Sign on Bonus)!",
+          "location": "Pena Blanca, NM"
+        },
+        {
+          "title": "Maintenance Supervisor",
+          "location": "Cerrillos, NM"
+        },
+        {
+          "title": "Organ Recovery Coordinator (Critical Care RNs desired!)",
+          "location": "Sandia Park, NM"
+        },
+        {
+          "title": "Leasing Specialist Floater",
+          "location": "Sandia Park, NM"
+        }
+      ]
     },
     {
       "id": 20,
@@ -298,7 +394,8 @@
       "status": 200,
       "count": 0,
       "crudos": 0,
-      "returned": 0
+      "returned": 0,
+      "muestraCruda": []
     },
     {
       "id": 21,
@@ -317,7 +414,13 @@
       "status": 200,
       "count": 1,
       "crudos": 1,
-      "returned": 0
+      "returned": 0,
+      "muestraCruda": [
+        {
+          "title": "Clinical Pricing & Payments Senior Associate _ Pricing",
+          "location": "Madrid, NM"
+        }
+      ]
     },
     {
       "id": 22,
@@ -336,7 +439,25 @@
       "status": 200,
       "count": 154,
       "crudos": 30,
-      "returned": 0
+      "returned": 0,
+      "muestraCruda": [
+        {
+          "title": "Conductor de entregas - no requiere experiencia",
+          "location": "Santa Fe, NM"
+        },
+        {
+          "title": "Trabajador de Patio",
+          "location": "Santa Fe, NM"
+        },
+        {
+          "title": "Cocinero de Línea",
+          "location": "Santa Fe, NM"
+        },
+        {
+          "title": "Cocinero de Línea",
+          "location": "Santa Fe, NM"
+        }
+      ]
     },
     {
       "id": 23,
@@ -354,8 +475,26 @@
       "fuente": "Jooble",
       "status": 200,
       "count": 7,
-      "crudos": 7,
-      "returned": 0
+      "crudos": 6,
+      "returned": 0,
+      "muestraCruda": [
+        {
+          "title": "Sales Coordinator Remote",
+          "location": "Madrid, NM"
+        },
+        {
+          "title": "Senior Account Executive",
+          "location": "Cerrillos, NM"
+        },
+        {
+          "title": "Leasing Specialist Floater",
+          "location": "Sandia Park, NM"
+        },
+        {
+          "title": "Academic Support Specialist",
+          "location": "Santo Domingo Pueblo, NM"
+        }
+      ]
     },
     {
       "id": 24,
@@ -374,7 +513,17 @@
       "status": 200,
       "count": 2,
       "crudos": 2,
-      "returned": 0
+      "returned": 0,
+      "muestraCruda": [
+        {
+          "title": "Leasing Specialist Floater",
+          "location": "Sandia Park, NM"
+        },
+        {
+          "title": "Behavioral Health Community Intervention Specialist",
+          "location": "Santo Domingo Pueblo, NM"
+        }
+      ]
     }
   ]
 }
