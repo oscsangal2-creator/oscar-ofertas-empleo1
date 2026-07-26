@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-26T12:42:46.683Z",
-  "totalOfertas": 19,
+  "actualizado": "2026-07-26T13:09:15.508Z",
+  "totalOfertas": 6,
   "categorias": [
     {
       "id": 1,
@@ -23,24 +23,28 @@
       "name": "Responsable de Compras"
     },
     {
-      "id": 9,
-      "name": "Coordinador Operaciones Logísticas"
-    },
-    {
-      "id": 11,
-      "name": "Operations Analyst"
-    },
-    {
       "id": 14,
       "name": "Inventory Planning Specialist"
     },
     {
-      "id": 17,
-      "name": "Category Manager Dispositivos"
-    },
-    {
       "id": 20,
       "name": "Data Analyst Supply Chain"
+    },
+    {
+      "id": 21,
+      "name": "Demand Planner"
+    },
+    {
+      "id": 22,
+      "name": "Planificador de Demanda"
+    },
+    {
+      "id": 23,
+      "name": "Supply Chain Specialist"
+    },
+    {
+      "id": 24,
+      "name": "Especialista Supply Chain"
     }
   ],
   "ofertas": [
@@ -59,54 +63,6 @@
     {
       "cat": 1,
       "catName": "Demand Planning Manager",
-      "title": "Business Development Account Manager For E-Commerce - Qualcomm, Flexible On Location Within Europe/R",
-      "company": "Qualcomm",
-      "location": "Madrid",
-      "created": "2026-07-24T23:40:07Z",
-      "description": "Company: Qualcomm Europe, Inc. Italy Branch Office Job Area: Sales, Business Development & Marketing Group, Sales, Business Development & Marketing Group > Sales Operations General Summary: Arduino is now part of the Qua…",
-      "url": "https://www.adzuna.es/details/5814374817?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "title": "Business Development Account Manager For E-Commerce - Qualcomm, Flexible On Location Within Europe/R",
-      "company": "Qualcomm",
-      "location": "Madrid",
-      "created": "2026-07-24T23:39:54Z",
-      "description": "Company: Qualcomm Europe, Inc. Italy Branch OfficeJob Area: Sales, Business Development & Marketing Group, Sales, Business Development & Marketing Group >Sales OperationsGeneralSummary:Arduino is now part of the Qualcomm…",
-      "url": "https://www.adzuna.es/details/5814372851?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "title": "Supply Chain Planner - €2.300 - €2.830 A Month",
-      "company": "Duynie Renewables",
-      "location": "Madrid",
-      "created": "2026-07-23T23:39:39Z",
-      "description": "Was werden Sie tun? Are you skilled at balancing supply and demand and ready to go beyond standard transport planning? Then we are looking for you.As a Supply Chain Planner at Duynie in Valencia, you will play a hands?on…",
-      "url": "https://www.adzuna.es/details/5812748765?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "title": "Sr Director, Emea South Coo",
-      "company": "ServiceNo",
-      "location": "Madrid",
-      "created": "2026-07-23T23:39:29Z",
-      "description": "Questa posizione è in ServiceNow Il processo di selezione sarà interamente gestito ServiceNow. Questa opportunità è disponibile in Paris - France, Madrid - Spain, Rome - Italy.  Company Description It all started when en…",
-      "url": "https://www.adzuna.es/details/5812747516?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
       "title": "Partner Operations Manager (Finance & Inventory), Amazon PARP",
       "company": "Amazon",
       "location": "Madrid",
@@ -117,160 +73,52 @@
       "salaryMax": null
     },
     {
-      "cat": 2,
-      "catName": "Supply Chain Manager",
-      "title": "Procurement Manager (Consulting Supply Chain & Operations)",
-      "company": "EY",
+      "cat": 1,
+      "catName": "Demand Planning Manager",
+      "title": "Partner Operations Manager (Finance & Inventory), Amazon PARP",
+      "company": "Amazon Spain Services, S.L.U.",
       "location": "Madrid",
-      "created": "2026-07-18T14:33:21Z",
-      "description": "La oportunidad : Desde EY Consulting nos hemos adaptado a la naturaleza de los sectores, a las nuevas necesidades que tienen nuestros clientes y los acompañamos en su transformación digital. Somos innovadores, ágiles, co…",
-      "url": "https://www.adzuna.es/details/5806134636?utm_medium=api&utm_source=3c972d9b",
+      "created": "2026-07-22T12:29:16Z",
+      "description": "The Partner Operations Manager (Inventory & Finance) owns hardware sourcing, demand planning, inventory lifecycle management, and financial planning for Amazon Hub PARP across European markets. This role is the single-th…",
+      "url": "https://www.adzuna.es/details/5810756921?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
     },
     {
-      "cat": 2,
-      "catName": "Supply Chain Manager",
-      "title": "EMEA - Delivery Manager",
-      "company": "Nextracker Spain",
+      "cat": 1,
+      "catName": "Demand Planning Manager",
+      "title": "Retail Analyst - Merchandising",
+      "company": "FeverUp",
       "location": "Madrid",
-      "created": "2026-07-17T03:10:55Z",
-      "description": "Job Description: The Delivery Manager (DM) acts as the \"Face of the Supply Chain\" for EMEA projects, ensuring that Nextpower projects are well planned, delivered on time, and delivered under budget. The DM engages with p…",
-      "url": "https://www.adzuna.es/details/5804103080?utm_medium=api&utm_source=3c972d9b",
+      "created": "2026-07-19T01:29:47Z",
+      "description": "Hey there! We’re Fever , the world’s leading tech platform for culture and live entertainment. Our mission? To democratize access to culture and entertainment. With our proprietary cutting-edge technology and data-driven…",
+      "url": "https://www.adzuna.es/details/5806616685?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
     },
     {
-      "cat": 2,
-      "catName": "Supply Chain Manager",
-      "title": "Associate Principal Application Product Manager - Supply Chain",
-      "company": "Celonis",
+      "cat": 1,
+      "catName": "Demand Planning Manager",
+      "title": "Operations Analyst- Global Merchandising",
+      "company": "Feverup",
       "location": "Madrid",
-      "created": "2026-07-17T03:07:31Z",
-      "description": "We're Celonis, the global leader in Process Mining technology and one of the world's fastest-growing SaaS firms. We believe there is a massive opportunity to unlock productivity by placing data and intelligence at the co…",
-      "url": "https://www.adzuna.es/details/5804077892?utm_medium=api&utm_source=3c972d9b",
+      "created": "2026-07-17T03:12:07Z",
+      "description": "Hey there! We’re Fever , the world’s leading tech platform for culture and live entertainment. Our mission? To democratize access to culture and entertainment. With our proprietary cutting-edge technology and data-driven…",
+      "url": "https://www.adzuna.es/details/5804111322?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
     },
     {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "title": "Responsable de Logística",
-      "company": "Crit Interim España ETT",
+      "cat": 1,
+      "catName": "Demand Planning Manager",
+      "title": "Ecommerce Omnichannel Operations",
+      "company": "El Corte Inglés",
       "location": "Madrid",
-      "created": "2026-07-23T12:27:06Z",
-      "description": "En io Promo , empresa con más de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras op…",
-      "url": "https://www.adzuna.es/details/5812188374?utm_medium=api&utm_source=3c972d9b",
+      "created": "2026-07-17T03:12:04Z",
+      "description": "¿Buscas desarrollar tu talento y un lugar dónde tu esfuerzo sea reconocido? Te ofrecemos un entorno dinámico, cercano y de futuro. Aquí, cada día es una nueva oportunidad para aprender, crecer y brillar. Imagina formar p…",
+      "url": "https://www.adzuna.es/details/5804110926?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "title": "Responsable departamento logística",
-      "company": "domestiko.com",
-      "location": "Madrid",
-      "created": "2026-07-17T13:38:49Z",
-      "description": "Se requiere un responsable de logística para trabajar en Madrid, con jornada completa de 38,5 horas semanales en turnos rotativos de lunes a domingo. El salario es de 25.000 euros brutos al año más 3.000 euros de retribu…",
-      "url": "https://www.adzuna.es/land/ad/5804824110?se=gP7Xfu-I8RGEopbyd0f8Hw&utm_medium=api&utm_source=3c972d9b&v=C9D080368D053E5BBFC52C0546F11838B2E410B7",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "title": "Responsable De Customer Service Logísitica Madrid H/M",
-      "company": "S.t.e.f.",
-      "location": "Madrid",
-      "created": "2026-07-17T03:12:24Z",
-      "description": "¿Te apetece asumir nuevos retos en un mundo que no deja de moverse?. En STEF, líder europeo en transporte y logística alimentaria, alimentamos cada día a millones de personas en Europa. Únete a los 25.000 profesionales q…",
-      "url": "https://www.adzuna.es/details/5804113352?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "title": "Preparador/a de pedidos en Zeeman | 16,76 €/h | Alojamiento incluido",
-      "company": "OTTO Work Force",
-      "location": "Madrid",
-      "created": "2026-07-16T11:41:19Z",
-      "description": "¿Buscas trabajo de preparador de pedidos en el extranjero con alojamiento incluido? Zeeman, una de las mayores cadenas europeas de textil, busca mozos de almacén para su centro logístico en Países Bajos por 16,76 €/hora …",
-      "url": "https://www.adzuna.es/details/5802674905?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": 120000,
-      "salaryMax": 180000
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "title": "Dependiente de tienda / Client Advisor - (Madrid)",
-      "company": "UMusic Hotel Madrid 5*",
-      "location": "Madrid",
-      "created": "2026-07-25T10:13:37Z",
-      "description": "Empresas: UMusic Hotel Madrid 5* Client Advisor / Dependiente/a de Tienda Misión del puesto El/La Client Advisor es responsable de ofrecer una experiencia de compra excelente a los clientes de UMusic Shop, proporcionando…",
-      "url": "https://www.adzuna.es/details/5815089953?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "title": "Auxiliar de Datos / Administrativo/a",
-      "company": "Crit Interim España ETT",
-      "location": "Madrid",
-      "created": "2026-07-24T12:27:37Z",
-      "description": "En Grupo Crit estamos en búsqueda de un/a Auxiliar de Datos / Administrativo/a para una importante empresa ubicada en Getafe con ganas de aportar su talento en el área de Compras. Si se te dan bien los números, dominas E…",
-      "url": "https://www.adzuna.es/details/5813707193?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "title": "Administrativos/as",
-      "company": "domestiko.com",
-      "location": "Madrid",
-      "created": "2026-07-16T13:17:33Z",
-      "description": "Se busca personal administrativo con funciones de atención al cliente y recepción. Es imprescindible contar con un certificado de discapacidad igual o superior al 33%. Entre las tareas principales están supervisar el man…",
-      "url": "https://www.adzuna.es/land/ad/5802817301?se=OERmf--I8RG6p7hsZNPoJA&utm_medium=api&utm_source=3c972d9b&v=AAEE12A51CE6EB92C92CA4B5F791C67CD87CB6F3",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 9,
-      "catName": "Coordinador Operaciones Logísticas",
-      "title": "Responsable de Contract - Línea Flex Living",
-      "company": "Empresa no especificada",
-      "location": "Madrid",
-      "created": "2026-07-25T03:41:02Z",
-      "description": "El perfil se encargará de realizar las siguientes funciones, para ello será el responsable de montar un equipo a su cargo. Definir e implementar la estrategia comercial en el segmento Flex Living, identificando oportunid…",
-      "url": "https://www.adzuna.es/details/5814789001?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": 50000,
-      "salaryMax": 60000
-    },
-    {
-      "cat": 9,
-      "catName": "Coordinador Operaciones Logísticas",
-      "title": "Responsable de Logística",
-      "company": "Crit Interim España ETT",
-      "location": "Madrid",
-      "created": "2026-07-23T12:27:06Z",
-      "description": "En io Promo , empresa con más de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras op…",
-      "url": "https://www.adzuna.es/details/5812188374?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 9,
-      "catName": "Coordinador Operaciones Logísticas",
-      "title": "Administrativo/a de pedidos - Sector Retail (FMCG)",
-      "company": "Empresa no especificada",
-      "location": "Madrid",
-      "created": "2026-07-23T09:36:57Z",
-      "description": "La persona seleccionada, deberá cumplir con las siguientes funciones: Recepción y gestión integral de pedidos. Análisis detallado de pedidos según parámetros comerciales: precios, promociones, descuentos, compromisos de …",
-      "url": "https://www.adzuna.es/details/5812007144?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": 28000,
-      "salaryMax": 30000
     }
   ]
 }
