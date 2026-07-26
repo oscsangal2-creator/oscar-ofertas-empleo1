@@ -17,6 +17,34 @@ if (!JOOBLE_API_KEY) {
   console.error("Falta JOOBLE_API_KEY como variable de entorno (secret). Se continuará solo con Adzuna.");
 }
 
+// --- Utilidades de filtrado (para descartar ofertas fuera de ubicación o sin relación con el puesto) ---
+
+function normalizar(str) {
+  return (str || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, ""); // quita acentos
+}
+
+function esUbicacionValida(location) {
+  const loc = normalizar(location);
+  return loc.includes("madrid") || loc.includes("espana") || loc.includes("spain");
+}
+
+// Palabras "stopword" que no aportan para comprobar relevancia del título
+const STOPWORDS = new Set(["de", "la", "el", "en", "y", "a", "para"]);
+
+function esTituloRelevante(cat, title, description) {
+  const texto = normalizar(`${title} ${description}`);
+  const palabrasClave = normalizar(cat.what)
+    .split(" ")
+    .filter((p) => p.length > 2 && !STOPWORDS.has(p));
+  if (palabrasClave.length === 0) return true;
+  // Deben aparecer TODAS las palabras clave del puesto buscado (evita falsos positivos como
+  // "Sales Manager" colándose en una búsqueda de "Supply Chain Manager")
+  return palabrasClave.every((p) => texto.includes(p));
+}
+
 // Categorías priorizadas de Oscar (11 búsquedas x 3 ejecuciones/día ≈ 990 llamadas/mes,
 // dentro de la cuota gratuita de Adzuna ~1000/mes)
 const categorias = [
@@ -51,19 +79,21 @@ async function buscarCategoria(cat) {
     return { ofertas: [], debug: { fuente: "Adzuna", status: res.status, count: 0, error: bodyText.slice(0, 200) } };
   }
   const data = await res.json();
-  const ofertas = (data.results || []).map((o) => ({
-    cat: cat.id,
-    catName: cat.name,
-    fuente: "Adzuna",
-    title: o.title?.replace(/<[^>]+>/g, "") ?? "",
-    company: o.company?.display_name ?? "Empresa no especificada",
-    location: o.location?.display_name ?? WHERE,
-    created: o.created,
-    description: (o.description ?? "").replace(/<[^>]+>/g, "").slice(0, 220) + "…",
-    url: o.redirect_url,
-    salaryMin: o.salary_min ?? null,
-    salaryMax: o.salary_max ?? null,
-  }));
+  const ofertas = (data.results || [])
+    .map((o) => ({
+      cat: cat.id,
+      catName: cat.name,
+      fuente: "Adzuna",
+      title: o.title?.replace(/<[^>]+>/g, "") ?? "",
+      company: o.company?.display_name ?? "Empresa no especificada",
+      location: o.location?.display_name ?? WHERE,
+      created: o.created,
+      description: (o.description ?? "").replace(/<[^>]+>/g, "").slice(0, 220) + "…",
+      url: o.redirect_url,
+      salaryMin: o.salary_min ?? null,
+      salaryMax: o.salary_max ?? null,
+    }))
+    .filter((o) => esUbicacionValida(o.location) && esTituloRelevante(cat, o.title, o.description));
   return { ofertas, debug: { fuente: "Adzuna", status: res.status, count: data.count ?? null, returned: ofertas.length } };
 }
 
@@ -75,7 +105,7 @@ async function buscarJoobleCategoria(cat) {
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
       keywords: cat.what,
-      location: WHERE,
+      location: "Madrid, España",
       radius: "40",
       page: "1",
     }),
@@ -87,21 +117,33 @@ async function buscarJoobleCategoria(cat) {
     return { ofertas: [], debug: { fuente: "Jooble", status: res.status, count: 0, error: bodyText.slice(0, 200) } };
   }
   const data = await res.json();
-  const jobs = (data.jobs || []).slice(0, RESULTS_PER_PAGE);
-  const ofertas = jobs.map((o) => ({
-    cat: cat.id,
-    catName: cat.name,
-    fuente: "Jooble",
-    title: (o.title ?? "").replace(/<[^>]+>/g, ""),
-    company: o.company || "Empresa no especificada",
-    location: o.location || WHERE,
-    created: o.updated || null,
-    description: (o.snippet ?? "").replace(/<[^>]+>/g, "").slice(0, 220) + "…",
-    url: o.link,
-    salaryMin: null,
-    salaryMax: null,
-  }));
-  return { ofertas, debug: { fuente: "Jooble", status: res.status, count: data.totalCount ?? null, returned: ofertas.length } };
+  const jobsCrudos = data.jobs || [];
+  const ofertas = jobsCrudos
+    .map((o) => ({
+      cat: cat.id,
+      catName: cat.name,
+      fuente: "Jooble",
+      title: (o.title ?? "").replace(/<[^>]+>/g, ""),
+      company: o.company || "Empresa no especificada",
+      location: o.location || WHERE,
+      created: o.updated || null,
+      description: (o.snippet ?? "").replace(/<[^>]+>/g, "").slice(0, 220) + "…",
+      url: o.link,
+      salaryMin: null,
+      salaryMax: null,
+    }))
+    .filter((o) => esUbicacionValida(o.location) && esTituloRelevante(cat, o.title, o.description))
+    .slice(0, RESULTS_PER_PAGE);
+  return {
+    ofertas,
+    debug: {
+      fuente: "Jooble",
+      status: res.status,
+      count: data.totalCount ?? null,
+      crudos: jobsCrudos.length,
+      returned: ofertas.length,
+    },
+  };
 }
 
 async function main() {
