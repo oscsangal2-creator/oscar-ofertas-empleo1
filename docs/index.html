@@ -104,6 +104,7 @@ function renderCards(){
       <div class="card-title">${o.title} <span class="cat-badge">${o.catName}</span></div>
       <div class="card-meta">
         <span>📍 ${o.location}</span>
+        <span class="cat-badge" style="background:${o.fuente==='Jooble'?'#fdf2e9':'#eaf2f8'};color:${o.fuente==='Jooble'?'#a04000':'#1A5276'}">🔗 ${o.fuente || 'Adzuna'}</span>
         ${o.created ? `<span>🕐 ${new Date(o.created).toLocaleDateString('es-ES')}</span>` : ''}
         ${o.salaryMin ? `<span>💶 ${Math.round(o.salaryMin).toLocaleString('es-ES')}${o.salaryMax ? ' - ' + Math.round(o.salaryMax).toLocaleString('es-ES') : ''} €</span>` : ''}
       </div>
