@@ -24,10 +24,11 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Buscar ofertas reales en Adzuna
+      - name: Buscar ofertas reales en Adzuna y Jooble
         env:
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
           ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          JOOBLE_API_KEY: ${{ secrets.JOOBLE_API_KEY }}
         run: node scripts/fetch-jobs.mjs
 
       - name: Guardar cambios en el repositorio
