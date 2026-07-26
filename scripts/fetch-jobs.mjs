@@ -42,11 +42,12 @@ async function buscarCategoria(cat) {
 
   const res = await fetch(url.toString());
   if (!res.ok) {
+    const bodyText = await res.text().catch(() => "");
     console.error(`Adzuna error [${cat.name}]: ${res.status}`);
-    return [];
+    return { ofertas: [], debug: { status: res.status, count: 0, error: bodyText.slice(0, 200) } };
   }
   const data = await res.json();
-  return (data.results || []).map((o) => ({
+  const ofertas = (data.results || []).map((o) => ({
     cat: cat.id,
     catName: cat.name,
     title: o.title?.replace(/<[^>]+>/g, "") ?? "",
@@ -58,18 +59,22 @@ async function buscarCategoria(cat) {
     salaryMin: o.salary_min ?? null,
     salaryMax: o.salary_max ?? null,
   }));
+  return { ofertas, debug: { status: res.status, count: data.count ?? null, returned: ofertas.length } };
 }
 
 async function main() {
   const todas = [];
+  const debugInfo = [];
   for (const cat of categorias) {
     try {
-      const ofertas = await buscarCategoria(cat);
+      const { ofertas, debug } = await buscarCategoria(cat);
       todas.push(...ofertas);
+      debugInfo.push({ id: cat.id, name: cat.name, what: cat.what, ...debug });
       // Pequeña pausa para no saturar la API
       await new Promise((r) => setTimeout(r, 300));
     } catch (e) {
       console.error(`Fallo buscando ${cat.name}:`, e.message);
+      debugInfo.push({ id: cat.id, name: cat.name, what: cat.what, error: e.message });
     }
   }
 
@@ -78,6 +83,7 @@ async function main() {
     totalOfertas: todas.length,
     categorias: categorias.map((c) => ({ id: c.id, name: c.name })),
     ofertas: todas,
+    debug: debugInfo,
   };
 
   const fs = await import("node:fs/promises");
