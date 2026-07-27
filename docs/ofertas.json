@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T18:00:07.297Z",
-  "totalOfertas": 49,
+  "actualizado": "2026-07-27T21:49:05.484Z",
+  "totalOfertas": 51,
   "categorias": [
     {
       "id": 1,
@@ -58,6 +58,19 @@
       "created": "2026-07-23T07:30:38Z",
       "description": "Description The Partner Operations Manager (Inventory & Finance) owns hardware sourcing, demand planning, inventory lifecycle management, and financial planning for Amazon Hub PARP across European markets. This role is t…",
       "url": "https://www.adzuna.es/details/5811935351?utm_medium=api&utm_source=3c972d9b",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 1,
+      "catName": "Demand Planning Manager",
+      "fuente": "Adzuna",
+      "title": "Partner Operations Manager (Finance & Inventory), Amazon PARP",
+      "company": "Amazon Spain Services, S.L.U.",
+      "location": "Madrid",
+      "created": "2026-07-22T12:29:16Z",
+      "description": "The Partner Operations Manager (Inventory & Finance) owns hardware sourcing, demand planning, inventory lifecycle management, and financial planning for Amazon Hub PARP across European markets. This role is the single-th…",
+      "url": "https://www.adzuna.es/details/5810756921?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -278,7 +291,7 @@
       "location": "Madrid",
       "created": "2026-07-17T13:38:49Z",
       "description": "Se requiere un responsable de logística para trabajar en Madrid, con jornada completa de 38,5 horas semanales en turnos rotativos de lunes a domingo. El salario es de 25.000 euros brutos al año más 3.000 euros de retribu…",
-      "url": "https://www.adzuna.es/land/ad/5804824110?se=UJ10-uSJ8RG1d7LYFOmBDw&utm_medium=api&utm_source=3c972d9b&v=C9D080368D053E5BBFC52C0546F11838B2E410B7",
+      "url": "https://www.adzuna.es/land/ad/5804824110?se=BDJQ9wSK8RG_9pEfHuJgyQ&utm_medium=api&utm_source=3c972d9b&v=C9D080368D053E5BBFC52C0546F11838B2E410B7",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -352,11 +365,11 @@
       "catName": "Responsable de Logística",
       "fuente": "Jooble",
       "title": "Responsable de Logística",
-      "company": "Crit Interim España ETT",
+      "company": "aboutyourtalent",
       "location": "Madrid",
-      "created": "2026-07-22T20:19:43.4000000",
-      "description": "&nbsp;...de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras operaciones logísticas …",
-      "url": "https://es.jooble.org/jdp/3384803651253534027",
+      "created": "2026-06-30T01:16:34.6370000",
+      "description": "&nbsp;...Desde About your talent, buscamos incorporar para nuestro cliente, una compañía internacional del sector industrial a un/a  Responsable de Logística  que lidere la gestión integral de la cadena de suministro en …",
+      "url": "https://es.jooble.org/jdp/5367261111282545986",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -365,11 +378,11 @@
       "catName": "Responsable de Logística",
       "fuente": "Jooble",
       "title": "Responsable de Logística",
-      "company": "aboutyourtalent",
+      "company": "Grupo Crit",
       "location": "Madrid",
-      "created": "2026-06-30T01:16:34.6370000",
-      "description": "&nbsp;...Desde About your talent, buscamos incorporar para nuestro cliente, una compañía internacional del sector industrial a un/a  Responsable de Logística  que lidere la gestión integral de la cadena de suministro en …",
-      "url": "https://es.jooble.org/jdp/5367261111282545986",
+      "created": "2026-07-22T18:10:18.7070242+00:00",
+      "description": "&nbsp;...de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras operaciones logísticas …",
+      "url": "https://es.jooble.org/jdp/1038304020790550147",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -403,19 +416,6 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable de Compras Transporte",
-      "company": "DHL",
-      "location": "Madrid",
-      "created": "2026-07-14T15:35:57.7630000",
-      "description": "&nbsp;...at DHL \r\n The selection process will be fully managed by DHL. \r\n--\r\n## Role Purpose:\nJunto con el/la Gerente del área de compras será responsable de definir la política de compras de Transporte de la Organizació…",
-      "url": "https://es.jooble.org/jdp/976876926834948638",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Jooble",
       "title": "Responsable Compras Alimentación - Ultramarinos",
       "company": "Alcampo",
       "location": "Madrid",
@@ -429,12 +429,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable Economato/Compras (Cont. sustitución)",
-      "company": "Palladium Hotel Group",
+      "title": "Responsable de Compras Transporte",
+      "company": "DHL",
       "location": "Madrid",
-      "created": "2026-07-14T15:36:28.9100000",
-      "description": "&nbsp;...This position is at Palladium Hotel Group \r\n The selection process will be fully managed by Palladium Hotel Group. \r\n--\r\n# Responsable Economato/Compras (Cont. sustitución)\nDesde **ONLY YOU Hotels** buscamos pro…",
-      "url": "https://es.jooble.org/jdp/8560615816765959641",
+      "created": "2026-07-14T15:35:57.7630000",
+      "description": "&nbsp;...at DHL \r\n The selection process will be fully managed by DHL. \r\n--\r\n## Role Purpose:\nJunto con el/la Gerente del área de compras será responsable de definir la política de compras de Transporte de la Organizació…",
+      "url": "https://es.jooble.org/jdp/976876926834948638",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -452,15 +452,28 @@
       "salaryMax": null
     },
     {
+      "cat": 7,
+      "catName": "Responsable de Compras",
+      "fuente": "Jooble",
+      "title": "Responsable Economato/Compras (Cont. sustitución)",
+      "company": "Palladium Hotel Group",
+      "location": "Madrid",
+      "created": "2026-07-14T15:36:28.9100000",
+      "description": "&nbsp;...This position is at Palladium Hotel Group \r\n The selection process will be fully managed by Palladium Hotel Group. \r\n--\r\n# Responsable Economato/Compras (Cont. sustitución)\nDesde **ONLY YOU Hotels** buscamos pro…",
+      "url": "https://es.jooble.org/jdp/8560615816765959641",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
       "cat": 14,
       "catName": "Inventory Planning Specialist",
       "fuente": "Jooble",
-      "title": "Strategic Supply Chain Planner (Hybrid)",
+      "title": "Supply Chain Planner",
       "company": "BlackBerry Inc.",
       "location": "San Fernando de Henares, Comunidad de Madrid",
       "created": "2026-07-23T00:00:00.0000000",
       "description": "&nbsp;...coordinationOrganize the flow of materials and manage purchasing from suppliers, ensuring supply in terms of time, quality, quantity, and cost.Inventory management and stock controlImplement inventory management…",
-      "url": "https://es.jooble.org/jdp/-4685079471113733564",
+      "url": "https://es.jooble.org/jdp/6871146121157124987",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -533,12 +546,12 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
-      "title": "Demand Planner B2C Pharma: Forecast e Inventario",
+      "title": "DEMAND PLANNER (B2C) - PHARMA Solo Talento calendar_month hace 14 horas place Madrid , España",
       "company": "PMFarma",
       "location": "Madrid",
       "created": "2026-07-24T00:00:00.0000000",
-      "description": "Una empresa del sector farmacéutico busca un responsable de planificar la demanda de productos B2C. El candidato ideal debe tener al menos 4 años de experiencia en operaciones o logística, residir en Madrid y poseer un n…",
-      "url": "https://es.jooble.org/jdp/260241963925634861",
+      "description": "&nbsp;...Responsabilidades \r\n Responsable de planificar la demanda de productos B2C en coordinación con ventas y marketing. \r\n Analizar y prever la demanda de productos para optimizar los niveles de inventario. \r\n Antici…",
+      "url": "https://es.jooble.org/jdp/4144615913369226186",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -546,12 +559,12 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
-      "title": "DEMAND PLANNER (B2C) - PHARMA Solo Talento calendar_month hace 14 horas place Madrid , España",
+      "title": "Demand Planner B2C Pharma: Forecast e Inventario",
       "company": "PMFarma",
       "location": "Madrid",
       "created": "2026-07-24T00:00:00.0000000",
-      "description": "&nbsp;...Responsabilidades \r\n Responsable de planificar la demanda de productos B2C en coordinación con ventas y marketing. \r\n Analizar y prever la demanda de productos para optimizar los niveles de inventario. \r\n Antici…",
-      "url": "https://es.jooble.org/jdp/4144615913369226186",
+      "description": "Una empresa del sector farmacéutico busca un responsable de planificar la demanda de productos B2C. El candidato ideal debe tener al menos 4 años de experiencia en operaciones o logística, residir en Madrid y poseer un n…",
+      "url": "https://es.jooble.org/jdp/260241963925634861",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -578,6 +591,19 @@
       "created": "2026-07-25T00:00:00.0000000",
       "description": "&nbsp;...Fresenius Medical Care busca un Analista de Planificación de Suministros para coordinar el aprovisionamiento de clínicas, optimizar inventarios y gestionar la demanda. Se requiere experiencia en áreas de cadena …",
       "url": "https://es.jooble.org/jdp/1796152148623592540",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Adzuna",
+      "title": "Specialist Supply Chain Business Partner",
+      "company": "Vodafone",
+      "location": "Madrid",
+      "created": "2026-07-17T03:12:14Z",
+      "description": " \\n\\nSobre la posici\\u00f3n:\\n\\nComo especialista en SCM, ser\\u00e1 responsable de establecer relaciones s\\u00f3lidas con el \\u00e1rea usuaria y con el resto de las funciones internas de la compa\\u00f1\\u00eda, y con los …",
+      "url": "https://www.adzuna.es/details/5804112174?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -624,12 +650,12 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "D&A Supply Chain Data & Planning Specialist",
-      "company": "ALK-Abelló A/S",
+      "title": "Supply chain specialist",
+      "company": "Doméstiko.com",
       "location": "Madrid",
-      "created": "2026-07-25T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
-      "url": "https://es.jooble.org/jdp/-8305381542314056300",
+      "created": "2026-06-01T13:47:41.3200000",
+      "description": "Puesto temporal en la cadena de suministro para gestionar y optimizar el flujo de materiales, equilibrando demanda, stock y servicio al cliente. Se coordina con marketing, comercial y categoría para alinear previsiones y…",
+      "url": "https://es.jooble.org/jdp/2790750473505409229",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -637,12 +663,12 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "Supply chain specialist",
-      "company": "Doméstiko.com",
+      "title": "D&A Supply Chain Data & Planning Specialist",
+      "company": "ALK-Abelló A/S",
       "location": "Madrid",
-      "created": "2026-06-01T13:47:41.3200000",
-      "description": "Puesto temporal en la cadena de suministro para gestionar y optimizar el flujo de materiales, equilibrando demanda, stock y servicio al cliente. Se coordina con marketing, comercial y categoría para alinear previsiones y…",
-      "url": "https://es.jooble.org/jdp/2790750473505409229",
+      "created": "2026-07-25T00:00:00.0000000",
+      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
+      "url": "https://es.jooble.org/jdp/-8305381542314056300",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -693,8 +719,8 @@
       "what": "demand planning",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 16,
-      "returned": 1
+      "count": 14,
+      "returned": 2
     },
     {
       "id": 1,
@@ -806,9 +832,9 @@
       "name": "Data Analyst Supply Chain",
       "what": "data analyst supply chain",
       "fuente": "Adzuna",
-      "status": 503,
+      "status": 200,
       "count": 0,
-      "error": "<!DOCTYPE html>\n<html>\n<!-- This file is managed by Chef -->\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Uh oh, something isn't right</title>\n        <meta name=\"HandheldFriendly\" content"
+      "returned": 0
     },
     {
       "id": 20,
@@ -825,9 +851,9 @@
       "name": "Demand Planner",
       "what": "demand planner",
       "fuente": "Adzuna",
-      "status": 503,
+      "status": 200,
       "count": 0,
-      "error": "<!DOCTYPE html>\n<html>\n<!-- This file is managed by Chef -->\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Uh oh, something isn't right</title>\n        <meta name=\"HandheldFriendly\" content"
+      "returned": 0
     },
     {
       "id": 21,
@@ -844,9 +870,9 @@
       "name": "Planificador de Demanda",
       "what": "planificador de demanda",
       "fuente": "Adzuna",
-      "status": 503,
-      "count": 0,
-      "error": "<!DOCTYPE html>\n<html>\n<!-- This file is managed by Chef -->\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Uh oh, something isn't right</title>\n        <meta name=\"HandheldFriendly\" content"
+      "status": 200,
+      "count": 1,
+      "returned": 0
     },
     {
       "id": 22,
@@ -863,9 +889,9 @@
       "name": "Supply Chain Specialist",
       "what": "supply chain specialist",
       "fuente": "Adzuna",
-      "status": 503,
-      "count": 0,
-      "error": "<!DOCTYPE html>\n<html>\n<!-- This file is managed by Chef -->\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Uh oh, something isn't right</title>\n        <meta name=\"HandheldFriendly\" content"
+      "status": 200,
+      "count": 1,
+      "returned": 1
     },
     {
       "id": 23,
@@ -882,9 +908,9 @@
       "name": "Especialista Supply Chain",
       "what": "especialista supply chain",
       "fuente": "Adzuna",
-      "status": 503,
+      "status": 200,
       "count": 0,
-      "error": "<!DOCTYPE html>\n<html>\n<!-- This file is managed by Chef -->\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Uh oh, something isn't right</title>\n        <meta name=\"HandheldFriendly\" content"
+      "returned": 0
     },
     {
       "id": 24,
