@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-27T21:49:05.484Z",
-  "totalOfertas": 51,
+  "actualizado": "2026-07-28T12:25:53.162Z",
+  "totalOfertas": 47,
   "categorias": [
     {
       "id": 1,
@@ -168,37 +168,11 @@
     {
       "cat": 2,
       "catName": "Supply Chain Manager",
-      "fuente": "Adzuna",
-      "title": "EMEA - Delivery Manager",
-      "company": "Nextracker Spain",
-      "location": "Madrid",
-      "created": "2026-07-17T03:10:55Z",
-      "description": "Job Description: The Delivery Manager (DM) acts as the \"Face of the Supply Chain\" for EMEA projects, ensuring that Nextpower projects are well planned, delivered on time, and delivered under budget. The DM engages with p…",
-      "url": "https://www.adzuna.es/details/5804103080?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 2,
-      "catName": "Supply Chain Manager",
-      "fuente": "Adzuna",
-      "title": "Associate Principal Application Product Manager - Supply Chain",
-      "company": "Celonis",
-      "location": "Madrid",
-      "created": "2026-07-17T03:07:31Z",
-      "description": "We're Celonis, the global leader in Process Mining technology and one of the world's fastest-growing SaaS firms. We believe there is a massive opportunity to unlock productivity by placing data and intelligence at the co…",
-      "url": "https://www.adzuna.es/details/5804077892?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 2,
-      "catName": "Supply Chain Manager",
       "fuente": "Jooble",
       "title": "Supply Chain Manager, Amazon Shipping",
       "company": "Amazon",
       "location": "Madrid",
-      "created": "2026-07-23T00:00:00.0000000",
+      "created": "2026-07-28T00:00:00.0000000",
       "description": "&nbsp;...pace. \r\n Amazon Shipping is looking to hire an analytical, technically skilled, innovative, hands-on, and customer-obsessed Supply Chain Manager that can drive innovation and execution in transportation networks…",
       "url": "https://es.jooble.org/jdp/1721887181824174267",
       "salaryMin": null,
@@ -285,45 +259,6 @@
     {
       "cat": 3,
       "catName": "Responsable de Logística",
-      "fuente": "Adzuna",
-      "title": "Responsable departamento logística",
-      "company": "domestiko.com",
-      "location": "Madrid",
-      "created": "2026-07-17T13:38:49Z",
-      "description": "Se requiere un responsable de logística para trabajar en Madrid, con jornada completa de 38,5 horas semanales en turnos rotativos de lunes a domingo. El salario es de 25.000 euros brutos al año más 3.000 euros de retribu…",
-      "url": "https://www.adzuna.es/land/ad/5804824110?se=BDJQ9wSK8RG_9pEfHuJgyQ&utm_medium=api&utm_source=3c972d9b&v=C9D080368D053E5BBFC52C0546F11838B2E410B7",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "fuente": "Adzuna",
-      "title": "Responsable De Customer Service Logísitica Madrid H/M",
-      "company": "S.t.e.f.",
-      "location": "Madrid",
-      "created": "2026-07-17T03:12:24Z",
-      "description": "¿Te apetece asumir nuevos retos en un mundo que no deja de moverse?. En STEF, líder europeo en transporte y logística alimentaria, alimentamos cada día a millones de personas en Europa. Únete a los 25.000 profesionales q…",
-      "url": "https://www.adzuna.es/details/5804113352?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "fuente": "Jooble",
-      "title": "Responsable de Logística - Madrid",
-      "company": "Serveo",
-      "location": "Madrid",
-      "created": "2026-07-27T00:00:00.0000000",
-      "description": "&nbsp;...Buscamos una/un Responsable de Logística en Madrid, cuya misión gestionar el servicio de logística de carga de trenes para RENFE, OUIGO e IRYO, coordinando las operaciones, el equipo de trabajo y las acciones co…",
-      "url": "https://es.jooble.org/jdp/-203189793359869526",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
       "fuente": "Jooble",
       "title": "Jefe/a | responsable logística",
       "company": "Doméstiko.com",
@@ -378,11 +313,24 @@
       "catName": "Responsable de Logística",
       "fuente": "Jooble",
       "title": "Responsable de Logística",
-      "company": "Grupo Crit",
+      "company": "Crit Interim España ETT",
       "location": "Madrid",
-      "created": "2026-07-22T18:10:18.7070242+00:00",
+      "created": "2026-07-22T20:19:43.4000000",
       "description": "&nbsp;...de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras operaciones logísticas …",
-      "url": "https://es.jooble.org/jdp/1038304020790550147",
+      "url": "https://es.jooble.org/jdp/3384803651253534027",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 3,
+      "catName": "Responsable de Logística",
+      "fuente": "Jooble",
+      "title": "RESPONSABLE DE ALMACÉN H/M",
+      "company": "STEF Suisse SA",
+      "location": "San Agustín del Guadalix, Comunidad de Madrid",
+      "created": "2026-07-26T00:00:00.0000000",
+      "description": "&nbsp;...que no deja de moverse?. En STEF, líder europeo en transporte y logística alimentaria, alimentamos cada día a millones de personas en...&nbsp;&nbsp;...Incorpórate a STEF en el centro de San Agustin de Guadalix c…",
+      "url": "https://es.jooble.org/jdp/-5854421211096512445",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -416,6 +364,19 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
+      "title": "Responsable de compras - sector alimentación",
+      "company": "Doméstiko.com",
+      "location": "Algete, Comunidad de Madrid",
+      "created": "2026-05-18T00:00:00.0000000",
+      "description": "En Algete, Madrid, se necesita una persona para el puesto de responsable de compras y aprovisionamiento en el sector alimentación. Las funciones incluyen coordinar al equipo de aprovisionadores para garantizar el suminis…",
+      "url": "https://es.jooble.org/jdp/9080724498082354612",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 7,
+      "catName": "Responsable de Compras",
+      "fuente": "Jooble",
       "title": "Responsable Compras Alimentación - Ultramarinos",
       "company": "Alcampo",
       "location": "Madrid",
@@ -442,19 +403,6 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable de compras - sector alimentación",
-      "company": "Doméstiko.com",
-      "location": "Algete, Comunidad de Madrid",
-      "created": "2026-05-18T00:00:00.0000000",
-      "description": "En Algete, Madrid, se necesita una persona para el puesto de responsable de compras y aprovisionamiento en el sector alimentación. Las funciones incluyen coordinar al equipo de aprovisionadores para garantizar el suminis…",
-      "url": "https://es.jooble.org/jdp/9080724498082354612",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Jooble",
       "title": "Responsable Economato/Compras (Cont. sustitución)",
       "company": "Palladium Hotel Group",
       "location": "Madrid",
@@ -471,7 +419,7 @@
       "title": "Supply Chain Planner",
       "company": "BlackBerry Inc.",
       "location": "San Fernando de Henares, Comunidad de Madrid",
-      "created": "2026-07-23T00:00:00.0000000",
+      "created": "2026-07-28T00:00:00.0000000",
       "description": "&nbsp;...coordinationOrganize the flow of materials and manage purchasing from suppliers, ensuring supply in terms of time, quality, quantity, and cost.Inventory management and stock controlImplement inventory management…",
       "url": "https://es.jooble.org/jdp/6871146121157124987",
       "salaryMin": null,
@@ -597,19 +545,6 @@
     {
       "cat": 23,
       "catName": "Supply Chain Specialist",
-      "fuente": "Adzuna",
-      "title": "Specialist Supply Chain Business Partner",
-      "company": "Vodafone",
-      "location": "Madrid",
-      "created": "2026-07-17T03:12:14Z",
-      "description": " \\n\\nSobre la posici\\u00f3n:\\n\\nComo especialista en SCM, ser\\u00e1 responsable de establecer relaciones s\\u00f3lidas con el \\u00e1rea usuaria y con el resto de las funciones internas de la compa\\u00f1\\u00eda, y con los …",
-      "url": "https://www.adzuna.es/details/5804112174?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 23,
-      "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
       "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
       "company": "ALK-Abelló, A/S",
@@ -617,19 +552,6 @@
       "created": "2026-07-24T00:00:00.0000000",
       "description": "&nbsp;...ALK-Abelló, A/S is looking for a D&A Process Specialist in Madrid to join their Data & Analytics team. This role focuses on building and supporting the data foundation for Product Supply Planning using SAP techn…",
       "url": "https://es.jooble.org/jdp/1701873412360210838",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 23,
-      "catName": "Supply Chain Specialist",
-      "fuente": "Jooble",
-      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
-      "company": "ALK-Abelló Nordic",
-      "location": "Madrid",
-      "created": "2026-07-26T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló Nordic, a leader in allergy treatments, is seeking a D&A Process Specialist within Global IT. This role involves supporting the data foundation for Product Supply Planning and ensuring the accuracy of…",
-      "url": "https://es.jooble.org/jdp/4954228212323915616",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -650,12 +572,12 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "Supply chain specialist",
-      "company": "Doméstiko.com",
+      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
+      "company": "ALK-Abelló Nordic",
       "location": "Madrid",
-      "created": "2026-06-01T13:47:41.3200000",
-      "description": "Puesto temporal en la cadena de suministro para gestionar y optimizar el flujo de materiales, equilibrando demanda, stock y servicio al cliente. Se coordina con marketing, comercial y categoría para alinear previsiones y…",
-      "url": "https://es.jooble.org/jdp/2790750473505409229",
+      "created": "2026-07-26T00:00:00.0000000",
+      "description": "&nbsp;...ALK-Abelló Nordic, a leader in allergy treatments, is seeking a D&A Process Specialist within Global IT. This role involves supporting the data foundation for Product Supply Planning and ensuring the accuracy of…",
+      "url": "https://es.jooble.org/jdp/4954228212323915616",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -676,12 +598,38 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
+      "title": "Supply chain specialist",
+      "company": "Doméstiko.com",
+      "location": "Madrid",
+      "created": "2026-06-01T13:47:41.3200000",
+      "description": "Puesto temporal en la cadena de suministro para gestionar y optimizar el flujo de materiales, equilibrando demanda, stock y servicio al cliente. Se coordina con marketing, comercial y categoría para alinear previsiones y…",
+      "url": "https://es.jooble.org/jdp/2790750473505409229",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Jooble",
       "title": "Strategic Procurement & Sourcing Specialist",
       "company": "Flowserve SIHI (Spain) SL",
       "location": "Pozuelo de Alarcón, Comunidad de Madrid",
       "created": "2026-07-24T00:00:00.0000000",
       "description": "&nbsp;...SIHI (Spain) SL is seeking a Procurement Specialist to manage the end-to-end PO process at...&nbsp;&nbsp;...English proficiency, 2+ years in supply chain, and strong negotiation and project management...&nbsp;&n…",
       "url": "https://es.jooble.org/jdp/-1388323582662221019",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 24,
+      "catName": "Especialista Supply Chain",
+      "fuente": "Adzuna",
+      "title": "Especialista Tecnico Supply Chain",
+      "company": "Rovi",
+      "location": "Madrid",
+      "created": "2026-07-28T03:23:56Z",
+      "description": "What do we do? We are a Spanish pharmaceutical company engaged in the research and development, manufacturing and marketing of small molecules and biological medical products. We likewise use our sales channels to market…",
+      "url": "https://www.adzuna.es/details/5817851528?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -719,7 +667,7 @@
       "what": "demand planning",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 14,
+      "count": 6,
       "returned": 2
     },
     {
@@ -728,7 +676,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 2669,
+      "count": 2612,
       "crudos": 30,
       "returned": 6
     },
@@ -738,8 +686,8 @@
       "what": "supply chain manager",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 3,
-      "returned": 3
+      "count": 1,
+      "returned": 1
     },
     {
       "id": 2,
@@ -747,7 +695,7 @@
       "what": "supply chain manager",
       "fuente": "Jooble",
       "status": 200,
-      "count": 170,
+      "count": 171,
       "crudos": 30,
       "returned": 6
     },
@@ -757,8 +705,8 @@
       "what": "responsable logistica",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 3,
-      "returned": 3
+      "count": 1,
+      "returned": 1
     },
     {
       "id": 3,
@@ -766,7 +714,7 @@
       "what": "responsable logistica",
       "fuente": "Jooble",
       "status": 200,
-      "count": 1443,
+      "count": 1489,
       "crudos": 30,
       "returned": 6
     },
@@ -804,7 +752,7 @@
       "what": "responsable compras",
       "fuente": "Jooble",
       "status": 200,
-      "count": 169,
+      "count": 168,
       "crudos": 30,
       "returned": 5
     },
@@ -823,7 +771,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 123,
+      "count": 125,
       "crudos": 30,
       "returned": 3
     },
@@ -842,7 +790,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 266,
+      "count": 286,
       "crudos": 30,
       "returned": 4
     },
@@ -861,7 +809,7 @@
       "what": "demand planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 170,
+      "count": 169,
       "crudos": 30,
       "returned": 6
     },
@@ -880,7 +828,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 123,
+      "count": 125,
       "crudos": 30,
       "returned": 1
     },
@@ -890,8 +838,8 @@
       "what": "supply chain specialist",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 1,
-      "returned": 1
+      "count": 0,
+      "returned": 0
     },
     {
       "id": 23,
@@ -899,7 +847,7 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 154,
+      "count": 152,
       "crudos": 30,
       "returned": 6
     },
@@ -909,8 +857,8 @@
       "what": "especialista supply chain",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 0,
-      "returned": 0
+      "count": 1,
+      "returned": 1
     },
     {
       "id": 24,
