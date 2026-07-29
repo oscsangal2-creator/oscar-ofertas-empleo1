@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-29T16:53:02.900Z",
+  "actualizado": "2026-07-29T21:15:57.825Z",
   "totalOfertas": 47,
   "categorias": [
     {
@@ -364,12 +364,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable Compras Alimentación - Ultramarinos",
-      "company": "Alcampo",
+      "title": "Responsable de Compras Transporte",
+      "company": "DHL",
       "location": "Madrid",
-      "created": "2026-07-14T15:35:54.0830000",
-      "description": "&nbsp;...desarrollo del talento de todas y cada una de las personas de la empresa.\nSi eres la persona seleccionada, tu misión como Responsable de Compras será seleccionar a los proveedores de mascotas y alimento seco y n…",
-      "url": "https://es.jooble.org/jdp/-9158281761937606189",
+      "created": "2026-07-14T15:35:57.7630000",
+      "description": "&nbsp;...at DHL \r\n The selection process will be fully managed by DHL. \r\n--\r\n## Role Purpose:\nJunto con el/la Gerente del área de compras será responsable de definir la política de compras de Transporte de la Organizació…",
+      "url": "https://es.jooble.org/jdp/976876926834948638",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -377,12 +377,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable de Compras Transporte",
-      "company": "DHL",
+      "title": "Responsable Compras Alimentación - Ultramarinos",
+      "company": "Alcampo",
       "location": "Madrid",
-      "created": "2026-07-14T15:35:57.7630000",
-      "description": "&nbsp;...at DHL \r\n The selection process will be fully managed by DHL. \r\n--\r\n## Role Purpose:\nJunto con el/la Gerente del área de compras será responsable de definir la política de compras de Transporte de la Organizació…",
-      "url": "https://es.jooble.org/jdp/976876926834948638",
+      "created": "2026-07-14T15:35:54.0830000",
+      "description": "&nbsp;...desarrollo del talento de todas y cada una de las personas de la empresa.\nSi eres la persona seleccionada, tu misión como Responsable de Compras será seleccionar a los proveedores de mascotas y alimento seco y n…",
+      "url": "https://es.jooble.org/jdp/-9158281761937606189",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -695,7 +695,7 @@
       "what": "supply chain manager",
       "fuente": "Jooble",
       "status": 200,
-      "count": 170,
+      "count": 169,
       "crudos": 30,
       "returned": 6
     },
@@ -809,7 +809,7 @@
       "what": "demand planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 168,
+      "count": 169,
       "crudos": 30,
       "returned": 6
     },
@@ -847,7 +847,7 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 156,
+      "count": 155,
       "crudos": 30,
       "returned": 6
     },
