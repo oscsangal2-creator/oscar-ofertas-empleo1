@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-07-30T17:10:01.287Z",
-  "totalOfertas": 50,
+  "actualizado": "2026-07-30T21:49:45.089Z",
+  "totalOfertas": 49,
   "categorias": [
     {
       "id": 1,
@@ -48,19 +48,6 @@
     }
   ],
   "ofertas": [
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Adzuna",
-      "title": "Demand Planning And Ibp Adherence Manager",
-      "company": "RED Global",
-      "location": "Madrid",
-      "created": "2026-07-29T23:41:29Z",
-      "description": "Demand Planning and IBP Adherence Manager Demand Planning and IBP Adherence Manager Get AI-powered advice on this job and more exclusive features. Direct message the job poster from RED Global  Demand Planning and IBP Ad…",
-      "url": "https://www.adzuna.es/details/5820250875?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
     {
       "cat": 1,
       "catName": "Demand Planning Manager",
@@ -130,12 +117,12 @@
       "cat": 1,
       "catName": "Demand Planning Manager",
       "fuente": "Jooble",
-      "title": "Global Hermes Retail Analyst & Planner",
-      "company": "The Nuance Group AG",
+      "title": "Demand Planner Manager Pinto",
+      "company": "ALSTOM Gruppe",
       "location": "Madrid",
-      "created": "2026-07-27T00:00:00.0000000",
-      "description": "&nbsp;...Planner  , you will play a key role in driving commercial performance through best‑in‑class forecasting, inventory optimization, and demand planning activities. Acting as a strategic business partner to the Herm…",
-      "url": "https://es.jooble.org/jdp/3445549701322567044",
+      "created": "2026-07-26T00:00:00.0000000",
+      "description": "&nbsp;...Demand Planner Manager Pinto \r\n Location:  Madrid, ES \r\n Company:  Alstom \r\n At Alstom we...&nbsp;&nbsp;...Take on a new challenge and apply your planning expertise in a new cutting‑edge field. You...&nbsp;&nbsp…",
+      "url": "https://es.jooble.org/jdp/-5435864405095181787",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -143,12 +130,12 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Adzuna",
-      "title": "Supply Chain Operations Manager Services A400M Mgmt - Tasmp3 (Temp Agency)",
-      "company": "Airbus",
+      "title": "Sales Manager Supply Chain",
+      "company": "Generix",
       "location": "Madrid",
-      "created": "2026-07-29T23:41:24Z",
-      "description": "RESPONSIBILITIES - Manage contract execution, being responsible for supplier On Quality On Time (On Cost when applicable) (OQOT(OC)) performance. - Perform an effective control of supplier activities, securing a close un…",
-      "url": "https://www.adzuna.es/details/5820249862?utm_medium=api&utm_source=3c972d9b",
+      "created": "2026-07-30T23:41:53Z",
+      "description": "Generix is a leading SaaS vendor specializing in Collaborative Supply Chain solutions that enable the seamless exchange of goods and data across the globe between suppliers and customers, all while responsibly managing t…",
+      "url": "https://www.adzuna.es/details/5821534166?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -156,25 +143,12 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Adzuna",
-      "title": "End-To-End Production & Supply Chain Manager (Mrtt)",
+      "title": "Supply Chain Quality Manager (Scqm) Taopoz1 Avionic Systems",
       "company": "Airbus",
       "location": "Madrid",
-      "created": "2026-07-29T23:41:24Z",
-      "description": "Job Description: A position as Industrial and Production Control specialist has arisen within Industrial team for Airbus Defence & Space in MRTT, Getafe/Sevilla Key Responsibilities Industrial manager Key role for the ov…",
-      "url": "https://www.adzuna.es/details/5820250013?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 2,
-      "catName": "Supply Chain Manager",
-      "fuente": "Adzuna",
-      "title": "Supply Chain Quality Manager Production Materials (Temp Agency)",
-      "company": "Airbus",
-      "location": "Madrid",
-      "created": "2026-07-29T23:41:23Z",
-      "description": "A vacancy for a Supply chain and quality management has arisen within Airbus Defence & Space in Getafe (Madrid). Responsibilities Act as interface with suppliers for operational activities. Assess suppliers during tender…",
-      "url": "https://www.adzuna.es/details/5820249667?utm_medium=api&utm_source=3c972d9b",
+      "created": "2026-07-30T23:41:49Z",
+      "description": "Supply Chain & Quality Manager Supply Chain & Quality Manager The importance of the supply chain and the resulting supplier management continues to increase at Airbus Defence and Space. \"Supply Chain Quality Management\" …",
+      "url": "https://www.adzuna.es/details/5821533815?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -403,12 +377,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable Compras Alimentación - Ultramarinos",
-      "company": "Alcampo",
+      "title": "Responsable de Compras Transporte",
+      "company": "DHL",
       "location": "Madrid",
-      "created": "2026-05-22T17:42:44.7688869+00:00",
-      "description": "&nbsp;...desarrollo del talento de todas y cada una de las personas de la empresa. \r\n Si eres la persona seleccionada, tu misión como Responsable de Compras será seleccionar a los proveedores de mascotas y alimento seco …",
-      "url": "https://es.jooble.org/jdp/7246877713721938146",
+      "created": "2026-07-14T15:35:57.7630000",
+      "description": "&nbsp;...at DHL \r\n The selection process will be fully managed by DHL. \r\n--\r\n## Role Purpose:\nJunto con el/la Gerente del área de compras será responsable de definir la política de compras de Transporte de la Organizació…",
+      "url": "https://es.jooble.org/jdp/976876926834948638",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -416,12 +390,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable de Compras Transporte",
-      "company": "DHL",
+      "title": "Responsable Compras Alimentación - Ultramarinos",
+      "company": "Alcampo",
       "location": "Madrid",
-      "created": "2026-07-14T15:35:57.7630000",
-      "description": "&nbsp;...at DHL \r\n The selection process will be fully managed by DHL. \r\n--\r\n## Role Purpose:\nJunto con el/la Gerente del área de compras será responsable de definir la política de compras de Transporte de la Organizació…",
-      "url": "https://es.jooble.org/jdp/976876926834948638",
+      "created": "2026-07-14T15:35:54.0830000",
+      "description": "&nbsp;...desarrollo del talento de todas y cada una de las personas de la empresa.\nSi eres la persona seleccionada, tu misión como Responsable de Compras será seleccionar a los proveedores de mascotas y alimento seco y n…",
+      "url": "https://es.jooble.org/jdp/-9158281761937606189",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -461,6 +435,19 @@
       "created": "2026-07-28T00:00:00.0000000",
       "description": "&nbsp;...coordinationOrganize the flow of materials and manage purchasing from suppliers, ensuring supply in terms of time, quality, quantity, and cost.Inventory management and stock controlImplement inventory management…",
       "url": "https://es.jooble.org/jdp/6871146121157124987",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 14,
+      "catName": "Inventory Planning Specialist",
+      "fuente": "Jooble",
+      "title": "Global Hermes Retail Analyst & Planner",
+      "company": "The Nuance Group AG",
+      "location": "Madrid",
+      "created": "2026-07-27T00:00:00.0000000",
+      "description": "&nbsp;...together. \r\n PURPOSE OF THE ROLE \r\n As the  Global Category Hermes Retail Analyst & Planner  , you will play a key role in driving commercial performance through best‑in‑class forecasting, inventory optimization…",
+      "url": "https://es.jooble.org/jdp/3445549701322567044",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -546,19 +533,6 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
-      "title": "Demand Planner Manager Pinto",
-      "company": "ALSTOM Gruppe",
-      "location": "Madrid",
-      "created": "2026-07-26T00:00:00.0000000",
-      "description": "&nbsp;...Demand Planner Manager Pinto \r\n Location:  Madrid, ES \r\n Company:  Alstom \r\n At Alstom we understand transport networks and what moves people. From high‑speed trains, metros, monorails, and trams to turnkey syst…",
-      "url": "https://es.jooble.org/jdp/-5435864405095181787",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 21,
-      "catName": "Demand Planner",
-      "fuente": "Jooble",
       "title": "Iberia Demand Planner — IBP & Forecasting Expert",
       "company": "Mondelez International",
       "location": "Madrid",
@@ -637,12 +611,12 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "D&A Supply Chain Data & Planning Specialist",
-      "company": "ALK-Abelló A/S",
+      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
+      "company": "ALK-Abelló, A/S",
       "location": "Madrid",
-      "created": "2026-07-30T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
-      "url": "https://es.jooble.org/jdp/-8305381542314056300",
+      "created": "2026-07-29T00:00:00.0000000",
+      "description": "&nbsp;...ALK-Abelló, A/S is looking for a D&A Process Specialist in Madrid to join their Data & Analytics team. This role focuses on building and supporting the data foundation for Product Supply Planning using SAP techn…",
+      "url": "https://es.jooble.org/jdp/1701873412360210838",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -650,12 +624,12 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
-      "company": "ALK-Abelló, A/S",
+      "title": "D&A Supply Chain Data & Planning Specialist",
+      "company": "ALK-Abelló A/S",
       "location": "Madrid",
-      "created": "2026-07-29T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló, A/S is looking for a D&A Process Specialist in Madrid to join their Data & Analytics team. This role focuses on building and supporting the data foundation for Product Supply Planning using SAP techn…",
-      "url": "https://es.jooble.org/jdp/1701873412360210838",
+      "created": "2026-07-30T00:00:00.0000000",
+      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
+      "url": "https://es.jooble.org/jdp/-8305381542314056300",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -697,6 +671,19 @@
       "url": "https://es.jooble.org/jdp/-1878787768152171552",
       "salaryMin": null,
       "salaryMax": null
+    },
+    {
+      "cat": 24,
+      "catName": "Especialista Supply Chain",
+      "fuente": "Jooble",
+      "title": "ESPECIALISTA FUNCIONAL SENIOR BUSINESS CENTRAL",
+      "company": "Enhol Group",
+      "location": "Madrid",
+      "created": "2026-07-29T00:00:00.0000000",
+      "description": "&nbsp;...el conocimiento de procesos de negocio. \r\n Imprescindible poseer conocimiento de procesos empresariales (finanzas, operaciones, supply chain) y experiencia en definición de requerimientos y coordinación con nego…",
+      "url": "https://es.jooble.org/jdp/8464315803845008758",
+      "salaryMin": null,
+      "salaryMax": null
     }
   ],
   "debug": [
@@ -706,8 +693,8 @@
       "what": "demand planning",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 10,
-      "returned": 1
+      "count": 11,
+      "returned": 0
     },
     {
       "id": 1,
@@ -715,7 +702,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 2701,
+      "count": 2421,
       "crudos": 30,
       "returned": 6
     },
@@ -725,8 +712,8 @@
       "what": "supply chain manager",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 11,
-      "returned": 3
+      "count": 14,
+      "returned": 2
     },
     {
       "id": 2,
@@ -782,7 +769,7 @@
       "what": "responsable compras",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 4,
+      "count": 5,
       "returned": 0
     },
     {
@@ -810,7 +797,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 149,
+      "count": 143,
       "crudos": 30,
       "returned": 3
     },
@@ -829,7 +816,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 312,
+      "count": 302,
       "crudos": 30,
       "returned": 4
     },
@@ -848,7 +835,7 @@
       "what": "demand planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 169,
+      "count": 168,
       "crudos": 30,
       "returned": 6
     },
@@ -867,7 +854,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 149,
+      "count": 143,
       "crudos": 30,
       "returned": 1
     },
@@ -907,7 +894,7 @@
       "status": 200,
       "count": 751,
       "crudos": 30,
-      "returned": 2
+      "returned": 3
     }
   ]
 }
