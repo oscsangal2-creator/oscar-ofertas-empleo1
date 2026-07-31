@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-31T17:12:54.872Z",
+  "actualizado": "2026-07-31T21:46:42.774Z",
   "totalOfertas": 48,
   "categorias": [
     {
@@ -52,12 +52,12 @@
       "cat": 1,
       "catName": "Demand Planning Manager",
       "fuente": "Jooble",
-      "title": "Demand Planning Specialist -Temporal (1 year)",
-      "company": "Mondelez International",
+      "title": "Strategic Demand Forecasting & Data Modeling Analyst",
+      "company": "PVH (Tommy Hilfiger/Calvin Klein)",
       "location": "Madrid",
-      "created": "2026-07-27T00:00:00.0000000",
-      "description": "Demand Planning Specialist -Temporal (1 year)Skip to main content#Demand Planning Specialist -Temporal (1 year) page is loaded## Demand Planning...&nbsp;&nbsp;.... You will also:* **Own the short-term and long-term deman…",
-      "url": "https://es.jooble.org/jdp/-4690747128720431079",
+      "created": "2026-07-29T14:54:00.0130000",
+      "description": "&nbsp;...Suntory Global Spirits is seeking a Demand Planning Data Modeling & Analytics Analyst to deliver high‑quality insights, improve forecasting performance and drive better decision‑making across our global business…",
+      "url": "https://es.jooble.org/jdp/5450187984763955667",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -65,12 +65,12 @@
       "cat": 1,
       "catName": "Demand Planning Manager",
       "fuente": "Jooble",
-      "title": "Strategic Demand Forecasting & Data Modeling Analyst",
-      "company": "PVH (Tommy Hilfiger/Calvin Klein)",
+      "title": "Demand Planning Specialist -Temporal (1 year)",
+      "company": "Mondelez International",
       "location": "Madrid",
-      "created": "2026-07-29T14:54:00.0130000",
-      "description": "&nbsp;...Suntory Global Spirits is seeking a Demand Planning Data Modeling & Analytics Analyst to deliver high‑quality insights, improve forecasting performance and drive better decision‑making across our global business…",
-      "url": "https://es.jooble.org/jdp/5450187984763955667",
+      "created": "2026-07-27T00:00:00.0000000",
+      "description": "Demand Planning Specialist -Temporal (1 year)Skip to main content#Demand Planning Specialist -Temporal (1 year) page is loaded## Demand Planning...&nbsp;&nbsp;.... You will also:* **Own the short-term and long-term deman…",
+      "url": "https://es.jooble.org/jdp/-4690747128720431079",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -117,12 +117,12 @@
       "cat": 1,
       "catName": "Demand Planning Manager",
       "fuente": "Jooble",
-      "title": "Global Hermes Retail Analyst & Planner",
-      "company": "The Nuance Group AG",
+      "title": "Demand Planner Manager Pinto",
+      "company": "ALSTOM Gruppe",
       "location": "Madrid",
-      "created": "2026-07-27T00:00:00.0000000",
-      "description": "&nbsp;...Planner  , you will play a key role in driving commercial performance through best‑in‑class forecasting, inventory optimization, and demand planning activities. Acting as a strategic business partner to the Herm…",
-      "url": "https://es.jooble.org/jdp/3445549701322567044",
+      "created": "2026-07-31T00:00:00.0000000",
+      "description": "&nbsp;...Demand Planner Manager Pinto \r\n Location:  Madrid, ES \r\n Company:  Alstom \r\n At Alstom we...&nbsp;&nbsp;...Take on a new challenge and apply your planning expertise in a new cutting‑edge field. You...&nbsp;&nbsp…",
+      "url": "https://es.jooble.org/jdp/-5435864405095181787",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -439,6 +439,19 @@
       "salaryMax": null
     },
     {
+      "cat": 14,
+      "catName": "Inventory Planning Specialist",
+      "fuente": "Jooble",
+      "title": "Global Hermes Retail Analyst & Planner",
+      "company": "The Nuance Group AG",
+      "location": "Madrid",
+      "created": "2026-07-27T00:00:00.0000000",
+      "description": "&nbsp;...together. \r\n PURPOSE OF THE ROLE \r\n As the  Global Category Hermes Retail Analyst & Planner  , you will play a key role in driving commercial performance through best‑in‑class forecasting, inventory optimization…",
+      "url": "https://es.jooble.org/jdp/3445549701322567044",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
       "cat": 20,
       "catName": "Data Analyst Supply Chain",
       "fuente": "Jooble",
@@ -513,19 +526,6 @@
       "created": "2026-07-29T00:00:00.0000000",
       "description": "Una empresa del sector farmacéutico busca un responsable de planificar la demanda de productos B2C. El candidato ideal debe tener al menos 4 años de experiencia en operaciones o logística, residir en Madrid y poseer un n…",
       "url": "https://es.jooble.org/jdp/260241963925634861",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 21,
-      "catName": "Demand Planner",
-      "fuente": "Jooble",
-      "title": "Demand Planner Manager Pinto",
-      "company": "ALSTOM Gruppe",
-      "location": "Madrid",
-      "created": "2026-07-31T00:00:00.0000000",
-      "description": "&nbsp;...Demand Planner Manager Pinto \r\n Location:  Madrid, ES \r\n Company:  Alstom \r\n At Alstom we understand transport networks and what moves people. From high‑speed trains, metros, monorails, and trams to turnkey syst…",
-      "url": "https://es.jooble.org/jdp/-5435864405095181787",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -680,7 +680,7 @@
       "what": "demand planning",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 12,
+      "count": 11,
       "returned": 0
     },
     {
@@ -689,7 +689,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 2494,
+      "count": 2528,
       "crudos": 30,
       "returned": 6
     },
@@ -860,7 +860,7 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 158,
+      "count": 157,
       "crudos": 30,
       "returned": 5
     },
