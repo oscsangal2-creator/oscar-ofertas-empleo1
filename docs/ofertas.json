@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-03T18:27:04.132Z",
-  "totalOfertas": 46,
+  "actualizado": "2026-08-03T21:51:49.982Z",
+  "totalOfertas": 47,
   "categorias": [
     {
       "id": 1,
@@ -195,19 +195,6 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Jooble",
-      "title": "EMEA Supply Chain Program Manager",
-      "company": "enerpac",
-      "location": "Madrid",
-      "created": "2026-08-03T00:00:00.0000000",
-      "description": "&nbsp;...basic function of the role \r\n We are seeking an experienced Supply Chain Program Manager to join our team in Alcobendas, Madrid. This is a hybrid...&nbsp;&nbsp;...Product Management, Operations, Quality, Procure…",
-      "url": "https://es.jooble.org/jdp/5376665288814191890",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 2,
-      "catName": "Supply Chain Manager",
-      "fuente": "Jooble",
       "title": "Senior Supply Chain Manager , WW Engineering and Innovation",
       "company": "Amazon",
       "location": "Madrid",
@@ -221,12 +208,25 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Jooble",
-      "title": "Supply Chain Quality Manager Production Materials",
+      "title": "EMEA Supply Chain Program Manager",
+      "company": "enerpac",
+      "location": "Madrid",
+      "created": "2026-08-03T00:00:00.0000000",
+      "description": "&nbsp;...basic function of the role \r\n We are seeking an experienced Supply Chain Program Manager to join our team in Alcobendas, Madrid. This is a hybrid...&nbsp;&nbsp;...Product Management, Operations, Quality, Procure…",
+      "url": "https://es.jooble.org/jdp/5376665288814191890",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 2,
+      "catName": "Supply Chain Manager",
+      "fuente": "Jooble",
+      "title": "SCQM - Supply Chain and Quality Manager - Aerostructures Doors (Temp Agency)",
       "company": "Airbus",
       "location": "Getafe, Comunidad de Madrid",
       "created": "2026-07-02T00:00:00.0000000",
-      "description": "&nbsp;...Airbus \r\n The selection process will be fully managed by Airbus. \r\n--\r\n**Job Description:**\nA vacancy for a Supply chain and quality management has arisen within Airbus...&nbsp;&nbsp;...Cost when applicable) per…",
-      "url": "https://es.jooble.org/jdp/-5250928667403735105",
+      "description": "&nbsp;...Airbus \r\n The selection process will be fully managed by Airbus. \r\n--\r\n**Job Description:**\n* An opportunity for Supply Chain and Quality Manager has arisen within Airbus...&nbsp;&nbsp;...applicable, cost-relate…",
+      "url": "https://es.jooble.org/jdp/-5014085758830422800",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -403,12 +403,12 @@
       "cat": 14,
       "catName": "Inventory Planning Specialist",
       "fuente": "Jooble",
-      "title": "Strategic Supply Chain Planner (Hybrid)",
+      "title": "Supply Chain Planner",
       "company": "BlackBerry Inc.",
       "location": "San Fernando de Henares, Comunidad de Madrid",
       "created": "2026-08-02T00:00:00.0000000",
       "description": "&nbsp;...coordinationOrganize the flow of materials and manage purchasing from suppliers, ensuring supply in terms of time, quality, quantity, and cost.Inventory management and stock controlImplement inventory management…",
-      "url": "https://es.jooble.org/jdp/-4685079471113733564",
+      "url": "https://es.jooble.org/jdp/6871146121157124987",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -645,6 +645,19 @@
       "url": "https://es.jooble.org/jdp/-1878787768152171552",
       "salaryMin": null,
       "salaryMax": null
+    },
+    {
+      "cat": 24,
+      "catName": "Especialista Supply Chain",
+      "fuente": "Jooble",
+      "title": "ESPECIALISTA FUNCIONAL SENIOR BUSINESS CENTRAL",
+      "company": "Enhol Group",
+      "location": "Madrid",
+      "created": "2026-08-03T00:00:00.0000000",
+      "description": "&nbsp;...el conocimiento de procesos de negocio. \r\n Imprescindible poseer conocimiento de procesos empresariales (finanzas, operaciones, supply chain) y experiencia en definición de requerimientos y coordinación con nego…",
+      "url": "https://es.jooble.org/jdp/8464315803845008758",
+      "salaryMin": null,
+      "salaryMax": null
     }
   ],
   "debug": [
@@ -758,7 +771,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 146,
+      "count": 142,
       "crudos": 30,
       "returned": 3
     },
@@ -815,7 +828,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 146,
+      "count": 142,
       "crudos": 30,
       "returned": 0
     },
@@ -853,9 +866,9 @@
       "what": "especialista supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 716,
+      "count": 705,
       "crudos": 30,
-      "returned": 2
+      "returned": 3
     }
   ]
 }
