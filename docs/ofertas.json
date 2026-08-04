@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-04T18:14:43.460Z",
-  "totalOfertas": 44,
+  "actualizado": "2026-08-04T22:20:33.476Z",
+  "totalOfertas": 45,
   "categorias": [
     {
       "id": 1,
@@ -48,19 +48,6 @@
     }
   ],
   "ofertas": [
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Adzuna",
-      "title": "Demand Planning Lead | Process Owner",
-      "company": "Brambles",
-      "location": "Madrid",
-      "created": "2026-08-01T23:42:37Z",
-      "description": "CHEP helps move more goods to more people, in more places than any other organization on earth via our 347 million pallets, crates and containers. We employ approximately 13,000 people and operate in 60 countries. Throug…",
-      "url": "https://www.adzuna.es/details/5824699079?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
     {
       "cat": 1,
       "catName": "Demand Planning Manager",
@@ -208,6 +195,19 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Jooble",
+      "title": "SCQM - Supply Chain and Quality Manager - Aerostructures Doors (Temp Agency)",
+      "company": "Airbus",
+      "location": "Getafe, Comunidad de Madrid",
+      "created": "2026-07-02T00:00:00.0000000",
+      "description": "&nbsp;...Airbus \r\n The selection process will be fully managed by Airbus. \r\n--\r\n**Job Description:**\n* An opportunity for Supply Chain and Quality Manager has arisen within Airbus...&nbsp;&nbsp;...applicable, cost-relate…",
+      "url": "https://es.jooble.org/jdp/-5014085758830422800",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 2,
+      "catName": "Supply Chain Manager",
+      "fuente": "Jooble",
       "title": "Supply Chain Quality Manager Production Materials",
       "company": "Airbus",
       "location": "Getafe, Comunidad de Madrid",
@@ -218,15 +218,15 @@
       "salaryMax": null
     },
     {
-      "cat": 2,
-      "catName": "Supply Chain Manager",
-      "fuente": "Jooble",
-      "title": "Supply Chain Quality Manager (SCQM) TAOPOZ1 Avionic Systems",
-      "company": "Airbus",
-      "location": "Getafe, Comunidad de Madrid",
-      "created": "2026-07-02T00:00:00.0000000",
-      "description": "&nbsp;...Airbus \r\n The selection process will be fully managed by Airbus. \r\n--\r\n**Job Description:**\nAn opportunity for a **Supply Chain & Quality Manager** has arisen within Airbus...&nbsp;&nbsp;...and critical sub-tier…",
-      "url": "https://es.jooble.org/jdp/7591915622722246945",
+      "cat": 3,
+      "catName": "Responsable de Logística",
+      "fuente": "Adzuna",
+      "title": "Administrativo/a de Logística",
+      "company": "Crit Interim España ETT",
+      "location": "Madrid",
+      "created": "2026-07-30T12:30:58Z",
+      "description": "En io Promo , empresa con más de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras op…",
+      "url": "https://www.adzuna.es/details/5820997534?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -494,6 +494,19 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
+      "title": "Senior Demand Planner (H/M)",
+      "company": "OBRAMAT",
+      "location": "Leganés, Comunidad de Madrid",
+      "created": "2026-05-14T01:22:20.9570000",
+      "description": "&nbsp;...similar. (Tener un Máster en Supply Chain o Planificación es un plus). \r\n Experiencia:  De 3 a 5 años, en roles de planificación de la demanda y/o aprovisionamiento. Idealmente, lidiando con un catálogo masivo (…",
+      "url": "https://es.jooble.org/jdp/6705567280202490098",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 21,
+      "catName": "Demand Planner",
+      "fuente": "Jooble",
       "title": "demand planner.",
       "company": "Randstad",
       "location": "Alcobendas, Comunidad de Madrid",
@@ -504,15 +517,15 @@
       "salaryMax": null
     },
     {
-      "cat": 21,
-      "catName": "Demand Planner",
-      "fuente": "Jooble",
-      "title": "Senior Demand Planner (H/M)",
-      "company": "OBRAMAT",
-      "location": "Leganés, Comunidad de Madrid",
-      "created": "2026-05-14T01:22:20.9570000",
-      "description": "&nbsp;...similar. (Tener un Máster en Supply Chain o Planificación es un plus). \r\n Experiencia:  De 3 a 5 años, en roles de planificación de la demanda y/o aprovisionamiento. Idealmente, lidiando con un catálogo masivo (…",
-      "url": "https://es.jooble.org/jdp/6705567280202490098",
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Adzuna",
+      "title": "Specialist Supply Chain Network Optimization EMEA (m/w/d)",
+      "company": "Sika",
+      "location": "Madrid",
+      "created": "2026-08-04T21:52:57Z",
+      "description": "Job Description In this role as Specialist Supply Chain Network Optimization you support EMEA countries in designing, evaluating, and optimizing regional distribution networks to improve service, reduce logistics cost, a…",
+      "url": "https://www.adzuna.es/details/5828154458?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -533,12 +546,12 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "D&A Supply Chain Data & Planning Specialist",
-      "company": "ALK-Abelló A/S",
+      "title": "Supply chain specialist",
+      "company": "Doméstiko.com",
       "location": "Madrid",
-      "created": "2026-08-04T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
-      "url": "https://es.jooble.org/jdp/-8305381542314056300",
+      "created": "2026-06-01T13:47:41.3200000",
+      "description": "Puesto temporal en la cadena de suministro para gestionar y optimizar el flujo de materiales, equilibrando demanda, stock y servicio al cliente. Se coordina con marketing, comercial y categoría para alinear previsiones y…",
+      "url": "https://es.jooble.org/jdp/2790750473505409229",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -546,12 +559,12 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "Supply chain specialist",
-      "company": "Doméstiko.com",
+      "title": "D&A Supply Chain Data & Planning Specialist",
+      "company": "ALK-Abelló A/S",
       "location": "Madrid",
-      "created": "2026-06-01T13:47:41.3200000",
-      "description": "Puesto temporal en la cadena de suministro para gestionar y optimizar el flujo de materiales, equilibrando demanda, stock y servicio al cliente. Se coordina con marketing, comercial y categoría para alinear previsiones y…",
-      "url": "https://es.jooble.org/jdp/2790750473505409229",
+      "created": "2026-08-04T00:00:00.0000000",
+      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
+      "url": "https://es.jooble.org/jdp/-8305381542314056300",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -628,8 +641,8 @@
       "what": "demand planning",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 6,
-      "returned": 1
+      "count": 4,
+      "returned": 0
     },
     {
       "id": 1,
@@ -637,7 +650,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 2511,
+      "count": 2515,
       "crudos": 30,
       "returned": 6
     },
@@ -666,8 +679,8 @@
       "what": "responsable logistica",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 8,
-      "returned": 0
+      "count": 6,
+      "returned": 1
     },
     {
       "id": 3,
@@ -675,7 +688,7 @@
       "what": "responsable logistica",
       "fuente": "Jooble",
       "status": 200,
-      "count": 1367,
+      "count": 1372,
       "crudos": 30,
       "returned": 6
     },
@@ -780,7 +793,7 @@
       "what": "planificador de demanda",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 1,
+      "count": 0,
       "returned": 0
     },
     {
@@ -799,8 +812,8 @@
       "what": "supply chain specialist",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 0,
-      "returned": 0
+      "count": 1,
+      "returned": 1
     },
     {
       "id": 23,
@@ -808,7 +821,7 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 143,
+      "count": 144,
       "crudos": 30,
       "returned": 5
     },
@@ -827,7 +840,7 @@
       "what": "especialista supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 719,
+      "count": 733,
       "crudos": 30,
       "returned": 2
     }
