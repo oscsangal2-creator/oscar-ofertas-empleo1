@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T01:53:16.002Z",
+  "actualizado": "2026-08-07T09:37:49.438Z",
   "totalOfertas": 50,
   "categorias": [
     {
@@ -159,7 +159,7 @@
       "title": "Supply Chain Manager, Amazon Shipping",
       "company": "Amazon",
       "location": "Madrid",
-      "created": "2026-08-02T00:00:00.0000000",
+      "created": "2026-08-07T00:00:00.0000000",
       "description": "&nbsp;...pace. \r\n Amazon Shipping is looking to hire an analytical, technically skilled, innovative, hands-on, and customer-obsessed Supply Chain Manager that can drive innovation and execution in transportation networks…",
       "url": "https://es.jooble.org/jdp/1721887181824174267",
       "salaryMin": null,
@@ -248,11 +248,24 @@
       "catName": "Responsable de Logística",
       "fuente": "Jooble",
       "title": "Responsable de Logística",
-      "company": "Grupo Crit",
+      "company": "Crit Interim España ETT",
       "location": "Madrid",
       "created": "2026-07-22T00:00:00.0000000",
       "description": "&nbsp;...de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras operaciones logísticas …",
-      "url": "https://es.jooble.org/jdp/-1274186090459448211",
+      "url": "https://es.jooble.org/jdp/2962838240758859799",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 3,
+      "catName": "Responsable de Logística",
+      "fuente": "Jooble",
+      "title": "Responsable Logistica",
+      "company": "Hays",
+      "location": "Madrid",
+      "created": "2026-08-06T00:00:00.0000000",
+      "description": "&nbsp;...Desde\nHays España, estamos gestionando un proceso de selección para incorporar un/a  Responsable de Operaciones Logísticas y\nAlmacén  en una empresa consolidada y en crecimiento del\nsector de la distribución, ub…",
+      "url": "https://es.jooble.org/jdp/-4150452028130713828",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -309,15 +322,15 @@
       "salaryMax": null
     },
     {
-      "cat": 3,
-      "catName": "Responsable de Logística",
+      "cat": 5,
+      "catName": "Supply Chain Coordinator",
       "fuente": "Jooble",
-      "title": "Responsable departamento logística",
-      "company": "Doméstiko.com",
-      "location": "Madrid",
-      "created": "2026-07-16T00:00:00.0000000",
-      "description": "Se requiere un responsable de logística para trabajar en Madrid, con jornada completa de 38,5 horas semanales en turnos rotativos de lunes a domingo. El salario es de 25.000 euros brutos al año más 3.000 euros de retribu…",
-      "url": "https://es.jooble.org/jdp/-2917719863641778541",
+      "title": "Plant Supply Chain Interface Coordinator & perfo manager (Temp Agency)",
+      "company": "Airbus",
+      "location": "Getafe, Comunidad de Madrid",
+      "created": "2026-08-06T14:56:01.9000000",
+      "description": "&nbsp;...We are looking for a person responsible for the coordination between FAL resident team and the supply and demand population in order to ensure the part availability...&nbsp;&nbsp;.... \r\n Interface between FAL re…",
+      "url": "https://es.jooble.org/jdp/-3097614541953819887",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -331,19 +344,6 @@
       "created": "2026-08-06T14:55:38.0570000",
       "description": "&nbsp;...Airbus Operations SL in Madrid is seeking a coordinator to bridge the FAL resident team with the supply and demand population, ensuring part availability in warehouse stock is on time and on quality. \r\n You will…",
       "url": "https://es.jooble.org/jdp/-9216445580942854160",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 5,
-      "catName": "Supply Chain Coordinator",
-      "fuente": "Jooble",
-      "title": "Plant Supply Chain Interface Coordinator & perfo manager (Temp Agency)",
-      "company": "Airbus",
-      "location": "Getafe, Comunidad de Madrid",
-      "created": "2026-08-06T14:56:01.9000000",
-      "description": "&nbsp;...We are looking for a person responsible for the coordination between FAL resident team and the supply and demand population in order to ensure the part availability...&nbsp;&nbsp;.... \r\n Interface between FAL re…",
-      "url": "https://es.jooble.org/jdp/-3097614541953819887",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -481,12 +481,12 @@
       "cat": 20,
       "catName": "Data Analyst Supply Chain",
       "fuente": "Jooble",
-      "title": "Data & AI Strategy Data Science Analyst",
-      "company": "Accenture España",
-      "location": "Madrid",
-      "created": "2026-07-07T03:37:36.0600000",
-      "description": "&nbsp;...Madrid - Spain. \r\n--\r\n Are you ready to design intelligent solutions that transform Supply Chain decision-making? At Accenture, we are reinventing organizations through technology, data, and artificial intellige…",
-      "url": "https://es.jooble.org/jdp/-9190067344332803938",
+      "title": "Data Analyst & SIOP",
+      "company": "Hayward Ibérica SLU",
+      "location": "Getafe, Comunidad de Madrid",
+      "created": "2026-08-06T00:00:00.0000000",
+      "description": "&nbsp;...and a history of innovation with a focus on energy efficiency and sustainability. \r\n Role Purpose \r\n We are looking for a Supply Chain Data Analyst to support our SIOP (Sales, Inventory & Operations Planning) te…",
+      "url": "https://es.jooble.org/jdp/-2788807497175370421",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -715,7 +715,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 2519,
+      "count": 2386,
       "crudos": 30,
       "returned": 6
     },
@@ -734,7 +734,7 @@
       "what": "supply chain manager",
       "fuente": "Jooble",
       "status": 200,
-      "count": 181,
+      "count": 161,
       "crudos": 30,
       "returned": 6
     },
@@ -753,7 +753,7 @@
       "what": "responsable logistica",
       "fuente": "Jooble",
       "status": 200,
-      "count": 1446,
+      "count": 1346,
       "crudos": 30,
       "returned": 6
     },
@@ -772,7 +772,7 @@
       "what": "supply chain coordinator",
       "fuente": "Jooble",
       "status": 200,
-      "count": 181,
+      "count": 161,
       "crudos": 30,
       "returned": 2
     },
@@ -791,7 +791,7 @@
       "what": "responsable compras",
       "fuente": "Jooble",
       "status": 200,
-      "count": 181,
+      "count": 161,
       "crudos": 30,
       "returned": 6
     },
@@ -810,7 +810,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 155,
+      "count": 148,
       "crudos": 30,
       "returned": 1
     },
@@ -829,7 +829,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 264,
+      "count": 262,
       "crudos": 30,
       "returned": 3
     },
@@ -848,7 +848,7 @@
       "what": "demand planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 143,
+      "count": 146,
       "crudos": 30,
       "returned": 6
     },
@@ -867,7 +867,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 155,
+      "count": 148,
       "crudos": 30,
       "returned": 0
     },
@@ -886,7 +886,7 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 144,
+      "count": 136,
       "crudos": 30,
       "returned": 5
     },
@@ -905,7 +905,7 @@
       "what": "especialista supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 769,
+      "count": 744,
       "crudos": 30,
       "returned": 1
     }
