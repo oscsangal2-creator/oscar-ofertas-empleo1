@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-12T07:41:55.964Z",
-  "totalOfertas": 48,
+  "actualizado": "2026-08-12T13:06:47.637Z",
+  "totalOfertas": 46,
   "categorias": [
     {
       "id": 1,
@@ -260,12 +260,12 @@
       "cat": 3,
       "catName": "Responsable de Logística",
       "fuente": "Jooble",
-      "title": "RESPONSABLE DE GESTIÓN DE ALMACÉN",
-      "company": "Elenahernandez",
-      "location": "Leganés, Comunidad de Madrid",
-      "created": "2026-08-10T00:00:00.0000000",
-      "description": "&nbsp;...Descripción del puesto \r\n Como Responsable de Logística, serás el encargado/a de planificar, coordinar y  optimizar  todas las operaciones logísticas relacionadas con la recepción, almacenamiento y distribución …",
-      "url": "https://es.jooble.org/jdp/-1961252708388219723",
+      "title": "Responsable de Logística y Aprovisionamiento",
+      "company": "Lotta Talent",
+      "location": "Alcalá de Henares, Comunidad de Madrid",
+      "created": "2026-08-11T00:00:00.0000000",
+      "description": "&nbsp;...con experiencia para liderar y optimizar las operaciones de logística y aprovisionamiento. Si tienes una mentalidad estratégica, habilidades...&nbsp;&nbsp;...del sector industrial, ¡esta es tu oportunidad!\r\n Res…",
+      "url": "https://es.jooble.org/jdp/7920140070399978970",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -273,12 +273,12 @@
       "cat": 3,
       "catName": "Responsable de Logística",
       "fuente": "Jooble",
-      "title": "Responsable de Logística y Aprovisionamiento",
-      "company": "Lotta Talent",
-      "location": "Alcalá de Henares, Comunidad de Madrid",
-      "created": "2026-08-11T00:00:00.0000000",
-      "description": "&nbsp;...con experiencia para liderar y optimizar las operaciones de logística y aprovisionamiento. Si tienes una mentalidad estratégica, habilidades...&nbsp;&nbsp;...del sector industrial, ¡esta es tu oportunidad!\r\n Res…",
-      "url": "https://es.jooble.org/jdp/7920140070399978970",
+      "title": "RESPONSABLE DE GESTIÓN DE ALMACÉN",
+      "company": "Elenahernandez",
+      "location": "Leganés, Comunidad de Madrid",
+      "created": "2026-08-10T00:00:00.0000000",
+      "description": "&nbsp;...Descripción del puesto \r\n Como Responsable de Logística, serás el encargado/a de planificar, coordinar y  optimizar  todas las operaciones logísticas relacionadas con la recepción, almacenamiento y distribución …",
+      "url": "https://es.jooble.org/jdp/-1961252708388219723",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -439,19 +439,6 @@
       "salaryMax": null
     },
     {
-      "cat": 20,
-      "catName": "Data Analyst Supply Chain",
-      "fuente": "Jooble",
-      "title": "Data Analyst & SIOP",
-      "company": "Hayward Ibérica SLU",
-      "location": "Getafe, Comunidad de Madrid",
-      "created": "2026-08-11T00:00:00.0000000",
-      "description": "&nbsp;...and a history of innovation with a focus on energy efficiency and sustainability. \r\n Role Purpose \r\n We are looking for a Supply Chain Data Analyst to support our SIOP (Sales, Inventory & Operations Planning) te…",
-      "url": "https://es.jooble.org/jdp/-2788807497175370421",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Adzuna",
@@ -520,12 +507,12 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
-      "title": "Demand Planner",
-      "company": "Cold Culture",
+      "title": "Demand & Supply Planner (Temporal)",
+      "company": "Makro España",
       "location": "Madrid",
-      "created": "2026-07-09T00:36:39.0526784+00:00",
-      "description": "&nbsp;...que quieran crecer con nosotros, que vibren con la moda urbana y que estén listas para construir algo grande. \r\n Buscamos un/a Demand Planner que reportará al la Responsable de Planificación. \r\n Serás responsabl…",
-      "url": "https://es.jooble.org/jdp/-2662867927557736191",
+      "created": "2026-08-05T14:56:50.9288603+00:00",
+      "description": "&nbsp;...el foco en el cliente y en el éxito de su negocio. \r\n Descripción del empleo \r\n\r\n Nos encontramos en la búsqueda de un/a  Demand & Supply Planner (Temporal) para unirse al equipo de  Logística  en nuestras ofici…",
+      "url": "https://es.jooble.org/jdp/1392211352235657845",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -572,6 +559,19 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
+      "title": "D&A Supply Chain Data & Planning Specialist",
+      "company": "ALK-Abelló A/S",
+      "location": "Madrid",
+      "created": "2026-08-09T00:00:00.0000000",
+      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
+      "url": "https://es.jooble.org/jdp/-8305381542314056300",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Jooble",
       "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
       "company": "ALK-Abelló Nordic",
       "location": "Madrid",
@@ -598,51 +598,38 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
-      "company": "ALK-Abelló, A/S",
-      "location": "Madrid",
-      "created": "2026-08-08T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló, A/S is looking for a D&A Process Specialist in Madrid to join their Data & Analytics team. This role focuses on building and supporting the data foundation for Product Supply Planning using SAP techn…",
-      "url": "https://es.jooble.org/jdp/1701873412360210838",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 23,
-      "catName": "Supply Chain Specialist",
-      "fuente": "Jooble",
-      "title": "Procurement Specialist (Sector Infraestructuras)",
-      "company": "btd Proyectos",
-      "location": "Madrid",
-      "created": "2026-08-12T00:00:00.0000000",
-      "description": "&nbsp;...Ingeniería Mecánica, otras ingenierías afines, Administración de Empresas o Comercio. \r\n Valorable Maestría o especialización en Supply Chain o áreas relacionadas. \r\n Mínimo 5 años de experiencia en posiciones s…",
-      "url": "https://es.jooble.org/jdp/-7835453050749012249",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 23,
-      "catName": "Supply Chain Specialist",
-      "fuente": "Jooble",
-      "title": "D&A Supply Chain Data & Planning Specialist",
-      "company": "ALK-Abelló A/S",
-      "location": "Madrid",
-      "created": "2026-08-09T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
-      "url": "https://es.jooble.org/jdp/-8305381542314056300",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 23,
-      "catName": "Supply Chain Specialist",
-      "fuente": "Jooble",
       "title": "Logistics & Supply Chain Specialist",
       "company": "Tamarind Intelligence",
       "location": "Alcobendas, Comunidad de Madrid",
       "created": "2026-08-08T00:00:00.0000000",
       "description": "&nbsp;...to become the key logistics contact for Europe within a leading company in its industry? We are looking for a  Logistics & Supply Chain Specialist  with  bilingual-level English  to play a key role in managing t…",
       "url": "https://es.jooble.org/jdp/1038430733544886740",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Jooble",
+      "title": "Supply chain specialist",
+      "company": "Doméstiko.com",
+      "location": "Madrid",
+      "created": "2026-06-01T13:47:41.3200000",
+      "description": "Puesto temporal en la cadena de suministro para gestionar y optimizar el flujo de materiales, equilibrando demanda, stock y servicio al cliente. Se coordina con marketing, comercial y categoría para alinear previsiones y…",
+      "url": "https://es.jooble.org/jdp/2790750473505409229",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Jooble",
+      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
+      "company": "ALK-Abelló, A/S",
+      "location": "Madrid",
+      "created": "2026-08-08T00:00:00.0000000",
+      "description": "&nbsp;...ALK-Abelló, A/S is looking for a D&A Process Specialist in Madrid to join their Data & Analytics team. This role focuses on building and supporting the data foundation for Product Supply Planning using SAP techn…",
+      "url": "https://es.jooble.org/jdp/1701873412360210838",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -656,19 +643,6 @@
       "created": "2026-08-08T00:00:00.0000000",
       "description": "&nbsp;...En DHL Supply Chain estamos ampliando el equipo Si quieres seguir tu carrera profesional dentro del mundo de la logística. Si te apasiona...&nbsp;&nbsp;...Nos encantaría que contactaras con nosotros!\n Buscamos u…",
       "url": "https://es.jooble.org/jdp/-41902819839198434",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 24,
-      "catName": "Especialista Supply Chain",
-      "fuente": "Jooble",
-      "title": "ESPECIALISTA FUNCIONAL SENIOR BUSINESS CENTRAL",
-      "company": "Enhol Group",
-      "location": "Madrid",
-      "created": "2026-08-08T00:00:00.0000000",
-      "description": "&nbsp;...el conocimiento de procesos de negocio. \r\n Imprescindible poseer conocimiento de procesos empresariales (finanzas, operaciones, supply chain) y experiencia en definición de requerimientos y coordinación con nego…",
-      "url": "https://es.jooble.org/jdp/8464315803845008758",
       "salaryMin": null,
       "salaryMax": null
     }
@@ -708,7 +682,7 @@
       "what": "supply chain manager",
       "fuente": "Jooble",
       "status": 200,
-      "count": 173,
+      "count": 184,
       "crudos": 30,
       "returned": 6
     },
@@ -746,7 +720,7 @@
       "what": "supply chain coordinator",
       "fuente": "Jooble",
       "status": 200,
-      "count": 173,
+      "count": 184,
       "crudos": 30,
       "returned": 0
     },
@@ -765,7 +739,7 @@
       "what": "responsable compras",
       "fuente": "Jooble",
       "status": 200,
-      "count": 173,
+      "count": 184,
       "crudos": 30,
       "returned": 6
     },
@@ -805,7 +779,7 @@
       "status": 200,
       "count": 266,
       "crudos": 30,
-      "returned": 4
+      "returned": 3
     },
     {
       "id": 21,
@@ -879,9 +853,9 @@
       "what": "especialista supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 728,
+      "count": 803,
       "crudos": 30,
-      "returned": 2
+      "returned": 1
     }
   ]
 }
