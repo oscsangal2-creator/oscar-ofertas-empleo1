@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-15T12:35:08.425Z",
+  "actualizado": "2026-08-15T18:22:42.035Z",
   "totalOfertas": 45,
   "categorias": [
     {
@@ -235,11 +235,11 @@
       "catName": "Responsable de Logística",
       "fuente": "Jooble",
       "title": "Responsable de Logística",
-      "company": "Crit Interim España ETT",
+      "company": "Grupo Crit",
       "location": "Madrid",
       "created": "2026-07-22T00:00:00.0000000",
       "description": "&nbsp;...de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras operaciones logísticas …",
-      "url": "https://es.jooble.org/jdp/2962838240758859799",
+      "url": "https://es.jooble.org/jdp/-1274186090459448211",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -546,19 +546,6 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
-      "company": "ALK-Abelló, A/S",
-      "location": "Madrid",
-      "created": "2026-08-13T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló, A/S is looking for a D&A Process Specialist in Madrid to join their Data & Analytics team. This role focuses on building and supporting the data foundation for Product Supply Planning using SAP techn…",
-      "url": "https://es.jooble.org/jdp/1701873412360210838",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 23,
-      "catName": "Supply Chain Specialist",
-      "fuente": "Jooble",
       "title": "Bilingual EU Logistics & Supply Chain Specialist (Hybrid)",
       "company": "Tamarind Intelligence",
       "location": "Alcobendas, Comunidad de Madrid",
@@ -585,12 +572,12 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "Logistics & Supply Chain Specialist",
-      "company": "Tamarind Intelligence",
-      "location": "Alcobendas, Comunidad de Madrid",
+      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
+      "company": "ALK-Abelló, A/S",
+      "location": "Madrid",
       "created": "2026-08-13T00:00:00.0000000",
-      "description": "&nbsp;...to become the key logistics contact for Europe within a leading company in its industry? We are looking for a  Logistics & Supply Chain Specialist  with  bilingual-level English  to play a key role in managing t…",
-      "url": "https://es.jooble.org/jdp/1038430733544886740",
+      "description": "&nbsp;...ALK-Abelló, A/S is looking for a D&A Process Specialist in Madrid to join their Data & Analytics team. This role focuses on building and supporting the data foundation for Product Supply Planning using SAP techn…",
+      "url": "https://es.jooble.org/jdp/1701873412360210838",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -604,6 +591,19 @@
       "created": "2026-08-14T00:00:00.0000000",
       "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
       "url": "https://es.jooble.org/jdp/-8305381542314056300",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Jooble",
+      "title": "Logistics & Supply Chain Specialist",
+      "company": "Tamarind Intelligence",
+      "location": "Alcobendas, Comunidad de Madrid",
+      "created": "2026-08-13T00:00:00.0000000",
+      "description": "&nbsp;...to become the key logistics contact for Europe within a leading company in its industry? We are looking for a  Logistics & Supply Chain Specialist  with  bilingual-level English  to play a key role in managing t…",
+      "url": "https://es.jooble.org/jdp/1038430733544886740",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -745,7 +745,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 127,
+      "count": 130,
       "crudos": 30,
       "returned": 1
     },
@@ -802,7 +802,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 127,
+      "count": 130,
       "crudos": 30,
       "returned": 0
     },
@@ -840,7 +840,7 @@
       "what": "especialista supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 826,
+      "count": 784,
       "crudos": 30,
       "returned": 1
     }
