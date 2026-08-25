@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T06:58:08.734Z",
+  "actualizado": "2026-08-25T12:44:15.333Z",
   "totalOfertas": 43,
   "categorias": [
     {
@@ -351,12 +351,25 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable de Compras Transporte",
-      "company": "DHL Group",
+      "title": "Responsable de Compras - Sector Alimentación",
+      "company": "Grupo Crit",
       "location": "Madrid",
-      "created": "2026-08-06T00:00:00.0000000",
-      "description": "&nbsp;...Role Purpose: \r\n Junto con el/la Gerente del área de compras será responsable de definir la política de compras de Transporte de la Organización, que asegure el cumplimiento de los objetivos de la Compañía en el…",
-      "url": "https://es.jooble.org/jdp/-3023789920931795526",
+      "created": "2026-08-18T06:10:22.0186675+00:00",
+      "description": "Desde Grupo Crit estamos seleccionando un/a Responsable de Compras para empresa dedicada al sector alimentación, ubicada Madrid Norte, Algete.\nRealizarás, entre otras, las siguientes funciones:\n* Reuniones con proveedore…",
+      "url": "https://es.jooble.org/jdp/-6918071827226552419",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 7,
+      "catName": "Responsable de Compras",
+      "fuente": "Jooble",
+      "title": "Responsable de Compras Transporte",
+      "company": "DHL",
+      "location": "Madrid",
+      "created": "2026-07-14T15:35:57.7630000",
+      "description": "&nbsp;...at DHL \r\n The selection process will be fully managed by DHL. \r\n--\r\n## Role Purpose:\nJunto con el/la Gerente del área de compras será responsable de definir la política de compras de Transporte de la Organizació…",
+      "url": "https://es.jooble.org/jdp/976876926834948638",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -370,19 +383,6 @@
       "created": "2026-07-14T15:35:54.0830000",
       "description": "&nbsp;...desarrollo del talento de todas y cada una de las personas de la empresa.\nSi eres la persona seleccionada, tu misión como Responsable de Compras será seleccionar a los proveedores de mascotas y alimento seco y n…",
       "url": "https://es.jooble.org/jdp/-9158281761937606189",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Jooble",
-      "title": "Responsable de Compras - Sector Alimentación",
-      "company": "Crit Interim España ETT",
-      "location": "Madrid",
-      "created": "2026-08-18T20:23:03.7730000",
-      "description": "&nbsp;...Indefinido  Jornada: \r\n Jornada Completa  Años de experiencia: \r\n Sin Experiencia    Desde Grupo Crit estamos seleccionando un/a  Responsable de Compras  para empresa dedicada al sector alimentación, ubicada Mad…",
-      "url": "https://es.jooble.org/jdp/-3035054510576418163",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -521,19 +521,6 @@
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
       "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
-      "company": "ALK-Abelló, A/S",
-      "location": "Madrid",
-      "created": "2026-08-23T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló, A/S is looking for a D&A Process Specialist in Madrid to join their Data & Analytics team. This role focuses on building and supporting the data foundation for Product Supply Planning using SAP techn…",
-      "url": "https://es.jooble.org/jdp/1701873412360210838",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 23,
-      "catName": "Supply Chain Specialist",
-      "fuente": "Jooble",
-      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
       "company": "ALK-Abelló Nordic",
       "location": "Madrid",
       "created": "2026-08-25T00:00:00.0000000",
@@ -552,6 +539,19 @@
       "created": "2026-08-23T00:00:00.0000000",
       "description": "&nbsp;...Tamarind Intelligence in Madrid seeks a Logistics & Supply Chain Specialist to manage end-to-end European supply chain operations. You will handle orders, inventory, forecasts, and supplier coordination with a b…",
       "url": "https://es.jooble.org/jdp/3628820791116439377",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Jooble",
+      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
+      "company": "ALK-Abelló, A/S",
+      "location": "Madrid",
+      "created": "2026-08-23T00:00:00.0000000",
+      "description": "&nbsp;...ALK-Abelló, A/S is looking for a D&A Process Specialist in Madrid to join their Data & Analytics team. This role focuses on building and supporting the data foundation for Product Supply Planning using SAP techn…",
+      "url": "https://es.jooble.org/jdp/1701873412360210838",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -624,7 +624,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 3057,
+      "count": 2868,
       "crudos": 30,
       "returned": 4
     },
@@ -643,7 +643,7 @@
       "what": "supply chain manager",
       "fuente": "Jooble",
       "status": 200,
-      "count": 166,
+      "count": 170,
       "crudos": 30,
       "returned": 6
     },
@@ -681,7 +681,7 @@
       "what": "supply chain coordinator",
       "fuente": "Jooble",
       "status": 200,
-      "count": 168,
+      "count": 169,
       "crudos": 30,
       "returned": 1
     },
@@ -691,7 +691,7 @@
       "what": "responsable compras",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 4,
+      "count": 5,
       "returned": 2
     },
     {
@@ -700,7 +700,7 @@
       "what": "responsable compras",
       "fuente": "Jooble",
       "status": 200,
-      "count": 165,
+      "count": 169,
       "crudos": 30,
       "returned": 6
     },
@@ -719,7 +719,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 117,
+      "count": 113,
       "crudos": 30,
       "returned": 0
     },
@@ -757,7 +757,7 @@
       "what": "demand planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 167,
+      "count": 170,
       "crudos": 30,
       "returned": 6
     },
@@ -776,7 +776,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 117,
+      "count": 113,
       "crudos": 30,
       "returned": 0
     },
@@ -795,7 +795,7 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 147,
+      "count": 146,
       "crudos": 30,
       "returned": 6
     },
@@ -814,7 +814,7 @@
       "what": "especialista supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 740,
+      "count": 718,
       "crudos": 30,
       "returned": 1
     }
