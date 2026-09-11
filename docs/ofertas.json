@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-11T11:01:24.150Z",
-  "totalOfertas": 45,
+  "actualizado": "2026-09-11T15:55:22.912Z",
+  "totalOfertas": 47,
   "categorias": [
     {
       "id": 1,
@@ -78,12 +78,12 @@
       "cat": 1,
       "catName": "Demand Planning Manager",
       "fuente": "Jooble",
-      "title": "Hybrid Demand Planner - Sales & Forecasting (Iberia)",
-      "company": "Nutreco",
+      "title": "Demand Planning Specialist -Temporal (1 year)",
+      "company": "Mondelez International",
       "location": "Madrid",
-      "created": "2026-09-09T00:00:00.0000000",
-      "description": "&nbsp;...Nutreco is looking for a Data Analyst in Sales Planning based in Madrid. This role involves anticipating customer demand and translating it into forecasts for efficient production operations in Iberia. \r\n The id…",
-      "url": "https://es.jooble.org/jdp/8302887522231372278",
+      "created": "2026-09-10T00:00:00.0000000",
+      "description": "Demand Planning Specialist -Temporal (1 year)Skip to main content#Demand Planning Specialist -Temporal (1 year) page is loaded## Demand Planning...&nbsp;&nbsp;.... You will also:* **Own the short-term and long-term deman…",
+      "url": "https://es.jooble.org/jdp/-4690747128720431079",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -91,12 +91,12 @@
       "cat": 1,
       "catName": "Demand Planning Manager",
       "fuente": "Jooble",
-      "title": "Demand Planning Specialist -Temporal (1 year)",
-      "company": "Mondelez International",
+      "title": "Hybrid Demand Planner - Sales & Forecasting (Iberia)",
+      "company": "Nutreco",
       "location": "Madrid",
-      "created": "2026-09-10T00:00:00.0000000",
-      "description": "Demand Planning Specialist -Temporal (1 year)Skip to main content#Demand Planning Specialist -Temporal (1 year) page is loaded## Demand Planning...&nbsp;&nbsp;.... You will also:* **Own the short-term and long-term deman…",
-      "url": "https://es.jooble.org/jdp/-4690747128720431079",
+      "created": "2026-09-09T00:00:00.0000000",
+      "description": "&nbsp;...Nutreco is looking for a Data Analyst in Sales Planning based in Madrid. This role involves anticipating customer demand and translating it into forecasts for efficient production operations in Iberia. \r\n The id…",
+      "url": "https://es.jooble.org/jdp/8302887522231372278",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -136,6 +136,19 @@
       "created": "2026-09-07T00:00:00.0000000",
       "description": "&nbsp;...Avolta, headquartered internationally, is seeking a Country Supply Chain Planning & Purchasing Specialist for its Madrid Office. You will support demand planning, supplier coordination, and procurement activitie…",
       "url": "https://es.jooble.org/jdp/-4807968195635730627",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 2,
+      "catName": "Supply Chain Manager",
+      "fuente": "Adzuna",
+      "title": "Supply Chain Quality Manager",
+      "company": "Scalian",
+      "location": "Madrid",
+      "created": "2026-09-06T10:04:29Z",
+      "description": "Supply Chain Quality Manager M/F Madrid Eres un Supply Chain Quality Manager o te gustaría convertirte en uno? Si tu respuesta es sí, bienvenido, ya que estamos buscando una persona dinámica y talentosa para incorporarse…",
+      "url": "https://www.adzuna.es/details/5872877886?utm_medium=api&utm_source=3c972d9b",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -220,13 +233,26 @@
     {
       "cat": 3,
       "catName": "Responsable de Logística",
-      "fuente": "Jooble",
+      "fuente": "Adzuna",
       "title": "Responsable de Logística",
       "company": "Crit Interim España ETT",
       "location": "Madrid",
+      "created": "2026-09-09T12:47:43Z",
+      "description": "En io Promo , empresa con más de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras op…",
+      "url": "https://www.adzuna.es/details/5876974589?utm_medium=api&utm_source=3c972d9b",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 3,
+      "catName": "Responsable de Logística",
+      "fuente": "Jooble",
+      "title": "Responsable de Logística",
+      "company": "Grupo Crit",
+      "location": "Madrid",
       "created": "2026-07-22T00:00:00.0000000",
       "description": "&nbsp;...de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras operaciones logísticas …",
-      "url": "https://es.jooble.org/jdp/-7529634401450963174",
+      "url": "https://es.jooble.org/jdp/-1274186090459448211",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -325,19 +351,6 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable Economato/Compras (Cont. sustitución)",
-      "company": "Palladium Hotel Group",
-      "location": "Madrid",
-      "created": "2026-09-11T00:00:00.0000000",
-      "description": "&nbsp;...Responsable Economato/Compras (Cont. sustitución)\r\n Desde  ONLY YOU Hotels  buscamos profesionales capaces de superarse a sí mismos, de ser ejemplos de compromiso, motivación y optimismo, logrando entusiasmar al…",
-      "url": "https://es.jooble.org/jdp/3115494189968407430",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Jooble",
       "title": "Responsable de compras y aprovisionamiento",
       "company": "Hays",
       "location": "Madrid",
@@ -351,12 +364,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable Departamento Compras - Sector Agua EPC",
-      "company": "ECB Engineering Firm",
+      "title": "Responsable Economato/Compras (Cont. sustitución)",
+      "company": "Palladium Hotel Group",
       "location": "Madrid",
-      "created": "2026-09-10T06:53:33.5970000",
-      "description": "&nbsp;...Desde ECB Group estamos buscando un/a Responsable Departamento de Compras para formar parte de una compañía líder en la gestión integral del ciclo del agua y en soluciones medioambientales e incorporarse a su eq…",
-      "url": "https://es.jooble.org/jdp/2307401726910705608",
+      "created": "2026-09-11T00:00:00.0000000",
+      "description": "&nbsp;...Responsable Economato/Compras (Cont. sustitución)\r\n Desde  ONLY YOU Hotels  buscamos profesionales capaces de superarse a sí mismos, de ser ejemplos de compromiso, motivación y optimismo, logrando entusiasmar al…",
+      "url": "https://es.jooble.org/jdp/3115494189968407430",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -383,6 +396,19 @@
       "created": "2026-07-14T00:00:00.0000000",
       "description": "&nbsp;...at DHL \r\n The selection process will be fully managed by DHL. \r\n--\r\n## Role Purpose:\nJunto con el/la Gerente del área de compras será responsable de definir la política de compras de Transporte de la Organizació…",
       "url": "https://es.jooble.org/jdp/-381669477580871930",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 7,
+      "catName": "Responsable de Compras",
+      "fuente": "Jooble",
+      "title": "responsable de compras (area industrial).",
+      "company": "Randstad",
+      "location": "Madrid",
+      "created": "2026-06-13T00:00:00.0000000",
+      "description": "Como Responsable de Compras ocuparas un posición estratégica y operativa para liderar la estructura de aprovisionamiento en la planta ubicada en Madrid y alrededores.Serás responsable de gestionar un presupuesto anual de…",
+      "url": "https://es.jooble.org/jdp/-5364396260530812996",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -455,6 +481,19 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
+      "title": "Strategic Supply Chain & Demand Planner Partner - Iberia",
+      "company": "Takeda",
+      "location": "Madrid",
+      "created": "2026-09-11T14:54:06.4800000",
+      "description": "&nbsp;...Takeda is seeking a Supply Chain & Demand Planner Iberia in Madrid to manage SC systems, forecast demand, and ensure reliable product supply from production to patient. You will work with QA, Regulatory Affairs …",
+      "url": "https://es.jooble.org/jdp/-1550099993470299800",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 21,
+      "catName": "Demand Planner",
+      "fuente": "Jooble",
       "title": "Iberia Demand Planner — IBP & Forecasting Expert",
       "company": "Mondelez International",
       "location": "Madrid",
@@ -474,19 +513,6 @@
       "created": "2026-06-13T00:00:00.0000000",
       "description": "Apoyar en la preparación y actualización del pronóstico de demanda, consolidando la información de mercados, filiales o regiones.Colaborar en el análisis del historial de ventas, tendencias, estacionalidad y otros factor…",
       "url": "https://es.jooble.org/jdp/-6950189307210915753",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 21,
-      "catName": "Demand Planner",
-      "fuente": "Jooble",
-      "title": "Demand & Supply Planner (Temporal)",
-      "company": "Makro España",
-      "location": "Madrid",
-      "created": "2026-08-27T00:00:00.0000000",
-      "description": "&nbsp;...el foco en el cliente y en el éxito de su negocio. \r\n Descripción del empleo \r\n\r\n Nos encontramos en la búsqueda de un/a  Demand & Supply Planner (Temporal) para unirse al equipo de  Logística  en nuestras ofici…",
-      "url": "https://es.jooble.org/jdp/-6020427042549257541",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -585,12 +611,12 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
-      "company": "ALK-Abelló Nordic",
+      "title": "D&A Supply Chain Data & Planning Specialist",
+      "company": "ALK-Abelló A/S",
       "location": "Madrid",
-      "created": "2026-09-09T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló Nordic, a leader in allergy treatments, is seeking a D&A Process Specialist within Global IT. This role involves supporting the data foundation for Product Supply Planning and ensuring the accuracy of…",
-      "url": "https://es.jooble.org/jdp/4954228212323915616",
+      "created": "2026-09-08T00:00:00.0000000",
+      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
+      "url": "https://es.jooble.org/jdp/-8305381542314056300",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -650,7 +676,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 3561,
+      "count": 3600,
       "crudos": 30,
       "returned": 6
     },
@@ -659,9 +685,9 @@
       "name": "Supply Chain Manager",
       "what": "supply chain manager",
       "fuente": "Adzuna",
-      "status": 503,
-      "count": 0,
-      "error": "<!DOCTYPE html>\n<html>\n<!-- This file is managed by Chef -->\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Uh oh, something isn't right</title>\n        <meta name=\"HandheldFriendly\" content"
+      "status": 200,
+      "count": 1,
+      "returned": 1
     },
     {
       "id": 2,
@@ -669,7 +695,7 @@
       "what": "supply chain manager",
       "fuente": "Jooble",
       "status": 200,
-      "count": 170,
+      "count": 163,
       "crudos": 30,
       "returned": 6
     },
@@ -678,9 +704,9 @@
       "name": "Responsable de Logística",
       "what": "responsable logistica",
       "fuente": "Adzuna",
-      "status": 503,
-      "count": 0,
-      "error": "<!DOCTYPE html>\n<html>\n<!-- This file is managed by Chef -->\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Uh oh, something isn't right</title>\n        <meta name=\"HandheldFriendly\" content"
+      "status": 200,
+      "count": 7,
+      "returned": 1
     },
     {
       "id": 3,
@@ -688,7 +714,7 @@
       "what": "responsable logistica",
       "fuente": "Jooble",
       "status": 200,
-      "count": 1603,
+      "count": 1576,
       "crudos": 30,
       "returned": 6
     },
@@ -697,9 +723,9 @@
       "name": "Supply Chain Coordinator",
       "what": "supply chain coordinator",
       "fuente": "Adzuna",
-      "status": 503,
+      "status": 200,
       "count": 0,
-      "error": "<!DOCTYPE html>\n<html>\n<!-- This file is managed by Chef -->\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Uh oh, something isn't right</title>\n        <meta name=\"HandheldFriendly\" content"
+      "returned": 0
     },
     {
       "id": 5,
@@ -707,7 +733,7 @@
       "what": "supply chain coordinator",
       "fuente": "Jooble",
       "status": 200,
-      "count": 180,
+      "count": 181,
       "crudos": 30,
       "returned": 1
     },
@@ -726,7 +752,7 @@
       "what": "responsable compras",
       "fuente": "Jooble",
       "status": 200,
-      "count": 170,
+      "count": 163,
       "crudos": 30,
       "returned": 6
     },
@@ -735,9 +761,9 @@
       "name": "Inventory Planning Specialist",
       "what": "inventory planner",
       "fuente": "Adzuna",
-      "status": 503,
+      "status": 200,
       "count": 0,
-      "error": "<!DOCTYPE html>\n<html>\n<!-- This file is managed by Chef -->\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Uh oh, something isn't right</title>\n        <meta name=\"HandheldFriendly\" content"
+      "returned": 0
     },
     {
       "id": 14,
@@ -745,7 +771,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 147,
+      "count": 143,
       "crudos": 30,
       "returned": 1
     },
@@ -764,7 +790,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 253,
+      "count": 256,
       "crudos": 30,
       "returned": 3
     },
@@ -783,7 +809,7 @@
       "what": "demand planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 159,
+      "count": 158,
       "crudos": 30,
       "returned": 6
     },
@@ -792,9 +818,9 @@
       "name": "Planificador de Demanda",
       "what": "planificador de demanda",
       "fuente": "Adzuna",
-      "status": 503,
-      "count": 0,
-      "error": "<!DOCTYPE html>\n<html>\n<!-- This file is managed by Chef -->\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Uh oh, something isn't right</title>\n        <meta name=\"HandheldFriendly\" content"
+      "status": 200,
+      "count": 2,
+      "returned": 0
     },
     {
       "id": 22,
@@ -802,7 +828,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 147,
+      "count": 143,
       "crudos": 30,
       "returned": 0
     },
@@ -821,7 +847,7 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 152,
+      "count": 149,
       "crudos": 30,
       "returned": 6
     },
@@ -840,7 +866,7 @@
       "what": "especialista supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 864,
+      "count": 841,
       "crudos": 30,
       "returned": 3
     }
