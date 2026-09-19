@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T10:43:17.455Z",
+  "actualizado": "2026-09-19T15:25:19.580Z",
   "totalOfertas": 49,
   "categorias": [
     {
@@ -65,6 +65,19 @@
       "cat": 1,
       "catName": "Demand Planning Manager",
       "fuente": "Jooble",
+      "title": "Senior S&OP & Demand Planning Lead, Iberia",
+      "company": "Takeda",
+      "location": "Madrid",
+      "created": "2026-09-17T14:57:14.4970000",
+      "description": "&nbsp;...Takeda Iberia is seeking a Supply Chain, S&OP and Demand Planner to manage the cluster's planning systems and processes, including forecasting and supply of products to markets.  You will work with QA, Regulator…",
+      "url": "https://es.jooble.org/jdp/-2328980393657414569",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 1,
+      "catName": "Demand Planning Manager",
+      "fuente": "Jooble",
       "title": "Global Demand Planning Specialist - Luxury Travel & F&B",
       "company": "The Nuance Group AG",
       "location": "Madrid",
@@ -84,19 +97,6 @@
       "created": "2026-09-15T14:58:35.6630000",
       "description": "&nbsp;...Avolta in Madrid is seeking a Global Category Management Demand Planning Specialist to drive accurate demand forecasting for the Produce category and optimize inventory across luxury brands and stores. You will …",
       "url": "https://es.jooble.org/jdp/-7101916513150252647",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Jooble",
-      "title": "Senior S&OP & Demand Planning Lead, Iberia",
-      "company": "Takeda",
-      "location": "Madrid",
-      "created": "2026-09-17T14:57:14.4970000",
-      "description": "&nbsp;...Takeda Iberia is seeking a Supply Chain, S&OP and Demand Planner to manage the cluster's planning systems and processes, including forecasting and supply of products to markets.  You will work with QA, Regulator…",
-      "url": "https://es.jooble.org/jdp/-2328980393657414569",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -296,6 +296,19 @@
       "salaryMax": null
     },
     {
+      "cat": 3,
+      "catName": "Responsable de Logística",
+      "fuente": "Jooble",
+      "title": "Responsable Logistica",
+      "company": "Hays",
+      "location": "Madrid",
+      "created": "2026-08-05T00:00:00.0000000",
+      "description": "&nbsp;...Desde\nHays España, estamos gestionando un proceso de selección para incorporar un/a  Responsable de Operaciones Logísticas y\nAlmacén  en una empresa consolidada y en crecimiento del\nsector de la distribución, ub…",
+      "url": "https://es.jooble.org/jdp/-4987819369608091244",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
       "cat": 5,
       "catName": "Supply Chain Coordinator",
       "fuente": "Adzuna",
@@ -403,12 +416,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable de compras técnicas internacionales",
-      "company": "Areajob-Spain-Ett",
-      "location": "Meco, Comunidad de Madrid",
-      "created": "2026-09-16T00:00:00.0000000",
-      "description": "&nbsp;...Nos encontramos en la búsqueda de un RESPONSABLE DE COMPRAS TECNICAS INTERNACIONALES, para una empresa industrial especializada en el diseño, desarrollo y fabricación de útiles de control, componentes y solucion…",
-      "url": "https://es.jooble.org/jdp/-1406618009814893605",
+      "title": "Responsable de compras y aprovisionamiento",
+      "company": "Hays",
+      "location": "Madrid",
+      "created": "2026-07-09T00:00:00.0000000",
+      "description": "&nbsp;...Desde HAYS nos encontramos en la búsqueda de un/a Responsable de Compras y Aprovisionamiento en una compañía especializada en automatización e intralogística, ubicada en la zona sur de Madrid.  La organización s…",
+      "url": "https://es.jooble.org/jdp/4019671392523444615",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -416,12 +429,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable de compras y aprovisionamiento",
-      "company": "Hays",
+      "title": "RESPONSABLE DE COMPRAS",
+      "company": "Ayanet Recursos Humanos",
       "location": "Madrid",
-      "created": "2026-07-09T00:00:00.0000000",
-      "description": "&nbsp;...Desde HAYS nos encontramos en la búsqueda de un/a Responsable de Compras y Aprovisionamiento en una compañía especializada en automatización e intralogística, ubicada en la zona sur de Madrid.  La organización s…",
-      "url": "https://es.jooble.org/jdp/4019671392523444615",
+      "created": "2026-08-25T01:17:35.5170000",
+      "description": "¿Te  apasiona la estrategia de compras  y quieres liderar una función clave dentro de una compañía internacional en crecimiento?....&nbsp;&nbsp;...y un fuerte enfoque en la innovación, busca incorporar un/a  Responsable …",
+      "url": "https://es.jooble.org/jdp/2043775098836130555",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -435,19 +448,6 @@
       "created": "2026-09-18T14:55:56.8330000",
       "description": "&nbsp;...SIHI (Spain) SL is seeking a Production Planner to coordinate production planning and scheduling...&nbsp;&nbsp;...customer needs while ensuring quality, inventory, cost and delivery targets....&nbsp;&nbsp;...shi…",
       "url": "https://es.jooble.org/jdp/-6461252308406379779",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 14,
-      "catName": "Inventory Planning Specialist",
-      "fuente": "Jooble",
-      "title": "Production Planner: Master Scheduling & Inventory Control",
-      "company": "Flowserve Corporation",
-      "location": "Pozuelo de Alarcón, Comunidad de Madrid",
-      "created": "2026-09-18T14:55:56.9930000",
-      "description": "&nbsp;...Flowserve is seeking a Production Planner to coordinate and manage the production planning and scheduling for the manufacturing of optical...&nbsp;&nbsp;...line Manager to meet customer needs while maintaining q…",
-      "url": "https://es.jooble.org/jdp/6576838163891993107",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -637,19 +637,6 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "Ingeniero/a Especialista en Compras/ Logistica/ Supply Chain",
-      "company": "Grupo Ortiz",
-      "location": "Madrid",
-      "created": "2026-09-15T14:57:19.5770000",
-      "description": "&nbsp;...Buscamos incorporar  un/a Ingeniero/a Especialista Senior de Compras y Logística EPC  para reforzar el  equipo de Procurement y Supply Chain  en proyectos internacionales. \r\n Titulación en Ingeniería, preferente…",
-      "url": "https://es.jooble.org/jdp/8397458272096374706",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 23,
-      "catName": "Supply Chain Specialist",
-      "fuente": "Jooble",
       "title": "D&A Supply Chain Data & Planning Specialist",
       "company": "ALK-Abelló A/S",
       "location": "Madrid",
@@ -669,6 +656,19 @@
       "created": "2026-09-19T00:00:00.0000000",
       "description": "&nbsp;...ALK-Abelló Nordic, a leader in allergy treatments, is seeking a D&A Process Specialist within Global IT. This role involves supporting the data foundation for Product Supply Planning and ensuring the accuracy of…",
       "url": "https://es.jooble.org/jdp/4954228212323915616",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Jooble",
+      "title": "Ingeniero/a Especialista en Compras/ Logistica/ Supply Chain",
+      "company": "Grupo Ortiz",
+      "location": "Madrid",
+      "created": "2026-09-15T14:57:19.5770000",
+      "description": "&nbsp;...Buscamos incorporar  un/a Ingeniero/a Especialista Senior de Compras y Logística EPC  para reforzar el  equipo de Procurement y Supply Chain  en proyectos internacionales. \r\n Titulación en Ingeniería, preferente…",
+      "url": "https://es.jooble.org/jdp/8397458272096374706",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -702,7 +702,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 4852,
+      "count": 4790,
       "crudos": 30,
       "returned": 6
     },
@@ -721,7 +721,7 @@
       "what": "supply chain manager",
       "fuente": "Jooble",
       "status": 200,
-      "count": 247,
+      "count": 246,
       "crudos": 30,
       "returned": 6
     },
@@ -742,7 +742,7 @@
       "status": 200,
       "count": 2008,
       "crudos": 30,
-      "returned": 5
+      "returned": 6
     },
     {
       "id": 5,
@@ -759,7 +759,7 @@
       "what": "supply chain coordinator",
       "fuente": "Jooble",
       "status": 200,
-      "count": 247,
+      "count": 246,
       "crudos": 30,
       "returned": 2
     },
@@ -778,7 +778,7 @@
       "what": "responsable compras",
       "fuente": "Jooble",
       "status": 200,
-      "count": 247,
+      "count": 246,
       "crudos": 30,
       "returned": 6
     },
@@ -797,9 +797,9 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 215,
+      "count": 212,
       "crudos": 30,
-      "returned": 3
+      "returned": 2
     },
     {
       "id": 20,
@@ -816,7 +816,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 366,
+      "count": 364,
       "crudos": 30,
       "returned": 3
     },
@@ -835,7 +835,7 @@
       "what": "demand planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 249,
+      "count": 247,
       "crudos": 30,
       "returned": 6
     },
@@ -854,7 +854,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 215,
+      "count": 212,
       "crudos": 30,
       "returned": 0
     },
@@ -873,7 +873,7 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 234,
+      "count": 232,
       "crudos": 30,
       "returned": 5
     },
