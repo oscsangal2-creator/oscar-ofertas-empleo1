@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T15:30:41.736Z",
+  "actualizado": "2026-09-20T20:15:40.041Z",
   "totalOfertas": 52,
   "categorias": [
     {
@@ -546,45 +546,6 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
-      "title": "Demand & Supply Planner - US Ops, Data-Driven Growth",
-      "company": "Deoleo",
-      "location": "Madrid",
-      "created": "2026-09-20T00:00:00.0000000",
-      "description": "&nbsp;...Deoleo is seeking a Demand/Supply Planner to join the US Operations Team in Mexico City. You will translate S&OP/IBP plans into SKU-level and DC-level supply, manage inventory, and coordinate with plants and par…",
-      "url": "https://es.jooble.org/jdp/6985074178652830610",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 21,
-      "catName": "Demand Planner",
-      "fuente": "Jooble",
-      "title": "Demand Planner B2C Pharma: Forecast e Inventario",
-      "company": "PMFarma",
-      "location": "Madrid",
-      "created": "2026-09-17T00:00:00.0000000",
-      "description": "Una empresa del sector farmacéutico busca un responsable de planificar la demanda de productos B2C. El candidato ideal debe tener al menos 4 años de experiencia en operaciones o logística, residir en Madrid y poseer un n…",
-      "url": "https://es.jooble.org/jdp/260241963925634861",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 21,
-      "catName": "Demand Planner",
-      "fuente": "Jooble",
-      "title": "Fashion Demand & Operations Planner (AI-Driven)",
-      "company": "VRANDED Haus",
-      "location": "Madrid",
-      "created": "2026-09-20T00:00:00.0000000",
-      "description": "&nbsp;...VRANDED Haus busca un/a Planificador/a de Demanda y Operaciones en Madrid para optimizar la planificación de compras y la flexibilidad de la cadena de suministro. Colaborarás con compras y FLOW para garantizar s…",
-      "url": "https://es.jooble.org/jdp/-2690300005307508824",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 21,
-      "catName": "Demand Planner",
-      "fuente": "Jooble",
       "title": "Trainee Demand Planner: Digital Supply Chain",
       "company": "Haleon",
       "location": "Madrid",
@@ -604,6 +565,45 @@
       "created": "2026-09-20T00:00:00.0000000",
       "description": "&nbsp;...Thinking and acting sustainably is the key to nurturing a healthier future. \r\n What are we looking for?\r\n We are looking for a  Demand/Supply Planner  with strong analytical and problem-solving skills to join ou…",
       "url": "https://es.jooble.org/jdp/-7575965540962685151",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 21,
+      "catName": "Demand Planner",
+      "fuente": "Jooble",
+      "title": "Demand Planner & Inventory Optimizer",
+      "company": "SEPHORA",
+      "location": "Madrid",
+      "created": "2026-09-19T00:00:00.0000000",
+      "description": "&nbsp;...Sephora Iberia busca un Demand Planner para liderar la previsión de demanda a corto, medio y largo plazo, y coordinar con Marketing, Retail y Finanzas para alinear planes comerciales. Analizará datos históricos,…",
+      "url": "https://es.jooble.org/jdp/4283396432899556073",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 21,
+      "catName": "Demand Planner",
+      "fuente": "Jooble",
+      "title": "Strategic Demand Planner",
+      "company": "Sephora USA, Inc",
+      "location": "Madrid",
+      "created": "2026-09-17T00:00:00.0000000",
+      "description": "&nbsp;...Sephora USA, Inc. busca un Demand Planner para la región Iberia, con foco en España y Portugal. \r\n Serás responsable de desarrollar y mantener previsiones de demanda, analizando históricos de ventas, estacionali…",
+      "url": "https://es.jooble.org/jdp/6567688566421257862",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 21,
+      "catName": "Demand Planner",
+      "fuente": "Jooble",
+      "title": "Demand Planner B2C Pharma: Forecast e Inventario",
+      "company": "PMFarma",
+      "location": "Madrid",
+      "created": "2026-09-17T00:00:00.0000000",
+      "description": "Una empresa del sector farmacéutico busca un responsable de planificar la demanda de productos B2C. El candidato ideal debe tener al menos 4 años de experiencia en operaciones o logística, residir en Madrid y poseer un n…",
+      "url": "https://es.jooble.org/jdp/260241963925634861",
       "salaryMin": null,
       "salaryMax": null
     },
