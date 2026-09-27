@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-09-26T20:36:27.454Z",
-  "totalOfertas": 52,
+  "actualizado": "2026-09-27T11:49:56.524Z",
+  "totalOfertas": 53,
   "categorias": [
     {
       "id": 1,
@@ -65,19 +65,6 @@
       "cat": 1,
       "catName": "Demand Planning Manager",
       "fuente": "Jooble",
-      "title": "Demand Planning Intern — Digital & BI Analytics",
-      "company": "Haleon plc.",
-      "location": "Madrid",
-      "created": "2026-09-25T00:00:00.0000000",
-      "description": "&nbsp;...Haleon plc. invites you to join our Demand Planning area as an internship participant in Madrid. \r\n You will learn to use information systems to drive digital transformation across the supply chain and ensure ti…",
-      "url": "https://es.jooble.org/jdp/4301349104628542641",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 1,
-      "catName": "Demand Planning Manager",
-      "fuente": "Jooble",
       "title": "Global Demand Planning Specialist - Luxury Travel & F&B",
       "company": "Avolta",
       "location": "Madrid",
@@ -97,6 +84,19 @@
       "created": "2026-09-23T00:00:00.0000000",
       "description": "&nbsp;...Avolta is seeking a Global Category Management Demand Planning Specialist to join our Madrid office. You will support the Produce category globally, driving accurate demand forecasting and stock performance anal…",
       "url": "https://es.jooble.org/jdp/-3099221076266299409",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 1,
+      "catName": "Demand Planning Manager",
+      "fuente": "Jooble",
+      "title": "Demand Planning Intern — Digital & BI Analytics",
+      "company": "Haleon plc.",
+      "location": "Madrid",
+      "created": "2026-09-25T00:00:00.0000000",
+      "description": "&nbsp;...Haleon plc. invites you to join our Demand Planning area as an internship participant in Madrid. \r\n You will learn to use information systems to drive digital transformation across the supply chain and ensure ti…",
+      "url": "https://es.jooble.org/jdp/4301349104628542641",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -125,6 +125,19 @@
       "url": "https://es.jooble.org/jdp/-4690747128720431079",
       "salaryMin": null,
       "salaryMax": null
+    },
+    {
+      "cat": 2,
+      "catName": "Supply Chain Manager",
+      "fuente": "Adzuna",
+      "title": "Supply Chain Manager",
+      "company": "RemoteJobsOne",
+      "location": "Madrid",
+      "created": "2026-09-27T09:20:45Z",
+      "description": "IMPORTANT: after you apply, please check your email. We send you a link to complete your application it is not considered until that last step is done. If you do not see it, check your spam folder. This is a fully remote…",
+      "url": "https://www.adzuna.es/details/5900413597?utm_medium=api&utm_source=3c972d9b",
+      "salaryMin": 114400,
+      "salaryMax": 208000
     },
     {
       "cat": 2,
@@ -211,7 +224,7 @@
       "title": "Supply Chain Manager",
       "company": "RXinsider LTD.",
       "location": "Torrejón de Ardoz, Comunidad de Madrid",
-      "created": "2026-09-22T00:00:00.0000000",
+      "created": "2026-09-27T00:00:00.0000000",
       "description": "&nbsp;...Cold Chain Technologies supports the global pharmaceutical and life science industries...&nbsp;&nbsp;...growth, we are now looking for a Supply Chain Manager to join our team at our Madrid site (formerly...&nbsp…",
       "url": "https://es.jooble.org/jdp/7158250600563890811",
       "salaryMin": null,
@@ -299,6 +312,19 @@
       "cat": 3,
       "catName": "Responsable de Logística",
       "fuente": "Jooble",
+      "title": "Responsable de Logística",
+      "company": "Crit Interim España ETT",
+      "location": "Madrid",
+      "created": "2026-07-22T00:00:00.0000000",
+      "description": "&nbsp;...de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras operaciones logísticas …",
+      "url": "https://es.jooble.org/jdp/-7570497826993508217",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 3,
+      "catName": "Responsable de Logística",
+      "fuente": "Jooble",
       "title": "Responsable RR.HH. - logística / industrial",
       "company": "Doméstiko.com",
       "location": "San Fernando de Henares, Comunidad de Madrid",
@@ -348,41 +374,15 @@
       "salaryMax": null
     },
     {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "fuente": "Jooble",
-      "title": "Responsable de logística",
-      "company": "Doméstiko.com",
-      "location": "Arroyomolinos, Comunidad de Madrid",
-      "created": "2026-09-13T00:00:00.0000000",
-      "description": "El puesto se centra en la organización y coordinación de un equipo dentro de un entorno logístico en Arroyomolinos. La persona encargada deberá planificar las tareas diarias y hacer un seguimiento cercano del rendimiento…",
-      "url": "https://es.jooble.org/jdp/-8823056171216468944",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
       "cat": 5,
       "catName": "Supply Chain Coordinator",
       "fuente": "Jooble",
       "title": "Plant Supply Chain Interface Coordinator & perfo manager (Temp Agency)",
       "company": "Airbus",
       "location": "Getafe, Comunidad de Madrid",
-      "created": "2026-09-22T00:00:00.0000000",
+      "created": "2026-09-27T00:00:00.0000000",
       "description": "&nbsp;...Description:We are looking for a person responsible for the coordination between FAL resident team and the supply and demand population in order to ensure the part...&nbsp;&nbsp;...between FAL resident team and …",
       "url": "https://es.jooble.org/jdp/-3790519287659209615",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 5,
-      "catName": "Supply Chain Coordinator",
-      "fuente": "Jooble",
-      "title": "Strategic Aerospace Supply Chain and Logistics Coordinator",
-      "company": "Airbus",
-      "location": "Getafe, Comunidad de Madrid",
-      "created": "2026-09-25T00:00:00.0000000",
-      "description": "&nbsp;...Airbus Operations SL in Getafe (Madrid) is seeking a Supply Chain & Logistics Coordinator to join the PIOGO team. You will link manufacturing units with supply chain stakeholders and programs, placing purchase o…",
-      "url": "https://es.jooble.org/jdp/-5891545255033513231",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -396,6 +396,19 @@
       "created": "2026-09-25T00:00:00.0000000",
       "description": "&nbsp;...Airbus Getafe Plant seeks an entry-level supplier management professional to coordinate between manufacturing units and the procurement chain. You will manage demand planning and...&nbsp;&nbsp;...monitoring, and…",
       "url": "https://es.jooble.org/jdp/2647866594436733310",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 5,
+      "catName": "Supply Chain Coordinator",
+      "fuente": "Jooble",
+      "title": "Strategic Aerospace Supply Chain and Logistics Coordinator",
+      "company": "Airbus",
+      "location": "Getafe, Comunidad de Madrid",
+      "created": "2026-09-25T00:00:00.0000000",
+      "description": "&nbsp;...Airbus Operations SL in Getafe (Madrid) is seeking a Supply Chain & Logistics Coordinator to join the PIOGO team. You will link manufacturing units with supply chain stakeholders and programs, placing purchase o…",
+      "url": "https://es.jooble.org/jdp/-5891545255033513231",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -422,6 +435,19 @@
       "created": "2026-09-24T00:00:00.0000000",
       "description": "&nbsp;...Desde  Nortempo Selección  estamos seleccionando un/a  Responsable de Compras  para incorporarse a una compañía consolidada del sector industrial, especializada en el desarrollo de proyectos vinculados a la cons…",
       "url": "https://es.jooble.org/jdp/-7335567386485540592",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 7,
+      "catName": "Responsable de Compras",
+      "fuente": "Jooble",
+      "title": "Responsable compras indirectas - cadena de restauración",
+      "company": "Michael Page",
+      "location": "Madrid",
+      "created": "2026-09-25T20:47:11.1970000",
+      "description": "&nbsp;...Jornada Completa  Experiencia: \r\n2 años de experiencia    El candidato/a se responsabilizará de: \r\n- Diseñar y ejecutar la estrategia de compras indirectas de la compañía, asegurando la contratación competitiva …",
+      "url": "https://es.jooble.org/jdp/8230083710025661220",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -465,15 +491,15 @@
       "salaryMax": null
     },
     {
-      "cat": 7,
-      "catName": "Responsable de Compras",
+      "cat": 14,
+      "catName": "Inventory Planning Specialist",
       "fuente": "Jooble",
-      "title": "Jefe/a | responsable compras con inglés",
-      "company": "Doméstiko.com",
-      "location": "Fuenlabrada, Comunidad de Madrid",
-      "created": "2026-09-14T13:47:41.9000000",
-      "description": "En Fuenlabrada, Madrid, se busca una persona para liderar el área de compras en una empresa del sector de ventas al por mayor. Entre las labores principales, se incluye analizar las necesidades del negocio, elaborar plan…",
-      "url": "https://es.jooble.org/jdp/-2620843643228257898",
+      "title": "Strategic Production Planner: Master Scheduling",
+      "company": "Flowserve SIHI (Spain) SL",
+      "location": "Pozuelo de Alarcón, Comunidad de Madrid",
+      "created": "2026-09-23T00:00:00.0000000",
+      "description": "&nbsp;...SIHI (Spain) SL is seeking a Production Planner to coordinate production planning and scheduling...&nbsp;&nbsp;...customer needs while ensuring quality, inventory, cost and delivery targets....&nbsp;&nbsp;...shi…",
+      "url": "https://es.jooble.org/jdp/-6461252308406379779",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -487,19 +513,6 @@
       "created": "2026-09-23T00:00:00.0000000",
       "description": "&nbsp;...Flowserve is seeking a Production Planner to coordinate and manage the production planning and scheduling for the manufacturing of optical...&nbsp;&nbsp;...line Manager to meet customer needs while maintaining q…",
       "url": "https://es.jooble.org/jdp/6576838163891993107",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 14,
-      "catName": "Inventory Planning Specialist",
-      "fuente": "Jooble",
-      "title": "Strategic Production Planner: Master Scheduling",
-      "company": "Flowserve SIHI (Spain) SL",
-      "location": "Pozuelo de Alarcón, Comunidad de Madrid",
-      "created": "2026-09-23T00:00:00.0000000",
-      "description": "&nbsp;...SIHI (Spain) SL is seeking a Production Planner to coordinate production planning and scheduling...&nbsp;&nbsp;...customer needs while ensuring quality, inventory, cost and delivery targets....&nbsp;&nbsp;...shi…",
-      "url": "https://es.jooble.org/jdp/-6461252308406379779",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -533,38 +546,12 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
-      "title": "Demand Supply Planner (US Operations)",
-      "company": "Deoleo",
-      "location": "Madrid",
-      "created": "2026-09-25T00:00:00.0000000",
-      "description": "&nbsp;...Thinking and acting sustainably is the key to nurturing a healthier future. \r\n What are we looking for?\r\n We are looking for a  Demand/Supply Planner  with strong analytical and problem-solving skills to join ou…",
-      "url": "https://es.jooble.org/jdp/-7575965540962685151",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 21,
-      "catName": "Demand Planner",
-      "fuente": "Jooble",
       "title": "Demand Planner B2C Pharma: Forecast e Inventario",
       "company": "PMFarma",
       "location": "Madrid",
-      "created": "2026-09-22T00:00:00.0000000",
+      "created": "2026-09-27T00:00:00.0000000",
       "description": "Una empresa del sector farmacéutico busca un responsable de planificar la demanda de productos B2C. El candidato ideal debe tener al menos 4 años de experiencia en operaciones o logística, residir en Madrid y poseer un n…",
       "url": "https://es.jooble.org/jdp/260241963925634861",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 21,
-      "catName": "Demand Planner",
-      "fuente": "Jooble",
-      "title": "Strategic Demand Planner",
-      "company": "Sephora USA, Inc",
-      "location": "Madrid",
-      "created": "2026-09-22T00:00:00.0000000",
-      "description": "&nbsp;...Sephora USA, Inc. busca un Demand Planner para la región Iberia, con foco en España y Portugal. \r\n Serás responsable de desarrollar y mantener previsiones de demanda, analizando históricos de ventas, estacionali…",
-      "url": "https://es.jooble.org/jdp/6567688566421257862",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -585,10 +572,36 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
+      "title": "Strategic Demand Planner",
+      "company": "Sephora USA, Inc",
+      "location": "Madrid",
+      "created": "2026-09-27T00:00:00.0000000",
+      "description": "&nbsp;...Sephora USA, Inc. busca un Demand Planner para la región Iberia, con foco en España y Portugal. \r\n Serás responsable de desarrollar y mantener previsiones de demanda, analizando históricos de ventas, estacionali…",
+      "url": "https://es.jooble.org/jdp/6567688566421257862",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 21,
+      "catName": "Demand Planner",
+      "fuente": "Jooble",
+      "title": "Demand & Supply Planner - US Ops, Data-Driven Growth",
+      "company": "Deoleo",
+      "location": "Madrid",
+      "created": "2026-09-25T00:00:00.0000000",
+      "description": "&nbsp;...Deoleo is seeking a Demand/Supply Planner to join the US Operations Team in Mexico City. You will translate S&OP/IBP plans into SKU-level and DC-level supply, manage inventory, and coordinate with plants and par…",
+      "url": "https://es.jooble.org/jdp/6985074178652830610",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 21,
+      "catName": "Demand Planner",
+      "fuente": "Jooble",
       "title": "DEMAND PLANNER (B2C) - PHARMA Solo Talento calendar_month hace 14 horas place Madrid , España",
       "company": "PMFarma",
       "location": "Madrid",
-      "created": "2026-09-22T00:00:00.0000000",
+      "created": "2026-09-27T00:00:00.0000000",
       "description": "&nbsp;...Responsabilidades \r\n Responsable de planificar la demanda de productos B2C en coordinación con ventas y marketing. \r\n Analizar y prever la demanda de productos para optimizar los niveles de inventario. \r\n Antici…",
       "url": "https://es.jooble.org/jdp/4144615913369226186",
       "salaryMin": null,
@@ -623,19 +636,6 @@
     {
       "cat": 23,
       "catName": "Supply Chain Specialist",
-      "fuente": "Adzuna",
-      "title": "Iberia EP/NV Supply Chain Specialist",
-      "company": "J&J Family of Companies",
-      "location": "Madrid",
-      "created": "2026-09-20T07:49:40Z",
-      "description": "At Johnson & Johnson,?we believe health is everything. Our strength in healthcare innovation empowers us to build a?world where complex diseases are prevented, treated, and cured,?where treatments are smarter and less in…",
-      "url": "https://www.adzuna.es/details/5891408259?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 23,
-      "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
       "title": "Iberia EP/NV Supply Chain Specialist",
       "company": "8500-Johnson & Johnson, S.A. Legal Entity",
@@ -653,7 +653,7 @@
       "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
       "company": "ALK-Abelló, A/S",
       "location": "Madrid",
-      "created": "2026-09-22T00:00:00.0000000",
+      "created": "2026-09-27T00:00:00.0000000",
       "description": "&nbsp;...ALK-Abelló, A/S is looking for a D&A Process Specialist in Madrid to join their Data & Analytics team. This role focuses on building and supporting the data foundation for Product Supply Planning using SAP techn…",
       "url": "https://es.jooble.org/jdp/1701873412360210838",
       "salaryMin": null,
@@ -699,6 +699,19 @@
       "salaryMax": null
     },
     {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Jooble",
+      "title": "Logistics & Supply Chain Specialist I Madrid",
+      "company": "Michael Page",
+      "location": "Madrid",
+      "created": "2026-09-25T20:48:45.2100000",
+      "description": "&nbsp;...logístico. \r\n La persona seleccionada deberá cumplir los siguientes requisitos:\n\r\n Al menos 2-3 años de experiencia en logística, supply chain, planificación o customer service logístico. \r\n Experiencia en contr…",
+      "url": "https://es.jooble.org/jdp/6304664290037348301",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
       "cat": 24,
       "catName": "Especialista Supply Chain",
       "fuente": "Adzuna",
@@ -718,7 +731,7 @@
       "title": "Especialista Seguridad y BCM",
       "company": "DHL Germany",
       "location": "Madrid",
-      "created": "2026-09-22T00:00:00.0000000",
+      "created": "2026-09-27T00:00:00.0000000",
       "description": "&nbsp;...En DHL Supply Chain estamos ampliando el equipo Si quieres seguir tu carrera profesional dentro del mundo de la logística. Si te apasiona...&nbsp;&nbsp;...Nos encantaría que contactaras con nosotros!\n Buscamos u…",
       "url": "https://es.jooble.org/jdp/-41902819839198434",
       "salaryMin": null,
@@ -732,7 +745,7 @@
       "what": "demand planning",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 25,
+      "count": 26,
       "returned": 0
     },
     {
@@ -741,7 +754,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 4074,
+      "count": 4119,
       "crudos": 30,
       "returned": 6
     },
@@ -751,8 +764,8 @@
       "what": "supply chain manager",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 7,
-      "returned": 3
+      "count": 5,
+      "returned": 4
     },
     {
       "id": 2,
@@ -770,7 +783,7 @@
       "what": "responsable logistica",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 10,
+      "count": 9,
       "returned": 3
     },
     {
@@ -779,7 +792,7 @@
       "what": "responsable logistica",
       "fuente": "Jooble",
       "status": 200,
-      "count": 1557,
+      "count": 1507,
       "crudos": 30,
       "returned": 6
     },
@@ -808,7 +821,7 @@
       "what": "responsable compras",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 11,
+      "count": 10,
       "returned": 0
     },
     {
@@ -855,7 +868,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 334,
+      "count": 337,
       "crudos": 30,
       "returned": 2
     },
@@ -903,8 +916,8 @@
       "what": "supply chain specialist",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 3,
-      "returned": 3
+      "count": 2,
+      "returned": 2
     },
     {
       "id": 23,
@@ -914,7 +927,7 @@
       "status": 200,
       "count": 189,
       "crudos": 30,
-      "returned": 5
+      "returned": 6
     },
     {
       "id": 24,
