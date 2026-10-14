@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-14T11:35:53.186Z",
-  "totalOfertas": 55,
+  "actualizado": "2026-10-14T16:37:05.459Z",
+  "totalOfertas": 53,
   "categorias": [
     {
       "id": 1,
@@ -247,12 +247,12 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Jooble",
-      "title": "MRTT+ Industrialization Supply Chain & Quality Manager",
-      "company": "Airbus",
-      "location": "Getafe, Comunidad de Madrid",
-      "created": "2026-10-12T00:00:00.0000000",
-      "description": "&nbsp;...Job Description \r\n An opportunity for a Supply Chain and Quality Manager (SCQM) has arisen within Airbus Defence and Space, Getafe (Madrid). The selected...&nbsp;&nbsp;..., and quality leader. \r\n Participating i…",
-      "url": "https://es.jooble.org/jdp/-872712192492134481",
+      "title": "Senior Clinical Supply Chain Manager",
+      "company": "IQVIA",
+      "location": "Madrid",
+      "created": "2026-10-10T00:00:00.0000000",
+      "description": "&nbsp;...The  Senior Clinical Supply Chain Manager  is responsible for leading the strategic planning, oversight, and delivery of a portfolio of clinical...&nbsp;&nbsp;...the effective and timely provision of clinical tr…",
+      "url": "https://es.jooble.org/jdp/-5740551004174365718",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -292,19 +292,6 @@
       "created": "2026-10-11T13:11:24Z",
       "description": "En ioPromo, empresa con más de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras oper…",
       "url": "https://www.adzuna.es/details/5923192053?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "fuente": "Jooble",
-      "title": "Responsable de Logística",
-      "company": "Crit Interim España ETT",
-      "location": "Madrid",
-      "created": "2026-07-22T00:00:00.0000000",
-      "description": "&nbsp;...de 25 años de experiencia en la fabricación y distribución de merchandising para grandes marcas, buscamos incorporar un/a Responsable de Logística para liderar la coordinación de nuestras operaciones logísticas …",
-      "url": "https://es.jooble.org/jdp/5366791002387108259",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -374,6 +361,19 @@
       "salaryMax": null
     },
     {
+      "cat": 3,
+      "catName": "Responsable de Logística",
+      "fuente": "Jooble",
+      "title": "Jefe/a | responsable logística",
+      "company": "Doméstiko.com",
+      "location": "Meco, Comunidad de Madrid",
+      "created": "2026-09-24T00:00:00.0000000",
+      "description": "Se busca responsable de logística para trabajar en Meco, con jornada completa de 40 horas semanales. La persona seleccionada se encargará de planificar, controlar y hacer seguimiento de la operativa mediante indicadores,…",
+      "url": "https://es.jooble.org/jdp/269406109363742749",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
       "cat": 5,
       "catName": "Supply Chain Coordinator",
       "fuente": "Jooble",
@@ -383,45 +383,6 @@
       "created": "2026-10-14T00:00:00.0000000",
       "description": "&nbsp;...Airbus Operations SL in Getafe is seeking personnel for supply-chain coordination, purchasing and materials management to ensure on-time, quality...&nbsp;&nbsp;.... The role interfaces with manufacturing, planni…",
       "url": "https://es.jooble.org/jdp/2627734700938971291",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Jooble",
-      "title": "Jefe/a | responsable compras con inglés",
-      "company": "Eurofirms Group",
-      "location": "Madrid",
-      "created": "2026-09-16T00:00:00.0000000",
-      "description": "&nbsp;...Empresa dedicada al sector ventas al por mayor necesita la incorporación de un/a Jefe/a Responsable de compras en Fuenlabrada. Las tareas a desempeñar son las siguientes: - Analizar las necesidades de la empresa…",
-      "url": "https://es.jooble.org/jdp/6674902824105459948",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Jooble",
-      "title": "Responsable de Compras de Obras - Construcción",
-      "company": "Proffetional Group",
-      "location": "Madrid",
-      "created": "2026-10-14T00:00:00.0000000",
-      "description": "&nbsp;...multinacional perteneciente a Proffetional Group, líder en la renovación y construcción de hoteles, estamos en búsqueda de a un/a  Responsable de compras de obra  para formar parte de nuestro equipo. \r\n Somos es…",
-      "url": "https://es.jooble.org/jdp/-6680526061827790060",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Jooble",
-      "title": "Responsable Economato/Compras (Cont. sustitución)",
-      "company": "Palladium Hotel Group",
-      "location": "Madrid",
-      "created": "2026-10-11T00:00:00.0000000",
-      "description": "&nbsp;...Responsable Economato/Compras (Cont. sustitución)\r\n Desde  ONLY YOU Hotels  buscamos profesionales capaces de superarse a sí mismos, de ser ejemplos de compromiso, motivación y optimismo, logrando entusiasmar al…",
-      "url": "https://es.jooble.org/jdp/3115494189968407430",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -442,12 +403,25 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable compras indirectas - cadena de restauración",
-      "company": "Michael Page",
+      "title": "Responsable Economato/Compras (Cont. sustitución)",
+      "company": "Palladium Hotel Group",
       "location": "Madrid",
-      "created": "2026-09-25T00:00:00.0000000",
-      "description": "&nbsp;...Jornada Completa  Experiencia: \r\n2 años de experiencia    El candidato/a se responsabilizará de: \r\n- Diseñar y ejecutar la estrategia de compras indirectas de la compañía, asegurando la contratación competitiva …",
-      "url": "https://es.jooble.org/jdp/-4587061837444449234",
+      "created": "2026-10-11T00:00:00.0000000",
+      "description": "&nbsp;...Responsable Economato/Compras (Cont. sustitución)\r\n Desde  ONLY YOU Hotels  buscamos profesionales capaces de superarse a sí mismos, de ser ejemplos de compromiso, motivación y optimismo, logrando entusiasmar al…",
+      "url": "https://es.jooble.org/jdp/3115494189968407430",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 7,
+      "catName": "Responsable de Compras",
+      "fuente": "Jooble",
+      "title": "Responsable de Compras de Obras - Construcción",
+      "company": "Proffetional Group",
+      "location": "Madrid",
+      "created": "2026-10-14T00:00:00.0000000",
+      "description": "&nbsp;...multinacional perteneciente a Proffetional Group, líder en la renovación y construcción de hoteles, estamos en búsqueda de a un/a  Responsable de compras de obra  para formar parte de nuestro equipo. \r\n Somos es…",
+      "url": "https://es.jooble.org/jdp/-6680526061827790060",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -461,6 +435,19 @@
       "created": "2026-10-14T00:00:00.0000000",
       "description": "&nbsp;...Proffetional, empresa multinacional del Grupo Proffetional, busca un/a Responsable de Compras de Obras para formar parte del equipo. Diseñamos, construimos y gestionamos la compra e instalación del mobiliario pa…",
       "url": "https://es.jooble.org/jdp/-7046098444053007632",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 7,
+      "catName": "Responsable de Compras",
+      "fuente": "Jooble",
+      "title": "Jefe/a | responsable compras con inglés",
+      "company": "Doméstiko.com",
+      "location": "Fuenlabrada, Comunidad de Madrid",
+      "created": "2026-09-14T13:47:41.9000000",
+      "description": "En Fuenlabrada, Madrid, se busca una persona para liderar el área de compras en una empresa del sector de ventas al por mayor. Entre las labores principales, se incluye analizar las necesidades del negocio, elaborar plan…",
+      "url": "https://es.jooble.org/jdp/-2620843643228257898",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -546,25 +533,12 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
-      "title": "Supply Chain Demand Planner",
-      "company": "Grupo DIA",
-      "location": "Madrid",
-      "created": "2026-10-07T00:00:00.0000000",
-      "description": "&nbsp;...Indefinido  Jornada: \r\n Jornada Indiferente  Años de experiencia: \r\n Sin Experiencia En Dia queremos incorporar un/a Supply Chain Demand Planner en la Dirección Operaciones y Supply Chain. \r\nEl objetivo principa…",
-      "url": "https://es.jooble.org/jdp/-4974168349775723940",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 21,
-      "catName": "Demand Planner",
-      "fuente": "Jooble",
       "title": "Demand Planner Manager Pinto",
-      "company": "ALSTOM Gruppe",
+      "company": "Alstom",
       "location": "Madrid",
       "created": "2026-10-11T00:00:00.0000000",
       "description": "&nbsp;...Select how often (in days) to receive an alert: \r\n Demand Planner Manager Pinto \r\n Date: 19 Sept 2026\r\n Location:  Madrid, ES \r\n Company:  Alstom \r\n At Alstom,weunderstandtransportnetworksandwhatmovespeople. Fro…",
-      "url": "https://es.jooble.org/jdp/4443062446584955121",
+      "url": "https://es.jooble.org/jdp/711113819289620057",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -573,11 +547,24 @@
       "catName": "Demand Planner",
       "fuente": "Jooble",
       "title": "Senior Demand Planner Manager — SAP & BOM Expert",
-      "company": "ALSTOM Gruppe",
+      "company": "Alstom",
       "location": "Madrid",
       "created": "2026-10-11T00:00:00.0000000",
       "description": "&nbsp;...Alstom is seeking a Demand Planner Manager to lead demand planning activities at the Pinto site in Madrid. You will coordinate with Production, Purchase and Industrial teams, manage BOMs in SAP, and align demand…",
-      "url": "https://es.jooble.org/jdp/-2255977902723042480",
+      "url": "https://es.jooble.org/jdp/7827131795059892171",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 21,
+      "catName": "Demand Planner",
+      "fuente": "Jooble",
+      "title": "Supply Chain Demand Planner",
+      "company": "DIA",
+      "location": "Las Rozas de Madrid, Comunidad de Madrid",
+      "created": "2026-10-10T07:00:40.7530000",
+      "description": "&nbsp;...En Dia queremos incorporarun/a  Supply Chain Demand Planner  en la Dirección  Operaciones y Supply Chain  . \r\n El objetivo principal será coordinar la implementación de campañas y promociones a lo largo de toda …",
+      "url": "https://es.jooble.org/jdp/-2593085855375610350",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -725,19 +712,6 @@
       "salaryMax": null
     },
     {
-      "cat": 23,
-      "catName": "Supply Chain Specialist",
-      "fuente": "Jooble",
-      "title": "Logistics & Supply Chain Specialist I Madrid",
-      "company": "Michael Page",
-      "location": "Madrid",
-      "created": "2026-09-25T00:00:00.0000000",
-      "description": "&nbsp;...logístico. \r\n La persona seleccionada deberá cumplir los siguientes requisitos:\n\r\n Al menos 2-3 años de experiencia en logística, supply chain, planificación o customer service logístico. \r\n Experiencia en contr…",
-      "url": "https://es.jooble.org/jdp/5435457394691539798",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
       "cat": 24,
       "catName": "Especialista Supply Chain",
       "fuente": "Jooble",
@@ -780,7 +754,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 2659,
+      "count": 2798,
       "crudos": 30,
       "returned": 6
     },
@@ -799,7 +773,7 @@
       "what": "supply chain manager",
       "fuente": "Jooble",
       "status": 200,
-      "count": 180,
+      "count": 181,
       "crudos": 30,
       "returned": 6
     },
@@ -837,7 +811,7 @@
       "what": "supply chain coordinator",
       "fuente": "Jooble",
       "status": 200,
-      "count": 187,
+      "count": 188,
       "crudos": 30,
       "returned": 1
     },
@@ -856,9 +830,9 @@
       "what": "responsable compras",
       "fuente": "Jooble",
       "status": 200,
-      "count": 183,
+      "count": 182,
       "crudos": 30,
-      "returned": 6
+      "returned": 5
     },
     {
       "id": 14,
@@ -894,7 +868,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 239,
+      "count": 235,
       "crudos": 30,
       "returned": 1
     },
@@ -913,7 +887,7 @@
       "what": "demand planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 181,
+      "count": 182,
       "crudos": 30,
       "returned": 6
     },
@@ -951,9 +925,9 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 158,
+      "count": 160,
       "crudos": 30,
-      "returned": 4
+      "returned": 3
     },
     {
       "id": 24,
