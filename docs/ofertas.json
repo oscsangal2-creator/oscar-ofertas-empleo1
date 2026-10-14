@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T16:37:05.459Z",
+  "actualizado": "2026-10-14T21:15:11.052Z",
   "totalOfertas": 53,
   "categorias": [
     {
@@ -390,19 +390,6 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable Compras, Supply chain y logística con discapacidad",
-      "company": "Fundación Adecco",
-      "location": "Alcobendas, Comunidad de Madrid",
-      "created": "2026-10-10T07:00:35.7230000",
-      "description": "&nbsp;...será la región EMEA. Tus funciones serán: Diseñar estrategias de compras para servicios de transporte y logística, liderando análisis...&nbsp;&nbsp;..., respaldado por la certificación de Empresa Familiana Respo…",
-      "url": "https://es.jooble.org/jdp/-7664650383133854312",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Jooble",
       "title": "Responsable Economato/Compras (Cont. sustitución)",
       "company": "Palladium Hotel Group",
       "location": "Madrid",
@@ -422,6 +409,19 @@
       "created": "2026-10-14T00:00:00.0000000",
       "description": "&nbsp;...multinacional perteneciente a Proffetional Group, líder en la renovación y construcción de hoteles, estamos en búsqueda de a un/a  Responsable de compras de obra  para formar parte de nuestro equipo. \r\n Somos es…",
       "url": "https://es.jooble.org/jdp/-6680526061827790060",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 7,
+      "catName": "Responsable de Compras",
+      "fuente": "Jooble",
+      "title": "Responsable Compras, Supply chain y logística con discapacidad",
+      "company": "Fundación Adecco",
+      "location": "Alcobendas, Comunidad de Madrid",
+      "created": "2026-10-10T07:00:35.7230000",
+      "description": "&nbsp;...será la región EMEA. Tus funciones serán: Diseñar estrategias de compras para servicios de transporte y logística, liderando análisis...&nbsp;&nbsp;..., respaldado por la certificación de Empresa Familiana Respo…",
+      "url": "https://es.jooble.org/jdp/-7664650383133854312",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -715,12 +715,12 @@
       "cat": 24,
       "catName": "Especialista Supply Chain",
       "fuente": "Jooble",
-      "title": "Especialista en Soluciones IT Cadena de Suministro y WMS",
+      "title": "Especialista Seguridad y BCM",
       "company": "DHL",
       "location": "Madrid",
-      "created": "2026-10-13T15:00:11.3970000",
-      "description": "&nbsp;...estabilidad de los sistemas IT, asegurando una alta disponibilidad y alineación con las mejores prácticas. Si tienes experiencia en Supply Chain y un fuerte conocimiento en entornos IT, esta es tu oportunidad pa…",
-      "url": "https://es.jooble.org/jdp/-1682757470596882194",
+      "created": "2026-10-12T00:00:00.0000000",
+      "description": "&nbsp;...En DHL Supply Chain estamos ampliando el equipo Si quieres seguir tu carrera profesional dentro del mundo de la logística. Si te apasiona...&nbsp;&nbsp;...Nos encantaría que contactaras con nosotros!\n Buscamos u…",
+      "url": "https://es.jooble.org/jdp/-3650976998156382126",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -728,12 +728,12 @@
       "cat": 24,
       "catName": "Especialista Supply Chain",
       "fuente": "Jooble",
-      "title": "Especialista Seguridad y BCM",
+      "title": "Especialista en Soluciones IT Cadena de Suministro y WMS",
       "company": "DHL",
       "location": "Madrid",
-      "created": "2026-10-12T00:00:00.0000000",
-      "description": "&nbsp;...En DHL Supply Chain estamos ampliando el equipo Si quieres seguir tu carrera profesional dentro del mundo de la logística. Si te apasiona...&nbsp;&nbsp;...Nos encantaría que contactaras con nosotros!\n Buscamos u…",
-      "url": "https://es.jooble.org/jdp/-3650976998156382126",
+      "created": "2026-10-13T15:00:11.3970000",
+      "description": "&nbsp;...estabilidad de los sistemas IT, asegurando una alta disponibilidad y alineación con las mejores prácticas. Si tienes experiencia en Supply Chain y un fuerte conocimiento en entornos IT, esta es tu oportunidad pa…",
+      "url": "https://es.jooble.org/jdp/-1682757470596882194",
       "salaryMin": null,
       "salaryMax": null
     }
@@ -754,7 +754,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 2798,
+      "count": 2736,
       "crudos": 30,
       "returned": 6
     },
@@ -773,7 +773,7 @@
       "what": "supply chain manager",
       "fuente": "Jooble",
       "status": 200,
-      "count": 181,
+      "count": 180,
       "crudos": 30,
       "returned": 6
     },
@@ -792,7 +792,7 @@
       "what": "responsable logistica",
       "fuente": "Jooble",
       "status": 200,
-      "count": 1199,
+      "count": 1231,
       "crudos": 30,
       "returned": 6
     },
@@ -811,7 +811,7 @@
       "what": "supply chain coordinator",
       "fuente": "Jooble",
       "status": 200,
-      "count": 188,
+      "count": 186,
       "crudos": 30,
       "returned": 1
     },
@@ -830,7 +830,7 @@
       "what": "responsable compras",
       "fuente": "Jooble",
       "status": 200,
-      "count": 182,
+      "count": 180,
       "crudos": 30,
       "returned": 5
     },
@@ -868,7 +868,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 235,
+      "count": 233,
       "crudos": 30,
       "returned": 1
     },
@@ -887,7 +887,7 @@
       "what": "demand planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 182,
+      "count": 179,
       "crudos": 30,
       "returned": 6
     },
@@ -925,7 +925,7 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 160,
+      "count": 161,
       "crudos": 30,
       "returned": 3
     },
