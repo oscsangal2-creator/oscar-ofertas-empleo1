@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-24T10:42:25.157Z",
-  "totalOfertas": 47,
+  "actualizado": "2026-10-24T15:26:13.019Z",
+  "totalOfertas": 45,
   "categorias": [
     {
       "id": 1,
@@ -169,6 +169,19 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Jooble",
+      "title": "Logistics and Supply Chain Project Manager",
+      "company": "IDOM",
+      "location": "Madrid",
+      "created": "2026-10-24T15:02:54.0230000",
+      "description": "&nbsp;...Select how often (in days) to receive an alert:\n Title: Logistics and Supply Chain Project Manager \r\n City: Madrid \r\n Description:\nHow about developing your professional career in a company where you can one day…",
+      "url": "https://es.jooble.org/jdp/1948661732157836888",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 2,
+      "catName": "Supply Chain Manager",
+      "fuente": "Jooble",
       "title": "Supply Chain Manager, Amazon Shipping",
       "company": "Amazon",
       "location": "Madrid",
@@ -201,19 +214,6 @@
       "created": "2026-10-24T00:00:00.0000000",
       "description": "&nbsp;...Accenture is seeking an experienced Manager to lead Data & AI for Supply Chain teams. You will oversee client engagements, manage multidisciplinary Data&AI teams, and contribute to business development, ensuring…",
       "url": "https://es.jooble.org/jdp/-7047836808179009437",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 2,
-      "catName": "Supply Chain Manager",
-      "fuente": "Jooble",
-      "title": "PIMCC - Supply Chain and Quality Manager",
-      "company": "Airbus",
-      "location": "Getafe, Comunidad de Madrid",
-      "created": "2026-10-24T00:00:00.0000000",
-      "description": "&nbsp;...Job Description: An opportunity for a Supply Chain and Quality Manager (SCQM) has arisen within the Procurement Operations organization (PI). This...&nbsp;&nbsp;...ancillary materials for the entire product life…",
-      "url": "https://es.jooble.org/jdp/4706990629377718590",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -361,19 +361,6 @@
       "salaryMax": null
     },
     {
-      "cat": 5,
-      "catName": "Supply Chain Coordinator",
-      "fuente": "Jooble",
-      "title": "Supply Chain Coordinator - líder en medicina estética",
-      "company": "Michael Page",
-      "location": "Madrid",
-      "created": "2026-10-15T07:25:36.1270000",
-      "description": "&nbsp;...de experiencia    El candidato/a se responsabilizará de: \r\n- Coordinar las actividades de suministro de producto dentro de la región...&nbsp;&nbsp;...entre los stakeholders regionales y los equipos globales de S…",
-      "url": "https://es.jooble.org/jdp/6820936034726729690",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
@@ -383,19 +370,6 @@
       "created": "2026-10-24T00:00:00.0000000",
       "description": "&nbsp;...multinacional perteneciente a Proffetional Group, líder en la renovación y construcción de hoteles, estamos en búsqueda de a un/a  Responsable de compras de obra  para formar parte de nuestro equipo. \r\n Somos es…",
       "url": "https://es.jooble.org/jdp/-6680526061827790060",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Jooble",
-      "title": "Responsable compras indirectas - cadena de restauración",
-      "company": "Michael Page",
-      "location": "Madrid",
-      "created": "2026-09-25T00:00:00.0000000",
-      "description": "&nbsp;...Jornada Completa  Experiencia: \r\n2 años de experiencia    El candidato/a se responsabilizará de: \r\n- Diseñar y ejecutar la estrategia de compras indirectas de la compañía, asegurando la contratación competitiva …",
-      "url": "https://es.jooble.org/jdp/-4587061837444449234",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -520,19 +494,6 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
-      "title": "Supply Chain Demand Planner",
-      "company": "Grupo DIA",
-      "location": "Madrid",
-      "created": "2026-10-07T00:00:00.0000000",
-      "description": "&nbsp;...Indefinido  Jornada: \r\n Jornada Indiferente  Años de experiencia: \r\n Sin Experiencia En Dia queremos incorporar un/a Supply Chain Demand Planner en la Dirección Operaciones y Supply Chain. \r\nEl objetivo principa…",
-      "url": "https://es.jooble.org/jdp/8003430330008280274",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 21,
-      "catName": "Demand Planner",
-      "fuente": "Jooble",
       "title": "Demand Planner Manager Pinto",
       "company": "Alstom",
       "location": "Madrid",
@@ -569,6 +530,19 @@
       "salaryMax": null
     },
     {
+      "cat": 21,
+      "catName": "Demand Planner",
+      "fuente": "Jooble",
+      "title": "Supply Chain Demand Planner",
+      "company": "Grupo DIA",
+      "location": "Madrid",
+      "created": "2026-10-07T00:00:00.0000000",
+      "description": "&nbsp;...Indefinido  Jornada: \r\n Jornada Indiferente  Años de experiencia: \r\n Sin Experiencia En Dia queremos incorporar un/a Supply Chain Demand Planner en la Dirección Operaciones y Supply Chain. \r\nEl objetivo principa…",
+      "url": "https://es.jooble.org/jdp/8003430330008280274",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
       "cat": 22,
       "catName": "Planificador de Demanda",
       "fuente": "Jooble",
@@ -598,6 +572,19 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
+      "title": "D&A Supply Chain Data & Planning Specialist",
+      "company": "ALK-Abelló A/S",
+      "location": "Madrid",
+      "created": "2026-10-23T00:00:00.0000000",
+      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
+      "url": "https://es.jooble.org/jdp/-8305381542314056300",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Jooble",
       "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
       "company": "ALK-Abelló, A/S",
       "location": "Madrid",
@@ -617,19 +604,6 @@
       "created": "2026-10-24T00:00:00.0000000",
       "description": "&nbsp;...ALK-Abelló Nordic, a leader in allergy treatments, is seeking a D&A Process Specialist within Global IT. This role involves supporting the data foundation for Product Supply Planning and ensuring the accuracy of…",
       "url": "https://es.jooble.org/jdp/4954228212323915616",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 23,
-      "catName": "Supply Chain Specialist",
-      "fuente": "Jooble",
-      "title": "D&A Supply Chain Data & Planning Specialist",
-      "company": "ALK-Abelló A/S",
-      "location": "Madrid",
-      "created": "2026-10-23T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
-      "url": "https://es.jooble.org/jdp/-8305381542314056300",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -676,7 +650,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 3117,
+      "count": 3016,
       "crudos": 30,
       "returned": 5
     },
@@ -695,7 +669,7 @@
       "what": "supply chain manager",
       "fuente": "Jooble",
       "status": 200,
-      "count": 185,
+      "count": 207,
       "crudos": 30,
       "returned": 6
     },
@@ -714,7 +688,7 @@
       "what": "responsable logistica",
       "fuente": "Jooble",
       "status": 200,
-      "count": 1106,
+      "count": 1182,
       "crudos": 30,
       "returned": 6
     },
@@ -733,9 +707,9 @@
       "what": "supply chain coordinator",
       "fuente": "Jooble",
       "status": 200,
-      "count": 185,
+      "count": 207,
       "crudos": 30,
-      "returned": 2
+      "returned": 1
     },
     {
       "id": 7,
@@ -752,9 +726,9 @@
       "what": "responsable compras",
       "fuente": "Jooble",
       "status": 200,
-      "count": 185,
+      "count": 207,
       "crudos": 30,
-      "returned": 4
+      "returned": 3
     },
     {
       "id": 14,
@@ -771,7 +745,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 144,
+      "count": 145,
       "crudos": 30,
       "returned": 2
     },
@@ -790,7 +764,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 232,
+      "count": 222,
       "crudos": 30,
       "returned": 1
     },
@@ -809,7 +783,7 @@
       "what": "demand planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 179,
+      "count": 182,
       "crudos": 30,
       "returned": 6
     },
@@ -828,7 +802,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 144,
+      "count": 145,
       "crudos": 30,
       "returned": 1
     },
@@ -847,7 +821,7 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 153,
+      "count": 162,
       "crudos": 30,
       "returned": 3
     },
@@ -866,7 +840,7 @@
       "what": "especialista supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 786,
+      "count": 789,
       "crudos": 30,
       "returned": 2
     }
