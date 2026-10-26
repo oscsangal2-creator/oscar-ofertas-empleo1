@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-26T18:17:45.683Z",
+  "actualizado": "2026-10-26T22:14:56.353Z",
   "totalOfertas": 47,
   "categorias": [
     {
@@ -182,6 +182,19 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Jooble",
+      "title": "Logistics and Supply Chain Project Manager",
+      "company": "IDOM",
+      "location": "Madrid",
+      "created": "2026-10-24T15:02:54.0230000",
+      "description": "&nbsp;...Select how often (in days) to receive an alert:\n Title: Logistics and Supply Chain Project Manager \r\n City: Madrid \r\n Description:\nHow about developing your professional career in a company where you can one day…",
+      "url": "https://es.jooble.org/jdp/1948661732157836888",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 2,
+      "catName": "Supply Chain Manager",
+      "fuente": "Jooble",
       "title": "Supply Chain Manager, Amazon Shipping",
       "company": "Amazon",
       "location": "Madrid",
@@ -214,19 +227,6 @@
       "created": "2026-10-25T13:59:58.6800000",
       "description": "&nbsp;...Capgemini Invent seeks a_Manager_ to drive sustainable transformation in operations and supply chain. You will engage with clients to translate business ideas into digital architectures and practical solutions, …",
       "url": "https://es.jooble.org/jdp/37940222559620156",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 2,
-      "catName": "Supply Chain Manager",
-      "fuente": "Jooble",
-      "title": "Logistics and Supply Chain Project Manager",
-      "company": "IDOM",
-      "location": "Madrid",
-      "created": "2026-10-24T15:02:54.0230000",
-      "description": "&nbsp;...Select how often (in days) to receive an alert:\n Title: Logistics and Supply Chain Project Manager \r\n City: Madrid \r\n Description:\nHow about developing your professional career in a company where you can one day…",
-      "url": "https://es.jooble.org/jdp/1948661732157836888",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -520,12 +520,12 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
-      "title": "demand planner.",
-      "company": "Randstad",
-      "location": "Alcobendas, Comunidad de Madrid",
-      "created": "2026-06-13T00:00:00.0000000",
-      "description": "Apoyar en la preparación y actualización del pronóstico de demanda, consolidando la información de mercados, filiales o regiones.Colaborar en el análisis del historial de ventas, tendencias, estacionalidad y otros factor…",
-      "url": "https://es.jooble.org/jdp/-6950189307210915753",
+      "title": "Senior Demand Planner Manager — SAP & BOM Expert",
+      "company": "Alstom",
+      "location": "Madrid",
+      "created": "2026-10-26T00:00:00.0000000",
+      "description": "&nbsp;...Alstom is seeking a Demand Planner Manager to lead demand planning activities at the Pinto site in Madrid. You will coordinate with Production, Purchase and Industrial teams, manage BOMs in SAP, and align demand…",
+      "url": "https://es.jooble.org/jdp/7827131795059892171",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -533,12 +533,12 @@
       "cat": 21,
       "catName": "Demand Planner",
       "fuente": "Jooble",
-      "title": "Senior Demand Planner Manager — SAP & BOM Expert",
-      "company": "Alstom",
-      "location": "Madrid",
-      "created": "2026-10-26T00:00:00.0000000",
-      "description": "&nbsp;...Alstom is seeking a Demand Planner Manager to lead demand planning activities at the Pinto site in Madrid. You will coordinate with Production, Purchase and Industrial teams, manage BOMs in SAP, and align demand…",
-      "url": "https://es.jooble.org/jdp/7827131795059892171",
+      "title": "demand planner.",
+      "company": "Randstad",
+      "location": "Alcobendas, Comunidad de Madrid",
+      "created": "2026-06-13T00:00:00.0000000",
+      "description": "Apoyar en la preparación y actualización del pronóstico de demanda, consolidando la información de mercados, filiales o regiones.Colaborar en el análisis del historial de ventas, tendencias, estacionalidad y otros factor…",
+      "url": "https://es.jooble.org/jdp/-6950189307210915753",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -637,12 +637,12 @@
       "cat": 24,
       "catName": "Especialista Supply Chain",
       "fuente": "Jooble",
-      "title": "Especialista en Soluciones IT Cadena de Suministro y WMS",
+      "title": "Especialista Seguridad y BCM",
       "company": "DHL",
       "location": "Madrid",
-      "created": "2026-10-23T00:00:00.0000000",
-      "description": "&nbsp;...estabilidad de los sistemas IT, asegurando una alta disponibilidad y alineación con las mejores prácticas. Si tienes experiencia en Supply Chain y un fuerte conocimiento en entornos IT, esta es tu oportunidad pa…",
-      "url": "https://es.jooble.org/jdp/-1682757470596882194",
+      "created": "2026-10-22T00:00:00.0000000",
+      "description": "&nbsp;...En DHL Supply Chain estamos ampliando el equipo Si quieres seguir tu carrera profesional dentro del mundo de la logística. Si te apasiona...&nbsp;&nbsp;...Nos encantaría que contactaras con nosotros!\n Buscamos u…",
+      "url": "https://es.jooble.org/jdp/-3650976998156382126",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -650,12 +650,12 @@
       "cat": 24,
       "catName": "Especialista Supply Chain",
       "fuente": "Jooble",
-      "title": "Especialista Seguridad y BCM",
+      "title": "Especialista en Soluciones IT Cadena de Suministro y WMS",
       "company": "DHL",
       "location": "Madrid",
-      "created": "2026-10-22T00:00:00.0000000",
-      "description": "&nbsp;...En DHL Supply Chain estamos ampliando el equipo Si quieres seguir tu carrera profesional dentro del mundo de la logística. Si te apasiona...&nbsp;&nbsp;...Nos encantaría que contactaras con nosotros!\n Buscamos u…",
-      "url": "https://es.jooble.org/jdp/-3650976998156382126",
+      "created": "2026-10-23T00:00:00.0000000",
+      "description": "&nbsp;...estabilidad de los sistemas IT, asegurando una alta disponibilidad y alineación con las mejores prácticas. Si tienes experiencia en Supply Chain y un fuerte conocimiento en entornos IT, esta es tu oportunidad pa…",
+      "url": "https://es.jooble.org/jdp/-1682757470596882194",
       "salaryMin": null,
       "salaryMax": null
     }
@@ -695,7 +695,7 @@
       "what": "supply chain manager",
       "fuente": "Jooble",
       "status": 200,
-      "count": 219,
+      "count": 217,
       "crudos": 30,
       "returned": 6
     },
@@ -714,7 +714,7 @@
       "what": "responsable logistica",
       "fuente": "Jooble",
       "status": 200,
-      "count": 1351,
+      "count": 1387,
       "crudos": 30,
       "returned": 6
     },
@@ -733,7 +733,7 @@
       "what": "supply chain coordinator",
       "fuente": "Jooble",
       "status": 200,
-      "count": 219,
+      "count": 217,
       "crudos": 30,
       "returned": 2
     },
@@ -743,7 +743,7 @@
       "what": "responsable compras",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 2,
+      "count": 3,
       "returned": 0
     },
     {
@@ -752,7 +752,7 @@
       "what": "responsable compras",
       "fuente": "Jooble",
       "status": 200,
-      "count": 219,
+      "count": 217,
       "crudos": 30,
       "returned": 4
     },
@@ -809,7 +809,7 @@
       "what": "demand planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 172,
+      "count": 171,
       "crudos": 30,
       "returned": 6
     },
@@ -847,7 +847,7 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 163,
+      "count": 161,
       "crudos": 30,
       "returned": 4
     },
@@ -866,7 +866,7 @@
       "what": "especialista supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 831,
+      "count": 820,
       "crudos": 30,
       "returned": 2
     }
