@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-28T17:55:19.249Z",
-  "totalOfertas": 44,
+  "actualizado": "2026-10-28T22:08:12.877Z",
+  "totalOfertas": 45,
   "categorias": [
     {
       "id": 1,
@@ -221,12 +221,12 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Jooble",
-      "title": "PIMCC - Supply Chain and Quality Manager",
+      "title": "Supply Chain Quality Manager M/F Microwave Instruments for SpS",
       "company": "Airbus",
       "location": "Getafe, Comunidad de Madrid",
-      "created": "2026-10-24T00:00:00.0000000",
-      "description": "&nbsp;...Job Description: An opportunity for a Supply Chain and Quality Manager (SCQM) has arisen within the Procurement Operations organization (PI). This...&nbsp;&nbsp;...ancillary materials for the entire product life…",
-      "url": "https://es.jooble.org/jdp/4706990629377718590",
+      "created": "2026-10-28T00:00:00.0000000",
+      "description": "&nbsp;...Job Description: An opportunity for an Supply Chain and Quality Manager to procure satellite payload equipment for our Telecoms & Navigation, Earth...&nbsp;&nbsp;...activities and contract management and as amba…",
+      "url": "https://es.jooble.org/jdp/-8714174227397914979",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -409,6 +409,19 @@
       "created": "2026-10-24T00:00:00.0000000",
       "description": "&nbsp;...Proffetional, empresa multinacional del Grupo Proffetional, busca un/a Responsable de Compras de Obras para formar parte del equipo. Diseñamos, construimos y gestionamos la compra e instalación del mobiliario pa…",
       "url": "https://es.jooble.org/jdp/-7046098444053007632",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 7,
+      "catName": "Responsable de Compras",
+      "fuente": "Jooble",
+      "title": "Jefe/a | responsable compras con inglés",
+      "company": "Doméstiko.com",
+      "location": "Fuenlabrada, Comunidad de Madrid",
+      "created": "2026-09-14T13:47:41.9000000",
+      "description": "En Fuenlabrada, Madrid, se busca una persona para liderar el área de compras en una empresa del sector de ventas al por mayor. Entre las labores principales, se incluye analizar las necesidades del negocio, elaborar plan…",
+      "url": "https://es.jooble.org/jdp/-2620843643228257898",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -637,7 +650,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 4155,
+      "count": 3940,
       "crudos": 30,
       "returned": 6
     },
@@ -675,7 +688,7 @@
       "what": "responsable logistica",
       "fuente": "Jooble",
       "status": 200,
-      "count": 1303,
+      "count": 1339,
       "crudos": 30,
       "returned": 6
     },
@@ -715,7 +728,7 @@
       "status": 200,
       "count": 237,
       "crudos": 30,
-      "returned": 5
+      "returned": 6
     },
     {
       "id": 14,
@@ -732,7 +745,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 142,
+      "count": 144,
       "crudos": 30,
       "returned": 2
     },
@@ -751,7 +764,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 246,
+      "count": 252,
       "crudos": 30,
       "returned": 1
     },
@@ -770,7 +783,7 @@
       "what": "demand planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 210,
+      "count": 213,
       "crudos": 30,
       "returned": 6
     },
@@ -789,7 +802,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 142,
+      "count": 144,
       "crudos": 30,
       "returned": 1
     },
