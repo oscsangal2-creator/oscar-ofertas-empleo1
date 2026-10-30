@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T12:36:28.505Z",
+  "actualizado": "2026-10-30T17:44:36.208Z",
   "totalOfertas": 42,
   "categorias": [
     {
@@ -130,12 +130,12 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Jooble",
-      "title": "Logistics and Supply Chain Project Manager",
-      "company": "IDOM",
+      "title": "Supply Chain Manager, Amazon Shipping",
+      "company": "Amazon",
       "location": "Madrid",
-      "created": "2026-10-29T00:00:00.0000000",
-      "description": "&nbsp;...Select how often (in days) to receive an alert:\n Title: Logistics and Supply Chain Project Manager \r\n City: Madrid \r\n Description:\nHow about developing your professional career in a company where you can one day…",
-      "url": "https://es.jooble.org/jdp/1948661732157836888",
+      "created": "2026-10-26T00:00:00.0000000",
+      "description": "&nbsp;...pace. \r\n Amazon Shipping is looking to hire an analytical, technically skilled, innovative, hands-on, and customer-obsessed Supply Chain Manager that can drive innovation and execution in transportation networks…",
+      "url": "https://es.jooble.org/jdp/1721887181824174267",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -143,12 +143,12 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Jooble",
-      "title": "Supply Chain Manager, Amazon Shipping",
-      "company": "Amazon",
+      "title": "Logistics and Supply Chain Project Manager",
+      "company": "IDOM",
       "location": "Madrid",
-      "created": "2026-10-26T00:00:00.0000000",
-      "description": "&nbsp;...pace. \r\n Amazon Shipping is looking to hire an analytical, technically skilled, innovative, hands-on, and customer-obsessed Supply Chain Manager that can drive innovation and execution in transportation networks…",
-      "url": "https://es.jooble.org/jdp/1721887181824174267",
+      "created": "2026-10-29T00:00:00.0000000",
+      "description": "&nbsp;...Select how often (in days) to receive an alert:\n Title: Logistics and Supply Chain Project Manager \r\n City: Madrid \r\n Description:\nHow about developing your professional career in a company where you can one day…",
+      "url": "https://es.jooble.org/jdp/1948661732157836888",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -649,7 +649,7 @@
       "what": "responsable logistica",
       "fuente": "Jooble",
       "status": 200,
-      "count": 1278,
+      "count": 1314,
       "crudos": 30,
       "returned": 6
     },
@@ -725,7 +725,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 188,
+      "count": 186,
       "crudos": 30,
       "returned": 1
     },
@@ -801,7 +801,7 @@
       "what": "especialista supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 739,
+      "count": 734,
       "crudos": 30,
       "returned": 2
     }
