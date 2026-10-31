@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-10-30T21:54:24.917Z",
-  "totalOfertas": 42,
+  "actualizado": "2026-10-31T12:02:30.292Z",
+  "totalOfertas": 47,
   "categorias": [
     {
       "id": 1,
@@ -78,6 +78,19 @@
       "cat": 1,
       "catName": "Demand Planning Manager",
       "fuente": "Jooble",
+      "title": "Occupancy Planner: Space Planning & Forecasting",
+      "company": "Jones Lang LaSalle Incorporated",
+      "location": "Madrid",
+      "created": "2026-10-31T06:56:39.5030000",
+      "description": "&nbsp;...headcount by local business unit. You will ensure sites are aligned with client workplace standards and strategic space planning goals. \r\n The role demands strong collaboration with site leaders, space policy kn…",
+      "url": "https://es.jooble.org/jdp/-9222290992988055347",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 1,
+      "catName": "Demand Planning Manager",
+      "fuente": "Jooble",
       "title": "Spare Demand Planner and Inventory Manager",
       "company": "Airbus",
       "location": "Getafe, Comunidad de Madrid",
@@ -120,6 +133,32 @@
       "title": "Supply Chain Quality Manager",
       "company": "Airbus",
       "location": "Madrid",
+      "created": "2026-10-31T02:39:20Z",
+      "description": "Job DescriptionThe candidate will be part of Supply Chain Quality Management team inside Procurement and Supply Chain department in Airbus CRISA (Airbus Defense & Space) in Tres Cantos (Madrid area) working on the differ…",
+      "url": "https://www.adzuna.es/details/5947366877?utm_medium=api&utm_source=3c972d9b",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 2,
+      "catName": "Supply Chain Manager",
+      "fuente": "Adzuna",
+      "title": "Supply Chain Quality Manager",
+      "company": "Bright Horizons",
+      "location": "Madrid",
+      "created": "2026-10-31T02:39:20Z",
+      "description": "Job DescriptionThe candidate will be part of Supply Chain Quality Management team inside Procurement and Supply Chain department in Airbus CRISA (Airbus Defense & Space) in Tres Cantos (Madrid area) working on the differ…",
+      "url": "https://www.adzuna.es/details/5947366834?utm_medium=api&utm_source=3c972d9b",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 2,
+      "catName": "Supply Chain Manager",
+      "fuente": "Adzuna",
+      "title": "Supply Chain Quality Manager",
+      "company": "Airbus",
+      "location": "Madrid",
       "created": "2026-10-30T03:06:25Z",
       "description": "Job Description:The candidate will be part of Supply Chain Quality Management team inside Procurement and Supply Chain department in Airbus CRISA (Airbus Defense & Space) in Tres Cantos (Madrid area) working on the diffe…",
       "url": "https://www.adzuna.es/details/5946242772?utm_medium=api&utm_source=3c972d9b",
@@ -146,7 +185,7 @@
       "title": "Supply Chain Manager, Amazon Shipping",
       "company": "Amazon",
       "location": "Madrid",
-      "created": "2026-10-26T00:00:00.0000000",
+      "created": "2026-10-31T00:00:00.0000000",
       "description": "&nbsp;...pace. \r\n Amazon Shipping is looking to hire an analytical, technically skilled, innovative, hands-on, and customer-obsessed Supply Chain Manager that can drive innovation and execution in transportation networks…",
       "url": "https://es.jooble.org/jdp/1721887181824174267",
       "salaryMin": null,
@@ -207,15 +246,15 @@
     {
       "cat": 3,
       "catName": "Responsable de Logística",
-      "fuente": "Adzuna",
-      "title": "Responsable Logística grupo",
-      "company": "Empresa no especificada",
-      "location": "Madrid",
-      "created": "2026-10-20T07:25:26Z",
-      "description": "Liderar proyectos de transformación y optimización logística a nivel corporativo. Definir e implantar iniciativas orientadas a mejorar la eficiencia de la red logística. Gestionar la relación con operadores logísticos ex…",
-      "url": "https://www.adzuna.es/details/5935146087?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": 54000,
-      "salaryMax": 66000
+      "fuente": "Jooble",
+      "title": "RESPONSABLE DE GESTIÓN DE ALMACÉN",
+      "company": "Elenahernandez",
+      "location": "Leganés, Comunidad de Madrid",
+      "created": "2026-10-29T00:00:00.0000000",
+      "description": "&nbsp;...Descripción del puesto \r\n Como Responsable de Logística, serás el encargado/a de planificar, coordinar y  optimizar  todas las operaciones logísticas relacionadas con la recepción, almacenamiento y distribución …",
+      "url": "https://es.jooble.org/jdp/-1961252708388219723",
+      "salaryMin": null,
+      "salaryMax": null
     },
     {
       "cat": 3,
@@ -227,19 +266,6 @@
       "created": "2026-10-30T00:00:00.0000000",
       "description": "&nbsp;...con experiencia para liderar y optimizar las operaciones de logística y aprovisionamiento. Si tienes una mentalidad estratégica, habilidades...&nbsp;&nbsp;...del sector industrial, ¡esta es tu oportunidad!\r\n Res…",
       "url": "https://es.jooble.org/jdp/7920140070399978970",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 3,
-      "catName": "Responsable de Logística",
-      "fuente": "Jooble",
-      "title": "RESPONSABLE DE GESTIÓN DE ALMACÉN",
-      "company": "Elenahernandez",
-      "location": "Leganés, Comunidad de Madrid",
-      "created": "2026-10-29T00:00:00.0000000",
-      "description": "&nbsp;...Descripción del puesto \r\n Como Responsable de Logística, serás el encargado/a de planificar, coordinar y  optimizar  todas las operaciones logísticas relacionadas con la recepción, almacenamiento y distribución …",
-      "url": "https://es.jooble.org/jdp/-1961252708388219723",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -311,6 +337,19 @@
     {
       "cat": 7,
       "catName": "Responsable de Compras",
+      "fuente": "Adzuna",
+      "title": "Jefe de área producto marca propia",
+      "company": "AdQualis",
+      "location": "Madrid",
+      "created": "2026-10-30T09:29:59Z",
+      "description": "Responsable de Compras de Marca Propia Madrid · Central de compras de gran distribución La compañía Una de las principales centrales de compra y servicios de la distribución en España. Da servicio a una amplia red de emp…",
+      "url": "https://www.adzuna.es/details/5946679057?utm_medium=api&utm_source=3c972d9b",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 7,
+      "catName": "Responsable de Compras",
       "fuente": "Jooble",
       "title": "Responsable de Compras de Obras - Construcción",
       "company": "Proffetional Group",
@@ -338,12 +377,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable de Administración, Compras y Logística",
-      "company": "Hays",
-      "location": "Madrid",
-      "created": "2026-10-29T00:00:00.0000000",
-      "description": "&nbsp;...Misión del puesto  Responsabilizarse de la gestión administrativa, financiera básica, compras, proveedores, almacén y control de stock, garantizando la correcta utilización de SAP Business One y la optimización …",
-      "url": "https://es.jooble.org/jdp/4920116647398376690",
+      "title": "Jefe/a | responsable compras con inglés",
+      "company": "Doméstiko.com",
+      "location": "Fuenlabrada, Comunidad de Madrid",
+      "created": "2026-09-14T13:47:41.9000000",
+      "description": "En Fuenlabrada, Madrid, se busca una persona para liderar el área de compras en una empresa del sector de ventas al por mayor. Entre las labores principales, se incluye analizar las necesidades del negocio, elaborar plan…",
+      "url": "https://es.jooble.org/jdp/-2620843643228257898",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -364,12 +403,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Jefe/a | responsable compras con inglés",
-      "company": "Doméstiko.com",
-      "location": "Fuenlabrada, Comunidad de Madrid",
-      "created": "2026-09-14T13:47:41.9000000",
-      "description": "En Fuenlabrada, Madrid, se busca una persona para liderar el área de compras en una empresa del sector de ventas al por mayor. Entre las labores principales, se incluye analizar las necesidades del negocio, elaborar plan…",
-      "url": "https://es.jooble.org/jdp/-2620843643228257898",
+      "title": "Responsable de Administración, Compras y Logística",
+      "company": "Hays",
+      "location": "Madrid",
+      "created": "2026-10-29T00:00:00.0000000",
+      "description": "&nbsp;...Misión del puesto  Responsabilizarse de la gestión administrativa, financiera básica, compras, proveedores, almacén y control de stock, garantizando la correcta utilización de SAP Business One y la optimización …",
+      "url": "https://es.jooble.org/jdp/4920116647398376690",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -432,7 +471,7 @@
       "title": "Demand Planner Manager Pinto",
       "company": "Alstom",
       "location": "Madrid",
-      "created": "2026-10-26T00:00:00.0000000",
+      "created": "2026-10-31T00:00:00.0000000",
       "description": "&nbsp;...Select how often (in days) to receive an alert: \r\n Demand Planner Manager Pinto \r\n Date: 19 Sept 2026\r\n Location:  Madrid, ES \r\n Company:  Alstom \r\n At Alstom,weunderstandtransportnetworksandwhatmovespeople. Fro…",
       "url": "https://es.jooble.org/jdp/711113819289620057",
       "salaryMin": null,
@@ -445,7 +484,7 @@
       "title": "Senior Demand Planner Manager — SAP & BOM Expert",
       "company": "Alstom",
       "location": "Madrid",
-      "created": "2026-10-26T00:00:00.0000000",
+      "created": "2026-10-31T00:00:00.0000000",
       "description": "&nbsp;...Alstom is seeking a Demand Planner Manager to lead demand planning activities at the Pinto site in Madrid. You will coordinate with Production, Purchase and Industrial teams, manage BOMs in SAP, and align demand…",
       "url": "https://es.jooble.org/jdp/7827131795059892171",
       "salaryMin": null,
@@ -497,6 +536,19 @@
       "title": "Specialist Supply Chain Network Optimization Emea (M/W/D)",
       "company": "Sika",
       "location": "Madrid",
+      "created": "2026-10-31T02:39:20Z",
+      "description": "Specialist Supply Chain Network Optimization EMEA (m/w/d) Full-time Global Contract type: Permanent Salary Band:  Region: EMEA Area: EMEA Services Global Department: Supply Chain Sika is a specialty chemicals company wit…",
+      "url": "https://www.adzuna.es/details/5947366844?utm_medium=api&utm_source=3c972d9b",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Adzuna",
+      "title": "Specialist Supply Chain Network Optimization Emea (M/W/D)",
+      "company": "Sika",
+      "location": "Madrid",
       "created": "2026-10-30T03:06:26Z",
       "description": "Specialist Supply Chain Network Optimization EMEA (m/w/d)Full-timeGlobal Contract type: PermanentSalary Band: Region: EMEAArea: EMEA ServicesGlobal Department: Supply ChainSika is a specialty chemicals company with a glo…",
       "url": "https://www.adzuna.es/details/5946242839?utm_medium=api&utm_source=3c972d9b",
@@ -533,12 +585,12 @@
       "cat": 23,
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
-      "title": "D&A Supply Chain Data & Planning Specialist",
-      "company": "ALK-Abelló A/S",
+      "title": "Especialista en Compras Logísticas — Negociación (Temporal)",
+      "company": "Metro Ag",
       "location": "Madrid",
-      "created": "2026-10-28T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
-      "url": "https://es.jooble.org/jdp/-8305381542314056300",
+      "created": "2026-10-29T00:00:00.0000000",
+      "description": "&nbsp;...condiciones. \r\n Gestionarásproveedores y referencias  ( altas y desbloqueos ). \r\n A  nivel organizativo  : \r\n Reportarás al Manager de Supply Chain. \r\n No tendrás equipo a cargo. \r\n¿Qué buscamos en ti?\r\n Experie…",
+      "url": "https://es.jooble.org/jdp/2055741523534445232",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -552,6 +604,19 @@
       "created": "2026-10-27T00:00:00.0000000",
       "description": "&nbsp;...ALK-Abelló, A/S is looking for a D&A Process Specialist in Madrid to join their Data & Analytics team. This role focuses on building and supporting the data foundation for Product Supply Planning using SAP techn…",
       "url": "https://es.jooble.org/jdp/1701873412360210838",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Jooble",
+      "title": "D&A Supply Chain Data & Planning Specialist",
+      "company": "ALK-Abelló A/S",
+      "location": "Madrid",
+      "created": "2026-10-28T00:00:00.0000000",
+      "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
+      "url": "https://es.jooble.org/jdp/-8305381542314056300",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -602,7 +667,7 @@
       "what": "demand planning",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 4,
+      "count": 3,
       "returned": 0
     },
     {
@@ -611,83 +676,83 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 3128,
+      "count": 3168,
       "crudos": 30,
-      "returned": 5
+      "returned": 6
     },
     {
       "id": 2,
       "name": "Supply Chain Manager",
       "what": "supply chain manager",
+      "fuente": "Adzuna",
+      "status": 200,
+      "count": 3,
+      "returned": 3
+    },
+    {
+      "id": 2,
+      "name": "Supply Chain Manager",
+      "what": "supply chain manager",
+      "fuente": "Jooble",
+      "status": 200,
+      "count": 200,
+      "crudos": 30,
+      "returned": 6
+    },
+    {
+      "id": 3,
+      "name": "Responsable de Logística",
+      "what": "responsable logistica",
+      "fuente": "Adzuna",
+      "status": 200,
+      "count": 1,
+      "returned": 0
+    },
+    {
+      "id": 3,
+      "name": "Responsable de Logística",
+      "what": "responsable logistica",
+      "fuente": "Jooble",
+      "status": 200,
+      "count": 1193,
+      "crudos": 30,
+      "returned": 6
+    },
+    {
+      "id": 5,
+      "name": "Supply Chain Coordinator",
+      "what": "supply chain coordinator",
+      "fuente": "Adzuna",
+      "status": 503,
+      "count": 0,
+      "error": "<!DOCTYPE html>\n<html>\n<!-- This file is managed by Chef -->\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Uh oh, something isn't right</title>\n        <meta name=\"HandheldFriendly\" content"
+    },
+    {
+      "id": 5,
+      "name": "Supply Chain Coordinator",
+      "what": "supply chain coordinator",
+      "fuente": "Jooble",
+      "status": 200,
+      "count": 200,
+      "crudos": 30,
+      "returned": 1
+    },
+    {
+      "id": 7,
+      "name": "Responsable de Compras",
+      "what": "responsable compras",
       "fuente": "Adzuna",
       "status": 200,
       "count": 4,
       "returned": 1
     },
     {
-      "id": 2,
-      "name": "Supply Chain Manager",
-      "what": "supply chain manager",
-      "fuente": "Jooble",
-      "status": 200,
-      "count": 197,
-      "crudos": 30,
-      "returned": 6
-    },
-    {
-      "id": 3,
-      "name": "Responsable de Logística",
-      "what": "responsable logistica",
-      "fuente": "Adzuna",
-      "status": 200,
-      "count": 2,
-      "returned": 1
-    },
-    {
-      "id": 3,
-      "name": "Responsable de Logística",
-      "what": "responsable logistica",
-      "fuente": "Jooble",
-      "status": 200,
-      "count": 1236,
-      "crudos": 30,
-      "returned": 6
-    },
-    {
-      "id": 5,
-      "name": "Supply Chain Coordinator",
-      "what": "supply chain coordinator",
-      "fuente": "Adzuna",
-      "status": 200,
-      "count": 0,
-      "returned": 0
-    },
-    {
-      "id": 5,
-      "name": "Supply Chain Coordinator",
-      "what": "supply chain coordinator",
-      "fuente": "Jooble",
-      "status": 200,
-      "count": 197,
-      "crudos": 30,
-      "returned": 1
-    },
-    {
-      "id": 7,
-      "name": "Responsable de Compras",
-      "what": "responsable compras",
-      "fuente": "Adzuna",
-      "status": 200,
-      "count": 3,
-      "returned": 0
-    },
-    {
       "id": 7,
       "name": "Responsable de Compras",
       "what": "responsable compras",
       "fuente": "Jooble",
       "status": 200,
-      "count": 197,
+      "count": 200,
       "crudos": 30,
       "returned": 5
     },
@@ -696,9 +761,9 @@
       "name": "Inventory Planning Specialist",
       "what": "inventory planner",
       "fuente": "Adzuna",
-      "status": 200,
+      "status": 503,
       "count": 0,
-      "returned": 0
+      "error": "<!DOCTYPE html>\n<html>\n<!-- This file is managed by Chef -->\n    <head>\n        <meta charset=\"UTF-8\">\n        <title>Uh oh, something isn't right</title>\n        <meta name=\"HandheldFriendly\" content"
     },
     {
       "id": 14,
@@ -706,7 +771,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 132,
+      "count": 134,
       "crudos": 30,
       "returned": 2
     },
@@ -725,7 +790,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 183,
+      "count": 190,
       "crudos": 30,
       "returned": 1
     },
@@ -763,7 +828,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 132,
+      "count": 134,
       "crudos": 30,
       "returned": 1
     },
@@ -773,8 +838,8 @@
       "what": "supply chain specialist",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 3,
-      "returned": 3
+      "count": 4,
+      "returned": 4
     },
     {
       "id": 23,
@@ -782,9 +847,9 @@
       "what": "supply chain specialist",
       "fuente": "Jooble",
       "status": 200,
-      "count": 160,
+      "count": 163,
       "crudos": 30,
-      "returned": 3
+      "returned": 4
     },
     {
       "id": 24,
@@ -801,7 +866,7 @@
       "what": "especialista supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 734,
+      "count": 711,
       "crudos": 30,
       "returned": 2
     }
