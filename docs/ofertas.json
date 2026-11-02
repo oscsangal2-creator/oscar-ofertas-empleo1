@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-02T15:26:05.973Z",
-  "totalOfertas": 47,
+  "actualizado": "2026-11-02T21:25:51.094Z",
+  "totalOfertas": 48,
   "categorias": [
     {
       "id": 1,
@@ -239,7 +239,7 @@
       "location": "Madrid",
       "created": "2026-11-02T13:04:41Z",
       "description": "Se busca un/a Director/a de Operaciones de Outsourcing Logístico en Madrid para liderar la unidad de negocio de Logística & Industrial. La persona responsable impulsará el crecimiento de la vertical, garantizará la excel…",
-      "url": "https://www.adzuna.es/land/ad/5950524450?se=cp26stHW8RGgYNUJWhMofw&utm_medium=api&utm_source=3c972d9b&v=CDE8790144FC3E77CE2F1108EC3162AB1BA7EB19",
+      "url": "https://www.adzuna.es/land/ad/5950524450?se=Kub-9APX8RGI-5bvRsFdrA&utm_medium=api&utm_source=3c972d9b&v=CDE8790144FC3E77CE2F1108EC3162AB1BA7EB19",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -377,12 +377,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable de Administración, Compras y Logística",
-      "company": "Hays",
+      "title": "Responsable de Compras Alimentación Libre Servicio",
+      "company": "Alcampo",
       "location": "Madrid",
-      "created": "2026-10-30T00:00:00.0000000",
-      "description": "&nbsp;...Misión del puesto  Responsabilizarse de la gestión administrativa, financiera básica, compras, proveedores, almacén y control de stock, garantizando la correcta utilización de SAP Business One y la optimización …",
-      "url": "https://es.jooble.org/jdp/1714888248254824702",
+      "created": "2026-10-30T09:35:06.8800000",
+      "description": "&nbsp;...desarrollo del talento de todas y cada una de las personas de la empresa. \r\n Si eres la persona seleccionada, tu misión como Responsable de Compras será seleccionar a los proveedores del mercado asignado y negoc…",
+      "url": "https://es.jooble.org/jdp/-2289323845363584774",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -390,12 +390,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Jooble",
-      "title": "Responsable de Compras Alimentación Libre Servicio",
-      "company": "Alcampo",
+      "title": "Responsable de Administración, Compras y Logística",
+      "company": "Hays",
       "location": "Madrid",
-      "created": "2026-10-30T09:35:06.8800000",
-      "description": "&nbsp;...desarrollo del talento de todas y cada una de las personas de la empresa. \r\n Si eres la persona seleccionada, tu misión como Responsable de Compras será seleccionar a los proveedores del mercado asignado y negoc…",
-      "url": "https://es.jooble.org/jdp/-2289323845363584774",
+      "created": "2026-10-30T00:00:00.0000000",
+      "description": "&nbsp;...Misión del puesto  Responsabilizarse de la gestión administrativa, financiera básica, compras, proveedores, almacén y control de stock, garantizando la correcta utilización de SAP Business One y la optimización …",
+      "url": "https://es.jooble.org/jdp/1714888248254824702",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -422,6 +422,19 @@
       "created": "2026-10-29T00:00:00.0000000",
       "description": "&nbsp;...Proffetional, empresa multinacional del Grupo Proffetional, busca un/a Responsable de Compras de Obras para formar parte del equipo. Diseñamos, construimos y gestionamos la compra e instalación del mobiliario pa…",
       "url": "https://es.jooble.org/jdp/-7046098444053007632",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 7,
+      "catName": "Responsable de Compras",
+      "fuente": "Jooble",
+      "title": "Jefe/a | responsable compras con inglés",
+      "company": "Doméstiko.com",
+      "location": "Fuenlabrada, Comunidad de Madrid",
+      "created": "2026-09-14T13:47:41.9000000",
+      "description": "En Fuenlabrada, Madrid, se busca una persona para liderar el área de compras en una empresa del sector de ventas al por mayor. Entre las labores principales, se incluye analizar las necesidades del negocio, elaborar plan…",
+      "url": "https://es.jooble.org/jdp/-2620843643228257898",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -754,7 +767,7 @@
       "status": 200,
       "count": 200,
       "crudos": 30,
-      "returned": 5
+      "returned": 6
     },
     {
       "id": 14,
@@ -771,7 +784,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 148,
+      "count": 147,
       "crudos": 30,
       "returned": 3
     },
@@ -828,7 +841,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 148,
+      "count": 147,
       "crudos": 30,
       "returned": 1
     },
