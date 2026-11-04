@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T14:12:42.054Z",
+  "actualizado": "2026-11-04T19:24:25.897Z",
   "totalOfertas": 46,
   "categorias": [
     {
@@ -213,7 +213,7 @@
       "location": "Madrid",
       "created": "2026-11-02T13:04:41Z",
       "description": "Se busca un/a Director/a de Operaciones de Outsourcing Logístico en Madrid para liderar la unidad de negocio de Logística & Industrial. La persona responsable impulsará el crecimiento de la vertical, garantizará la excel…",
-      "url": "https://www.adzuna.es/land/ad/5950524450?se=YKjTxlnY8RGzzrVppzF3wg&utm_medium=api&utm_source=3c972d9b&v=CDE8790144FC3E77CE2F1108EC3162AB1BA7EB19",
+      "url": "https://www.adzuna.es/land/ad/5950524450?se=GDP9UYXY8RGCm8pNBtrhDA&utm_medium=api&utm_source=3c972d9b&v=CDE8790144FC3E77CE2F1108EC3162AB1BA7EB19",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -315,9 +315,9 @@
       "title": "Supply Chain Coordinator - líder en medicina estética",
       "company": "Michael Page",
       "location": "Madrid",
-      "created": "2026-10-15T00:00:00.0000000",
+      "created": "2026-10-31T00:00:00.0000000",
       "description": "&nbsp;...de experiencia    El candidato/a se responsabilizará de: \r\n- Coordinar las actividades de suministro de producto dentro de la región...&nbsp;&nbsp;...entre los stakeholders regionales y los equipos globales de S…",
-      "url": "https://es.jooble.org/jdp/-8977187376149936533",
+      "url": "https://es.jooble.org/jdp/6098922486946734830",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -586,6 +586,19 @@
       "catName": "Supply Chain Specialist",
       "fuente": "Jooble",
       "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
+      "company": "ALK-Abelló Nordic",
+      "location": "Madrid",
+      "created": "2026-11-03T00:00:00.0000000",
+      "description": "&nbsp;...ALK-Abelló Nordic, a leader in allergy treatments, is seeking a D&A Process Specialist within Global IT. This role involves supporting the data foundation for Product Supply Planning and ensuring the accuracy of…",
+      "url": "https://es.jooble.org/jdp/4954228212323915616",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 23,
+      "catName": "Supply Chain Specialist",
+      "fuente": "Jooble",
+      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
       "company": "ALK-Abelló, A/S",
       "location": "Madrid",
       "created": "2026-11-01T00:00:00.0000000",
@@ -604,19 +617,6 @@
       "created": "2026-11-02T00:00:00.0000000",
       "description": "&nbsp;...ALK-Abelló A/S is seeking a D&A Process Specialist – Supply Chain Data & Planning to join Global IT, based in Madrid. You will design and support planning data products in SAP Datasphere and enable data flows fr…",
       "url": "https://es.jooble.org/jdp/-8305381542314056300",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 23,
-      "catName": "Supply Chain Specialist",
-      "fuente": "Jooble",
-      "title": "Supply Chain Data & Planning Specialist - SAP/Kinaxis",
-      "company": "ALK-Abelló Nordic",
-      "location": "Madrid",
-      "created": "2026-11-03T00:00:00.0000000",
-      "description": "&nbsp;...ALK-Abelló Nordic, a leader in allergy treatments, is seeking a D&A Process Specialist within Global IT. This role involves supporting the data foundation for Product Supply Planning and ensuring the accuracy of…",
-      "url": "https://es.jooble.org/jdp/4954228212323915616",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -663,7 +663,7 @@
       "what": "demand planning",
       "fuente": "Jooble",
       "status": 200,
-      "count": 3848,
+      "count": 3732,
       "crudos": 30,
       "returned": 6
     },
@@ -682,7 +682,7 @@
       "what": "supply chain manager",
       "fuente": "Jooble",
       "status": 200,
-      "count": 251,
+      "count": 252,
       "crudos": 30,
       "returned": 6
     },
@@ -720,7 +720,7 @@
       "what": "supply chain coordinator",
       "fuente": "Jooble",
       "status": 200,
-      "count": 251,
+      "count": 252,
       "crudos": 30,
       "returned": 2
     },
@@ -739,7 +739,7 @@
       "what": "responsable compras",
       "fuente": "Jooble",
       "status": 200,
-      "count": 251,
+      "count": 252,
       "crudos": 30,
       "returned": 6
     },
@@ -758,7 +758,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 167,
+      "count": 169,
       "crudos": 30,
       "returned": 3
     },
@@ -777,7 +777,7 @@
       "what": "data analyst supply chain",
       "fuente": "Jooble",
       "status": 200,
-      "count": 238,
+      "count": 244,
       "crudos": 30,
       "returned": 1
     },
@@ -815,7 +815,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 167,
+      "count": 169,
       "crudos": 30,
       "returned": 1
     },
