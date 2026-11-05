@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-11-05T14:27:29.813Z",
-  "totalOfertas": 49,
+  "actualizado": "2026-11-05T19:32:10.998Z",
+  "totalOfertas": 52,
   "categorias": [
     {
       "id": 1,
@@ -57,7 +57,20 @@
       "location": "Madrid",
       "created": "2026-11-05T13:12:06Z",
       "description": "Dar soporte al equipo de Demand Planning en el seguimiento y análisis de las previsiones de demanda, contribuyendo a asegurar la disponibilidad de producto y una correcta planificación de inventarios. Colaborará con las …",
-      "url": "https://www.adzuna.es/details/5954165995?utm_medium=api&utm_source=3c972d9b",
+      "url": "https://www.adzuna.es/land/ad/5954165995?se=APYCkE_Z8RGR55Boxb9MQQ&utm_medium=api&utm_source=3c972d9b&v=A305E3E98F9F56E5FB386D174D2CAE3A45EFEB51",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 1,
+      "catName": "Demand Planning Manager",
+      "fuente": "Adzuna",
+      "title": "Partner Operations Manager, Amazon PARP",
+      "company": "Amazon España",
+      "location": "Madrid",
+      "created": "2026-11-05T13:10:40Z",
+      "description": "This role can be based in Madrid or London. The Partner Operations Manager (Inventory & Finance) owns hardware sourcing, demand planning, inventory lifecycle management, and financial planning for Amazon Hub PARP across …",
+      "url": "https://www.adzuna.es/land/ad/5954155062?se=APYCkE_Z8RGR55Boxb9MQQ&utm_medium=api&utm_source=3c972d9b&v=8D00F66B9B4C60CA068DF9C04127A46BCAD8AD07",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -143,12 +156,12 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Adzuna",
-      "title": "Senior Application Product Manager - Supply Chain - Procurement",
-      "company": "Celonis",
+      "title": "Senior Manager Supply Chain & Engineering / Automotive",
+      "company": "Accenture España",
       "location": "Madrid",
-      "created": "2026-11-05T13:10:39Z",
-      "description": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise th…",
-      "url": "https://www.adzuna.es/details/5954154920?utm_medium=api&utm_source=3c972d9b",
+      "created": "2026-11-05T13:13:28Z",
+      "description": "Accenture es una empresa de reinvención empresarial y tecnológica. Nuestra ambición es ser el socio de referencia de nuestros clientes en sus procesos de reinvención, liderar la adopción segura y generalizada de la intel…",
+      "url": "https://www.adzuna.es/land/ad/5954173170?se=ELzMkE_Z8RGfyN3H3ce7sQ&utm_medium=api&utm_source=3c972d9b&v=F67AF6F9E014BD5CFD3F1B271F5D0806325FC1CD",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -156,12 +169,25 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Adzuna",
-      "title": "Clinical Supply Chain Manager",
-      "company": "IQVIA",
+      "title": "Supply Chain Manager Intern- 6M ESP",
+      "company": "Amazon",
       "location": "Madrid",
-      "created": "2026-11-05T13:10:29Z",
-      "description": "Step into a role where strategy meets impact. As a Clinical Supply Chain Manager , you will shape and drive the end-to-end supply strategy for new clinical trials. Using your ability to translate complex study protocols …",
-      "url": "https://www.adzuna.es/details/5954153459?utm_medium=api&utm_source=3c972d9b",
+      "created": "2026-11-05T13:11:58Z",
+      "description": "Description ROLES AVAILABLE IN MADRID AND BARCELONA There’s a universe of opportunity at Amazon. At Amazon, your career doesn’t follow a straight line. It accelerates, twists, and challenges you in ways you never expecte…",
+      "url": "https://www.adzuna.es/land/ad/5954165372?se=ELzMkE_Z8RGfyN3H3ce7sQ&utm_medium=api&utm_source=3c972d9b&v=C343B092452B1E3A501754F4A1EC6D4BC9190424",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 2,
+      "catName": "Supply Chain Manager",
+      "fuente": "Adzuna",
+      "title": "Supply Chain Manager Intern- 6M ESP",
+      "company": "Amazon España",
+      "location": "Madrid",
+      "created": "2026-11-05T13:11:57Z",
+      "description": "ROLES AVAILABLE IN MADRID AND BARCELONA There’s a universe of opportunity at Amazon. At Amazon, your career doesn’t follow a straight line. It accelerates, twists, and challenges you in ways you never expected. From the …",
+      "url": "https://www.adzuna.es/land/ad/5954165250?se=ELzMkE_Z8RGfyN3H3ce7sQ&utm_medium=api&utm_source=3c972d9b&v=DDD6A6A3EF92CAB2A960647B283486C7762191B9",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -247,12 +273,25 @@
       "cat": 3,
       "catName": "Responsable de Logística",
       "fuente": "Adzuna",
+      "title": "Bus Commercial Planning & Logistic",
+      "company": "Iveco Group",
+      "location": "Madrid",
+      "created": "2026-11-05T13:10:58Z",
+      "description": "Sobre el Rol La persona seleccionada será responsable de la gestión logística y comercial de la gama Iveco Bus, asegurando el soporte preciso al negocio y adecuándo las necesidades comerciales, previendo escenarios comer…",
+      "url": "https://www.adzuna.es/land/ad/5954158106?se=uguMkU_Z8RGR55Boxb9MQQ&utm_medium=api&utm_source=3c972d9b&v=92F4AF3697BB52DC6DEC76F115958E37AF4B1CF4",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 3,
+      "catName": "Responsable de Logística",
+      "fuente": "Adzuna",
       "title": "RESPONSABLE DE LOGÍSTICA CON DISCAPACIDAD (H/M/D) ARROYOMOLINOS",
       "company": "Ilunion",
       "location": "Madrid",
       "created": "2026-11-05T13:09:42Z",
       "description": "PUESTO: RESPONSABLE DE LOGÍSTICA CON DISCAPACIDAD (H/M/D) ARROYOMOLINOS FECHA: 12 ago 2026 POBLACIÓN: Madrid SOCIEDAD: ILUNION SERVICIOS INDUSTRIALES ID: 37453 TIPO DE UBICACIÓN: Presencial RESPONSABLE DE LOGÍSTICA CON D…",
-      "url": "https://www.adzuna.es/details/5954148404?utm_medium=api&utm_source=3c972d9b",
+      "url": "https://www.adzuna.es/land/ad/5954148404?se=uguMkU_Z8RGR55Boxb9MQQ&utm_medium=api&utm_source=3c972d9b&v=DF4362F7F54BB2C6B3C650DA32D0D14E9661136D",
       "salaryMin": 24357,
       "salaryMax": 24357
     },
@@ -273,12 +312,12 @@
       "cat": 3,
       "catName": "Responsable de Logística",
       "fuente": "Jooble",
-      "title": "Responsable de logística",
+      "title": "Jefe/a | responsable logística",
       "company": "Doméstiko.com",
-      "location": "Arroyomolinos, Comunidad de Madrid",
-      "created": "2026-09-13T00:00:00.0000000",
-      "description": "El puesto se centra en la organización y coordinación de un equipo dentro de un entorno logístico en Arroyomolinos. La persona encargada deberá planificar las tareas diarias y hacer un seguimiento cercano del rendimiento…",
-      "url": "https://es.jooble.org/jdp/-8823056171216468944",
+      "location": "Meco, Comunidad de Madrid",
+      "created": "2026-09-24T00:00:00.0000000",
+      "description": "Se busca responsable de logística para trabajar en Meco, con jornada completa de 40 horas semanales. La persona seleccionada se encargará de planificar, controlar y hacer seguimiento de la operativa mediante indicadores,…",
+      "url": "https://es.jooble.org/jdp/269406109363742749",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -286,12 +325,12 @@
       "cat": 3,
       "catName": "Responsable de Logística",
       "fuente": "Jooble",
-      "title": "Jefe/a | responsable logística",
+      "title": "Responsable de logística",
       "company": "Doméstiko.com",
-      "location": "Meco, Comunidad de Madrid",
-      "created": "2026-09-24T00:00:00.0000000",
-      "description": "Se busca responsable de logística para trabajar en Meco, con jornada completa de 40 horas semanales. La persona seleccionada se encargará de planificar, controlar y hacer seguimiento de la operativa mediante indicadores,…",
-      "url": "https://es.jooble.org/jdp/269406109363742749",
+      "location": "Arroyomolinos, Comunidad de Madrid",
+      "created": "2026-09-13T00:00:00.0000000",
+      "description": "El puesto se centra en la organización y coordinación de un equipo dentro de un entorno logístico en Arroyomolinos. La persona encargada deberá planificar las tareas diarias y hacer un seguimiento cercano del rendimiento…",
+      "url": "https://es.jooble.org/jdp/-8823056171216468944",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -364,25 +403,12 @@
       "cat": 7,
       "catName": "Responsable de Compras",
       "fuente": "Adzuna",
-      "title": "Jefe de área producto marca propia",
-      "company": "AdQualis",
-      "location": "Madrid",
-      "created": "2026-10-30T09:29:59Z",
-      "description": "Responsable de Compras de Marca Propia Madrid · Central de compras de gran distribución La compañía Una de las principales centrales de compra y servicios de la distribución en España. Da servicio a una amplia red de emp…",
-      "url": "https://www.adzuna.es/details/5946679057?utm_medium=api&utm_source=3c972d9b",
-      "salaryMin": null,
-      "salaryMax": null
-    },
-    {
-      "cat": 7,
-      "catName": "Responsable de Compras",
-      "fuente": "Jooble",
       "title": "Responsable de Compras Alimentación Libre Servicio",
       "company": "Alcampo",
       "location": "Madrid",
-      "created": "2026-10-30T09:35:06.8800000",
-      "description": "&nbsp;...desarrollo del talento de todas y cada una de las personas de la empresa. \r\n Si eres la persona seleccionada, tu misión como Responsable de Compras será seleccionar a los proveedores del mercado asignado y negoc…",
-      "url": "https://es.jooble.org/jdp/-2289323845363584774",
+      "created": "2026-11-05T13:13:19Z",
+      "description": "En Alcampo creemos en la fuerza de las personas para transformar el mundo y queremos que quienes trabajan en Alcampo vivan en un ambiente propicio para hacerlo, por eso apostamos por el aprendizaje, la innovación y el de…",
+      "url": "https://www.adzuna.es/land/ad/5954171767?se=PMNBk0_Z8RG4vr3URdSNKw&utm_medium=api&utm_source=3c972d9b&v=F76744B2E9ABB8107ACE41803FDB5BE97700FC36",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -396,6 +422,19 @@
       "created": "2026-10-30T00:00:00.0000000",
       "description": "&nbsp;...Misión del puesto  Responsabilizarse de la gestión administrativa, financiera básica, compras, proveedores, almacén y control de stock, garantizando la correcta utilización de SAP Business One y la optimización …",
       "url": "https://es.jooble.org/jdp/1714888248254824702",
+      "salaryMin": null,
+      "salaryMax": null
+    },
+    {
+      "cat": 7,
+      "catName": "Responsable de Compras",
+      "fuente": "Jooble",
+      "title": "Responsable de Compras Alimentación Libre Servicio",
+      "company": "Alcampo",
+      "location": "Madrid",
+      "created": "2026-10-30T09:35:06.8800000",
+      "description": "&nbsp;...desarrollo del talento de todas y cada una de las personas de la empresa. \r\n Si eres la persona seleccionada, tu misión como Responsable de Compras será seleccionar a los proveedores del mercado asignado y negoc…",
+      "url": "https://es.jooble.org/jdp/-2289323845363584774",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -577,7 +616,7 @@
       "location": "Madrid",
       "created": "2026-11-05T13:08:47Z",
       "description": "Who You Will Work With Driving lasting impact and building long-term capabilities with our clients is not easy work. You are the kind of person who thrives in a high performance/high reward culture - doing hard things, p…",
-      "url": "https://www.adzuna.es/details/5954145040?utm_medium=api&utm_source=3c972d9b",
+      "url": "https://www.adzuna.es/land/ad/5954145040?se=jLo8l0_Z8RGbcMICoEvUuw&utm_medium=api&utm_source=3c972d9b&v=17409A978B4F999B88E99B8916697C69B231EFED",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -693,8 +732,8 @@
       "what": "demand planning",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 24,
-      "returned": 1
+      "count": 27,
+      "returned": 2
     },
     {
       "id": 1,
@@ -712,8 +751,8 @@
       "what": "supply chain manager",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 17,
-      "returned": 2
+      "count": 24,
+      "returned": 3
     },
     {
       "id": 2,
@@ -732,7 +771,7 @@
       "fuente": "Adzuna",
       "status": 200,
       "count": 10,
-      "returned": 1
+      "returned": 2
     },
     {
       "id": 3,
@@ -769,7 +808,7 @@
       "what": "responsable compras",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 8,
+      "count": 11,
       "returned": 1
     },
     {
@@ -845,7 +884,7 @@
       "what": "planificador de demanda",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 6,
+      "count": 11,
       "returned": 0
     },
     {
