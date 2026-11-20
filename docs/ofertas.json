@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T19:38:27.851Z",
+  "actualizado": "2026-11-20T23:38:35.135Z",
   "totalOfertas": 51,
   "categorias": [
     {
@@ -234,12 +234,12 @@
       "cat": 2,
       "catName": "Supply Chain Manager",
       "fuente": "Jooble",
-      "title": "Supply Chain Quality Manager M/F Microwave Instruments for SpS",
-      "company": "Airbus",
+      "title": "SCQM - Supply Chain and Quality Manager - Aerostructures Doors",
+      "company": "2916 Airbus Operations SL",
       "location": "Getafe, Comunidad de Madrid",
       "created": "2026-11-17T00:00:00.0000000",
-      "description": "&nbsp;...Job Description: An opportunity for an Supply Chain and Quality Manager to procure satellite payload equipment for our Telecoms & Navigation, Earth...&nbsp;&nbsp;...activities and contract management and as amba…",
-      "url": "https://es.jooble.org/jdp/-5750512355966033098",
+      "description": "&nbsp;...Introduction \r\n Job Description: Introduction An opportunity for a Supply Chain and Quality Manager has arisen within Airbus Operations, Getafe (Madrid)....&nbsp;&nbsp;...team. The department is in charge of dri…",
+      "url": "https://es.jooble.org/jdp/-5948492467239866274",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -274,11 +274,11 @@
       "catName": "Responsable de Logística",
       "fuente": "Jooble",
       "title": "Jefe/a | responsable de almacén",
-      "company": "EUROFIRMS GROUP",
+      "company": "Eurofirms Group",
       "location": "San Fernando de Henares, Comunidad de Madrid",
-      "created": "2026-11-20T15:00:50.4830000",
-      "description": "&nbsp;...Desde Eurofirms buscamos un/a Supervisor/a de Almacén para una importante nave del sector de la logística con ubicación en San Fernando de Henares (Madrid). \r\n Las tareas a realizar serán las siguientes: \r\n Supe…",
-      "url": "https://es.jooble.org/jdp/-2310412970720891571",
+      "created": "2026-11-16T16:08:33.6730000",
+      "description": "&nbsp;...Desde Eurofirms buscamos un/a Supervisor/a de Almacén para una importante nave del sector de la logística con ubicación en San Fernando de Henares (Madrid). \nLas tareas a realizar serán las siguientes:\n- Supervi…",
+      "url": "https://es.jooble.org/jdp/7598009118113866863",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -512,7 +512,7 @@
       "location": "Madrid",
       "created": "2026-11-18T16:57:43Z",
       "description": "Job Description Are You Ready to Make It Happen at Mondelēz International? Join our Mission to Lead the Future of Snacking. Make It Possible. We are looking for an experienced Demand Planner to join our Iberia Demand Pla…",
-      "url": "https://www.adzuna.es/land/ad/5970493598?se=8Fry8hnl8RG5w56ygLr02g&utm_medium=api&utm_source=3c972d9b&v=9618DCF064971677494997F007FE594994A7906F",
+      "url": "https://www.adzuna.es/land/ad/5970493598?se=qKUpfjvl8RGK1Jozpv_WtA&utm_medium=api&utm_source=3c972d9b&v=9618DCF064971677494997F007FE594994A7906F",
       "salaryMin": null,
       "salaryMax": null
     },
@@ -795,7 +795,7 @@
       "what": "responsable compras",
       "fuente": "Adzuna",
       "status": 200,
-      "count": 8,
+      "count": 9,
       "returned": 0
     },
     {
@@ -823,7 +823,7 @@
       "what": "inventory planner",
       "fuente": "Jooble",
       "status": 200,
-      "count": 160,
+      "count": 163,
       "crudos": 30,
       "returned": 2
     },
@@ -880,7 +880,7 @@
       "what": "planificador de demanda",
       "fuente": "Jooble",
       "status": 200,
-      "count": 160,
+      "count": 163,
       "crudos": 30,
       "returned": 1
     },
